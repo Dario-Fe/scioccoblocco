@@ -123,8 +123,8 @@ la via dell'andata, non credo che vi servano anche le indicazioni
 per il ritorno, in fondo avete lasciato le briciole di pane
 lungo la via, vero?????
 
-Escursionista
-di giornata: Fabrizio.
+**Escursionista
+di giornata: Fabrizio.**
 
 
 

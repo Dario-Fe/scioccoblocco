@@ -52,11 +52,11 @@ Lo sguardo si apre da sinistra a destra sulla Val di Basso, il Pizzo Ragno, La S
 Qui all'Alpe Cortino vi è il rifugio NIGRITELLA  di Melini Giordano
 tel. 0324 92456 6 posti letto .
 
-Subito dietro l'alpeggio parte il sentiero tenere quello sulla destra, si rientra nel bosco e la salita si fa impegnativa, alla nostra sinistra ci fa compagnia la Valle Vigezzo con i suoi piccoli centri.
+Subito dietro l'alpeggio parte il sentiero tenere quello sulla destra, si rientra nel bosco e la salita si fa impegnativa, alla nostra sinistra ci fa compagnia la **Valle Vigezzo** con i suoi piccoli centri.
 
 Al bivio seguire il colore rosso e il sentiero sulla destra.
 
-Sempre su pendenze impegnative usciamo dal bosco e raggiungiamo su larghi prati La Cima (1810m) (1.50/2.00h).
+Sempre su pendenze impegnative usciamo dal bosco e raggiungiamo su larghi prati **La Cima** (1810m) (1.50/2.00h).
 
 ![](images_18/loana_lacima.jpg)
 
@@ -70,7 +70,7 @@ Risaliamo quindi sempre in cresta, su ripidi prati scoperti che il sole può ren
 
 ![](images_18/loana_testamater.jpg)
 
-Sotto di noi alla sinistra verso est si apre la Val Cannobina, con Finero, una miriade di alpeggi sparsi sui due lati della valle e la traccia della carrozzabile che scende verso il lago Maggiore.
+Sotto di noi alla sinistra verso est si apre la Val Cannobina, con Finero, una miriade di alpeggi sparsi sui due lati della valle e la traccia della carrozzabile che scende verso il l**ago Maggiore**.
 
 Mentre sulla destra di  nuovo la Val di Basso, e quasi di fronte, seguendo la dorsale percorsa, ancora la Val Loana, con il loro alpeggi e il fiume che scorre giù in fondo.
 
@@ -94,15 +94,15 @@ In principio allo scoperto dove superiamo alcuni ruderi dell'Alpe Forcola, poi a
 
 E' questa la località dove finisce la strada asfaltata e partono i sentieri per l'alta valle.
 
-La Valle Loana, con il suo fiume che la divide a meta', costituisce una delle zone piu' belle della Valle Vigezzo, in particolar modo per la sua conformazione, e per la sua posizione, che si caratterizza per le sue cime.
+La **Valle Loana**, con il suo fiume che la divide a meta', costituisce una delle zone piu' belle della **Valle Vigezzo**, in particolar modo per la sua conformazione, e per la sua posizione, che si caratterizza per le sue cime.
 
-La Valle Loana, con le sue fornaci, ed i suoi boschi che hanno fornito di legname la Valle Vigezzo, e arredato la residenza borromea all’isola Bella, sul lago Maggiore, una valle dove anche qui il tempo ha lasciato il segno di un passato ricco di eventi calamitosi devastanti, che ne hanno solcato il verde pascolo, ma che non sono comunque riusciti a cancellarne ed a nasconderne la bellezza unica ed esclusiva.
+La **Valle Loana**, con le sue fornaci, ed i suoi boschi che hanno fornito di legname la **Valle Vigezzo**, e arredato la residenza borromea all’**isola Bella**, sul l**ago Maggiore**, una valle dove anche qui il tempo ha lasciato il segno di un passato ricco di eventi calamitosi devastanti, che ne hanno solcato il verde pascolo, ma che non sono comunque riusciti a cancellarne ed a nasconderne la bellezza unica ed esclusiva.
 
 Una valle, al centro dell’ interesse locale ove le amministrazioni pubbliche, hanno dedicato particolare riguardo all’ambiente.
 
 Non e' un fatto strano, essere accolti all’ imbocco della valle dalle sue stupende bovine di razza "Bruna", che pascolano indisturbate sul meraviglioso tappeto verde.
 
-L’agriturismo,aperto dal mese di giugno, al mese di settembre, ha una capacità ricettiva di 40 posti, e permette al turista di assaporare i piaceri della cucina vigezzina: il formaggio ossolano, il prosciutto tipico vigezzino, la polenta vigezzina, e specialità locali cucinate secondo una antica tradizione gastronomica.
+L’agriturismo,aperto dal mese di giugno, al mese di settembre, ha una capacità ricettiva di 40 posti, e permette al turista di assaporare i piaceri della **cucina vigezzina**: il formaggio ossolano, il prosciutto tipico vigezzino, la polenta vigezzina, e specialità locali cucinate secondo una antica tradizione gastronomica.
 
 Prendiamo ora la strada carrabile, e con un paio di chilometri ammirando lo scorrere dell torrente Loana con le sue cascatelle, torniamo a Patqueso (4.30/5.00h) dove abbiamo lasciato l'auto.
 

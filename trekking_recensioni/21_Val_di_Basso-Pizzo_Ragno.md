@@ -13,27 +13,27 @@ come_raggiungere: |
    Raggiunto Malesco attraversare il paese e all’uscita dopo la chiesa prendere al bivio a destra. 
    Circa a metà strada della Val Loana nei pressi di Patqueso si parcheggiano le vetture.
 ---
-Arrivati in località ***Patqueso*** ( 1108m ) circa a metà strada della ***Val Loana*** dove la strada non è certo larga ma un paio di piccole piazzole naturali permettono di lasciare tre quattro macchine, noteremo che sul lato destro della strada vi sono alcuni cartelli che indicano l’imbocco di alcuni sentieri. Quello che interessa a noi è il sentiero per il*** Pizzo Ragno***.
+Arrivati in località **Patqueso** ( 1108m ) circa a metà strada della **Val Loana** dove la strada non è certo larga ma un paio di piccole piazzole naturali permettono di lasciare tre quattro macchine, noteremo che sul lato destro della strada vi sono alcuni cartelli che indicano l’imbocco di alcuni sentieri. Quello che interessa a noi è il sentiero per il **Pizzo Ragno**.
 
 ![pizzoragno_cartina.jpg](images_21/pizzoragno_cartina.jpg)
 
-Dal ciglio della strada, un sentiero scende al ***torrente Loana*** in corrispondenza di una bella cascata sorvegliata da una caratteristica baita, sopra belle pozze d' acqua e attraversato il ponte ci si trova all'***alpe dei Crott*** ( 1030 m) (10min) (sulla sinistra il cantinino per il latte ed il formaggio).
+Dal ciglio della strada, un sentiero scende al **torrente Loana** in corrispondenza di una bella cascata sorvegliata da una caratteristica baita, sopra belle pozze d' acqua e attraversato il ponte ci si trova all'**alpe dei Crott** ( 1030 m) (10min) (sulla sinistra il cantinino per il latte ed il formaggio).
 
 ![pizzoragno_crott.jpg](images_21/pizzoragno_crott.jpg)
 
-Subito dopo attraverso un altro ponte attraversiamo il torrente ** di Basso**, qui lasciamo il sentiero che a destra torna a *Malesco* e prendiamo il sentiero che a sinistra si inoltra nella Val di Basso. Da qui, seguiamo la bella mulattiera che con percorso in lieve pendenza attraversa le varie baite dell'**alpe di Basso** ( 1150m )(30min).
+Subito dopo attraverso un altro ponte attraversiamo il torrente  **di Basso**, qui lasciamo il sentiero che a destra torna a *Malesco* e prendiamo il sentiero che a sinistra si inoltra nella Val **di Basso**. Da qui, seguiamo la bella mulattiera che con percorso in lieve pendenza attraversa le varie baite dell'**alpe di Basso** ( 1150m )(30min).
 
 ![pizzoragno_basso.jpg](images_21/pizzoragno_basso.jpg)
 
-La Val di Basso e i suoi alpeggi sono tra i pochi ancora caricati dagli alpigiani della Val Vigezzo, e se come è capitato a noi passate da queste parti tra gli ultimi giorni di maggio e i primi di giugno, potreste incappare tra mandrie di mucche e capre che vengono portate ai vari alpeggi, e un elicottero che rifornisce di viveri e utensili gli alpigiani per la stagione. Proseguiamo con ascesa costante ma abbordabile, addentrandoci nella valle, superiamo alcuni ruderi di una antica fornace per la cottura della calce, quindi attraversiamo il rio dell'Erta, e in breve raggiungiamo l'Alpe Erta (1279m) (50/60min).
+La Val **di Basso** e i suoi alpeggi sono tra i pochi ancora caricati dagli alpigiani della Val Vigezzo, e se come è capitato a noi passate da queste parti tra gli ultimi giorni di maggio e i primi di giugno, potreste incappare tra mandrie di mucche e capre che vengono portate ai vari alpeggi, e un elicottero che rifornisce di viveri e utensili gli alpigiani per la stagione. Proseguiamo con ascesa costante ma abbordabile, addentrandoci nella valle, superiamo alcuni ruderi di una antica fornace per la cottura della calce, quindi attraversiamo il rio dell'Erta, e in breve raggiungiamo l'Alpe Erta (1279m) (50/60min).
 
 ![pizzoragno_erta.jpg](images_21/pizzoragno_erta.jpg)
 
-Qui all'Alpe Erta sparsa su tre nuclei, dietro a quello superiore, dove vi sono posti dei cartelli segnalatori e anche un posto di sosta, prendiamo il sentiero che sale sopra l'alpe ed entriamo nel bel faggeto ( bosco ceduo che da il nome al rifugio ) qui la salita si fa impegnativa, la mulattiera con larghi tornanti sbuca dal bosco nei pressi di un tavolo con panche che ci permetterà di rifiatare dalla fatica appena fatta. Alzando lo sguardo sopra di noi possiamo già vedere il prato dell'***alpe Cedo***, dove a meta' sulla destra e' posto il ***rifugio Al Cedo*** al quale abbiamo dedicato una recensione ([recensione Al Cedo](http://www.scioccoblocco.com/recensioni/rifugiocedo.htm)) (per accedere al rifugio richiedere preventivamente le chiavi in sede). Ancora qualche minuto di dura salita ed eccoci al rifugio Al Cedo (1560m)(1:30h).
+Qui all'Alpe Erta sparsa su tre nuclei, dietro a quello superiore, dove vi sono posti dei cartelli segnalatori e anche un posto di sosta, prendiamo il sentiero che sale sopra l'alpe ed entriamo nel bel faggeto ( bosco ceduo che da il nome al rifugio ) qui la salita si fa impegnativa, la mulattiera con larghi tornanti sbuca dal bosco nei pressi di un tavolo con panche che ci permetterà di rifiatare dalla fatica appena fatta. Alzando lo sguardo sopra di noi possiamo già vedere il prato dell'**alpe Cedo**, dove a meta' sulla destra e' posto il **rifugio Al Cedo** al quale abbiamo dedicato una recensione ([recensione Al Cedo](http://www.scioccoblocco.com/recensioni/rifugiocedo.htm)) (per accedere al rifugio richiedere preventivamente le chiavi in sede). Ancora qualche minuto di dura salita ed eccoci al **rifugio Al Cedo** (1560m)(1:30h).
 
 ![pizzoragno_cedo.jpg](images_21/pizzoragno_cedo.jpg)
 
-Il ***rifugio Al Cedo*** ( 1560m ) di proprietà del C.A.I. Vigezzo è senza ombra di dubbio il più bello della zona, con i suoi 22 posti letto divisi in due stanze, una da 8 e una da 14 dotate di coperte, ricavate nel sottotetto ben isolato, la sua cucina completa, i servizi igienici, un ripostiglio, e l’ampio locale centrale riscaldato da una antica stufa in ghisa e la bella fontana posta all’ingresso, ne fanno un vero gioiello incastonato in questo angolo delle ** *Alpi Lepontine***. Un ampia terrazza si apre sulla ***Val Loana*** che taglia lo sguardo orizzontalmente mentre alla nostra destra possiamo vedere il bivacco dell’***alpe Bondolo***, vera e propria porta alla ** *Val Grande***, che da il suo annuncio con il ***Pizzo Stagno ***e il ***Pizzo dei Diosi ***.
+Il **rifugio Al Cedo** ( 1560m ) di proprietà del C.A.I. Vigezzo è senza ombra di dubbio il più bello della zona, con i suoi 22 posti letto divisi in due stanze, una da 8 e una da 14 dotate di coperte, ricavate nel sottotetto ben isolato, la sua cucina completa, i servizi igienici, un ripostiglio, e l’ampio locale centrale riscaldato da una antica stufa in ghisa e la bella fontana posta all’ingresso, ne fanno un vero gioiello incastonato in questo angolo delle  **Alpi Lepontine**. Un ampia terrazza si apre sulla **Val Loana** che taglia lo sguardo orizzontalmente mentre alla nostra destra possiamo vedere il bivacco dell’**alpe Bondolo**, vera e propria porta alla  **Val Grande**, che da il suo annuncio con il **Pizzo Stagno** e il **Pizzo dei Diosi** .
 
 ![pizzoragno_bondolo.jpg](images_21/pizzoragno_bondolo.jpg)
 
@@ -45,7 +45,7 @@ L'Alpe Al Geccio è caratterizzato da una lunga baita in parte ristrutturata, ch
 
 ![pizzoragno_ragno.jpg](images_21/pizzoragno_ragno.jpg)
 
-Seguiamo una traiettoria tra magri prati e rocce, ormai a quota 2000m, e arriviamo nella conca che con una ascesa assai dura, dove ogni passo fa guadagnare mezzo metro di dislivello, ma svuota le riserve di energia, porta fino alla bocchetta, qui sopra alla sinistra appare la croce di vetta che risalendo un canalino di roccette e terra franosa ci conduce non senza fatica, ma in breve, alla vetta del Pizzo Ragno (2289m)(3.30h)
+Seguiamo una traiettoria tra magri prati e rocce, ormai a quota 2000m, e arriviamo nella conca che con una ascesa assai dura, dove ogni passo fa guadagnare mezzo metro di dislivello, ma svuota le riserve di energia, porta fino alla bocchetta, qui sopra alla sinistra appare la croce di vetta che risalendo un canalino di roccette e terra franosa ci conduce non senza fatica, ma in breve, alla vetta del **Pizzo Ragno** (2289m)(3.30h)
 
 ![pizzoragno_vetta.jpg](images_21/pizzoragno_vetta.jpg)
 

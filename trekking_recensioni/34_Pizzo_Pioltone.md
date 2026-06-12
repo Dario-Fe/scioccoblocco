@@ -33,7 +33,7 @@ come_raggiungere: |
    sinistra in poche decine di metri saremo ad un comodo 
    parcheggio .
 ---
-Qui all'**Alpe San Bernardo **(1628m), alla sinistra del parcheggio parte un largo sentiero indicato dai cartelli con il codice (D0) e dai colori bianco-rosso del CAI, per il Lago di Ragozza e il Rifugio Gattascosa.
+Qui all'**Alpe San Bernardo** (1628m), alla sinistra del parcheggio parte un largo sentiero indicato dai cartelli con il codice (D0) e dai colori bianco-rosso del CAI, per il **Lago di Ragozza** e il **Rifugio Gattascosa**.
 
 ![Monscera_start.jpg](images_34/Monscera_start.jpg)
 
@@ -43,7 +43,7 @@ All'interno di un bosco l'ampia mulattiera sale dolcemente, dopo circa 10min arr
 
 ![pioltone_torbiera.jpg](images_34/pioltone_torbiera.jpg)
 
-La Torbiera è solcata da numerosi rigagnoli e dal ruscello popolato da numerosi *salmerini* che abbiamo già costeggiato più in basso. La vista è notevole le cime della Val Bognanco ci circondano, il *Pizzo Pioltone* la nostra meta è li ad attenderci con le falde sprofondate tra i larici dai colori fiammeggianti di fine ottobre. Attraversiamo il pianoro, il sentiero sempre molto evidente si impenna tra un rado bosco di larici, tuttavia lo sforzo è breve e approdiamo al **Lago di Ragozza** (1958m) (45/55min).
+La Torbiera è solcata da numerosi rigagnoli e dal ruscello popolato da numerosi *salmerini* che abbiamo già costeggiato più in basso. La vista è notevole le cime della **Val Bognanco** ci circondano, il **Pizzo Pioltone** la nostra meta è li ad attenderci con le falde sprofondate tra i larici dai colori fiammeggianti di fine ottobre. Attraversiamo il pianoro, il sentiero sempre molto evidente si impenna tra un rado bosco di larici, tuttavia lo sforzo è breve e approdiamo al **Lago di Ragozza** (1958m) (45/55min).
 
 ![pioltone_ragozza.jpg](images_34/pioltone_ragozza.jpg)
 
@@ -51,15 +51,15 @@ Possiamo notare l'immensa frana scesa dalla **Cima di Verrosso**, che ha occluso
 
 ![Monscera_Rif_Gattascosa.jpg](images_34/Monscera_Rif_Gattascosa.jpg)
 
-Il **Rifugio Gattascosa** dispone di 25 posti letto è gestito e può essere un ottimo punto d'appoggio sia per mangiare nelle gite di un giorno, sia per pernottare qualche giorno usandolo come punto di partenza per il trekking dei laghi della **Val Bognanco**. Caratteristico il modo di accatastare la legna tagliata in piccoli pezzi a forma di panettone che ricorda le vecchie carbonaie. Ammiriamo ancora il profilo del **Pizzo Pioltone** che ci sovrasta, e dopo esserci rifocillati ripartiamo con il sentiero che esce in piano proprio dietro il rifugio. Siamo ora sulla gippabile che dall'*Alpe San Bernardo* sale sul versante opposto della valle, e che passando per l'*Alpe Monscera* giunge al rifugio. Dopo pochi minuti incontriamo una deviazione sulla sinistra, chiari cartelli indicatori, imbocchiamola e dopo una facile salitella ci ritroveremo sulle sponde del **Lago di Monscera** (2072m)(1.05/1.15h).
+Il **Rifugio Gattascosa** dispone di 25 posti letto è gestito e può essere un ottimo punto d'appoggio sia per mangiare nelle gite di un giorno, sia per pernottare qualche giorno usandolo come punto di partenza per il trekking dei laghi della **Val Bognanco**. Caratteristico il modo di accatastare la legna tagliata in piccoli pezzi a forma di panettone che ricorda le vecchie carbonaie. Ammiriamo ancora il profilo del **Pizzo Pioltone** che ci sovrasta, e dopo esserci rifocillati ripartiamo con il sentiero che esce in piano proprio dietro il rifugio. Siamo ora sulla gippabile che dall'**Alpe San Bernardo** sale sul versante opposto della valle, e che passando per l'*Alpe Monscera* giunge al rifugio. Dopo pochi minuti incontriamo una deviazione sulla sinistra, chiari cartelli indicatori, imbocchiamola e dopo una facile salitella ci ritroveremo sulle sponde del **Lago di Monscera** (2072m)(1.05/1.15h).
 
 ![pan_lago_monscera.jpg](images_34/pan_lago_monscera.jpg)
 
-Proprio sotto la sella del Passo è posto il **Lago di Monscera**,** **collocato nel più alto dei terrazzi naturali della valle glaciale del **Rio Rasiga**, questo laghetto occupa attualmente una superfice di 5600mq con una profondità massima di 4,5m, circondato da bassa vegetazione perchè posto sul limite altimetrico della vita arborea è comunque circondato da rari larici e popolato da anfibi. Alcuni resti di canalizzazioni testimoniano un passato sfruttamento per l'irrigazione, oggi adibita solo a pascolo. Salendo pochi metri raggiungiamo il **Passo Monscera **(2103m)(1.10/1.20h) dove corre il confine** Italo-Svizzero** suggellato da un cippo di marmo.
+Proprio sotto la sella del Passo è posto il **Lago di Monscera**, collocato nel più alto dei terrazzi naturali della valle glaciale del **Rio Rasiga**, questo laghetto occupa attualmente una superfice di 5600mq con una profondità massima di 4,5m, circondato da bassa vegetazione perchè posto sul limite altimetrico della vita arborea è comunque circondato da rari larici e popolato da anfibi. Alcuni resti di canalizzazioni testimoniano un passato sfruttamento per l'irrigazione, oggi adibita solo a pascolo. Salendo pochi metri raggiungiamo il **Passo Monscera** (2103m)(1.10/1.20h) dove corre il confine **Italo-Svizzero** suggellato da un cippo di marmo.
 
 ![pioltone_monscera.jpg](images_34/pioltone_monscera.jpg)
 
-Di fronte a noi si apre la vista sulle vette del **Vallese **dominate da sinistra verso destra da *Weissmies(4023m), Lagginhorn(4010m) e Fletchhorn(3996m)*, ricoperte dai ghiacci. Qui al passo, sulla destra, sale un sentiero che supera un paio di dossi erbosi e in una decina di minuti ci porta all'attacco dell'erta finale.
+Di fronte a noi si apre la vista sulle vette del **Vallese** dominate da sinistra verso destra da *Weissmies(4023m), Lagginhorn(4010m) e Fletchhorn(3996m)*, ricoperte dai ghiacci. Qui al passo, sulla destra, sale un sentiero che supera un paio di dossi erbosi e in una decina di minuti ci porta all'attacco dell'erta finale.
 
 ![pioltone_ascesa.jpg](images_34/pioltone_ascesa.jpg)
 
@@ -67,7 +67,7 @@ Cinquecento metri di dislivello, totalmente su pietraia ci attendono, la traccia
 
 ![pioltone_vetta.jpg](images_34/pioltone_vetta.jpg)
 
-Sulla vetta è posto un omino in pietra, nel quale è incastonata una cassetta metallica con il libro di vetta, posata nel 2004 da alcune sezioni CAI. Sulla cresta in direzione nord corre il confine *Italo-Svizzero*, tanto che questa cima ha anche un altro nome usato in territorio* Elvetico* rispondente a *"Camoscellahorn"*. Appena arrivati, di fronte a noi appare il** Monte Leone** con il suo ghiacciaio.
+Sulla vetta è posto un omino in pietra, nel quale è incastonata una cassetta metallica con il libro di vetta, posata nel 2004 da alcune sezioni CAI. Sulla cresta in direzione nord corre il confine **Italo-Svizzero**, tanto che questa cima ha anche un altro nome usato in territorio* Elvetico* rispondente a *"Camoscellahorn"*. Appena arrivati, di fronte a noi appare il **Monte Leone** con il suo ghiacciaio.
 
 ![pioltone_leone.jpg](images_34/pioltone_leone.jpg)
 
@@ -75,6 +75,6 @@ La giornata bellissima di fine ottobre ci consente un panorama superbo.
 
 ![pan_pioltone.jpg](images_34/pan_pioltone.jpg)
 
-Infatti dopo il *Leone*, proseguendo verso destra, sopra la **Valle di Gondo** svettano il **Cistella** e il **Diei**, quindi la cresta che dal Pioltone porta al **Pizzo Giezza**, in basso la **Val d'Ossola** delimitata dalle creste della **Val Grande**, sotto di noi si apre la **Val Bognanco** con i suoi laghi e giù in fondo la sagoma del Mottarone con la sua antenna televisiva ben visibile. Da qui il ritorno avviene per lo stesso percorso, oppure tornati al Passo Monscera si può, costeggiando l'omonimo lago sulla sinistra, andare all'Alpe Monscera e quindi all'Alpe San Bernardo nostro punto di partenza e arrivo. Che si scelga la soluzione ad anello (un poco più lunga) o la ripetizione del tracciato di andata, si torna appunto all'**Alpe San Bernardo** dopo (4.30/5.00h). Escursione abbordabile sino al passo che diventa per esperti dal passo alla vetta a causa di un dislivello notevole con una salita molto ripida.
+Infatti dopo il *Leone*, proseguendo verso destra, sopra la **Valle di Gondo** svettano il **Cistella** e il **Diei**, quindi la cresta che dal Pioltone porta al **Pizzo Giezza**, in basso la **Val d'Ossola** delimitata dalle creste della **Val Grande**, sotto di noi si apre la **Val Bognanco** con i suoi laghi e giù in fondo la sagoma del Mottarone con la sua antenna televisiva ben visibile. Da qui il ritorno avviene per lo stesso percorso, oppure tornati al **Passo Monscera** si può, costeggiando l'omonimo lago sulla sinistra, andare all'Alpe Monscera e quindi all'**Alpe San Bernardo** nostro punto di partenza e arrivo. Che si scelga la soluzione ad anello (un poco più lunga) o la ripetizione del tracciato di andata, si torna appunto all'**Alpe San Bernardo** dopo (4.30/5.00h). Escursione abbordabile sino al passo che diventa per esperti dal passo alla vetta a causa di un dislivello notevole con una salita molto ripida.
 
 Grazie agli escursionisti di giornata Dario e Flavio.

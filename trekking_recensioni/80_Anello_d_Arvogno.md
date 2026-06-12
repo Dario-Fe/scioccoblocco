@@ -19,9 +19,9 @@ come_raggiungere: |
    Oppure con il trenino della Vigezzina in partenza da Domodossola.
    Arrivati a Santa Maria Maggiore si seguono le indicazioni per Toceno, da qui si seguono le indicazioni per Arvogno dove si arriva dopo pochi chilometri d'auto.
 ---
-Qui ad Arvogno (1247m), lasciamo la macchina qualche centinaio di metri dopo i rifugi, nei pressi della seggiovia.
+Qui ad **Arvogno** (1247m), lasciamo la macchina qualche centinaio di metri dopo i rifugi, nei pressi della seggiovia.
 
-Seggiovia inaugurata nel 2004 che permette il collegamento con la soprastante Piana di Vigezzo, che con  questa nuova pista e la nuova cabinovia di Prestinone, ha notevolmente ampliato e rimodernato il proprio comprensorio.
+Seggiovia inaugurata nel 2004 che permette il collegamento con la soprastante **Piana di Vigezzo**, che con  questa nuova pista e la nuova cabinovia di Prestinone, ha notevolmente ampliato e rimodernato il proprio comprensorio.
 
 Dopo alcuni mesi di inattività, grazie all'invito di Fabrizio, eccomi finalmente di nuovo zaino in spalla.
 
@@ -63,7 +63,7 @@ Sempre ben pavimentato, il sentiero rientra nel bosco ormai dominato dalle conif
 
 Alpeggio caratterizzato da due lunghissime stalle, ben riattate e ancora caricato, testimone un piccolo escavatore nei pressi della casera.
 
-Guardando verso la direzione del nostro arrivo (sud-est), tra le basse nubi si possono intravedere  gli spiazzi tra il bosco, degli impianti sciistici della Piana di Vigezzo.
+Guardando verso la direzione del nostro arrivo (sud-est), tra le basse nubi si possono intravedere  gli spiazzi tra il bosco, degli impianti sciistici della **Piana di Vigezzo**.
 
 Riprendiamo il cammino ora allo scoperto, che in giornate di sole estivo, può diventare impegnativo, non certo oggi dove il sole fa capolino raramente tra le brume.
 
@@ -140,14 +140,14 @@ Siamo nei declivi dei laghetti di Muino, uscendo oltre il lago seguendo l'eviden
 
 ![](images_80/arvogno_greppi.jpg)
 
-Il Rifugio E. Greppi affittato nel 1987 dal figlio di Emilio Greppi costruttore
+Il **Rifugio E. Greppi** affittato nel 1987 dal figlio di Emilio Greppi costruttore
 della baita su terreo comunale al C.A.I. Vigezzo, è
 di recente ristrutturazione è piccolo ma accogliente
 può ospitare massimo 6 persone è dotato di
 stufa a gas e pannello solare, nel sottotetto ci sono materassi e coperte
 in abbondanza, ideale per un paio di notti in tranquillità
-con pochi amici (per accedere chiedere le chiavi a Santa
-Maria Maggiore C.A.I. sezione di Valle Vigezzo Tel.0324/94737
+con pochi amici (per accedere chiedere le chiavi a **Santa
+Maria Maggiore** C.A.I. sezione di Valle Vigezzo Tel.0324/94737
 , il venerdì sera).
 
 Pochi metri sotto è posto un secondo laghetto, in questa stagione molto scarso d'acqua, mentre poco sopra alle spalle del rifugio è situato il terzo laghetto.
@@ -160,38 +160,38 @@ Superiamo il laghetto e iniziamo a risalire verso la bocchetta, in compagnia di 
 
 Sotto a sinistra possiamo vedere l'Alpe Canva di recentissima ristrutturazione.
 
-La salita è abbastanza impegnativa ma breve e arriviamo velocemente alla Bocchetta di Muino(1977m)(3.45h/4.10h).
+La salita è abbastanza impegnativa ma breve e arriviamo velocemente alla **Bocchetta di Muino**(1977m)(3.45h/4.10h).
 
 ![](images_80/arvogno_boc_muino.jpg)
 
-Difronte a noi appare tra le nuvole la Piana di Vigezzo.
+Difronte a noi appare tra le nuvole la **Piana di Vigezzo**.
 
 Noi pieghiamo a destra su sentiero più sottile, indicato da un cartello poco sotto la traccia principale.
 
-Iniziamo la discesa, rientrando nel bosco, con lunga diagonale sotto le Schegge di Muino, raggiungiamo l'Alpe Sdun (4.20h/4.45h).
+Iniziamo la discesa, rientrando nel bosco, con lunga diagonale sotto le Schegge di Muino, raggiungiamo **l'Alpe Sdun** (4.20h/4.45h).
 
 ![](images_80/arvogno_sdun.jpg)
 
 Bell'alpeggio ben curato, dove veniamo sorpresi dallo sbucare al galoppo di un pony nero,  mentre alcuni escursionisti intenti ad uno spuntino vengono anch'essi sorpresi dal cavallino affamato.
 
-All'uscita dell'alpeggio prestiamo attenzione ad alcuni cartelli posti ad un bivio, per Arvogno dobbiamo andare a destra, quindi guadare un ruscello e  risalire sul versante opposto.
+All'uscita dell'alpeggio prestiamo attenzione ad alcuni cartelli posti ad un bivio, per **Arvogno** dobbiamo andare a destra, quindi guadare un ruscello e  risalire sul versante opposto.
 
-Dopo poco riprende la discesa che ci conduce all'Alpe Cortina (1355m)(4.50h/5.20h).
+Dopo poco riprende la discesa che ci conduce all'**Alpe Cortina** (1355m)(4.50h/5.20h).
 
 ![](images_80/arvogno_cortina.jpg)
 
 Alpeggio caratterizzato nella parte alta da un piccolo oratorio.
 
-Da qui è ben visibile il ponte asfaltato sul Torrente Melezzo.
+Da qui è ben visibile il ponte asfaltato sul **Torrente Melezzo**.
 
-Infatti in pochi minuti sbuchiamo sulla strada sterrata proprio come previsto alla partenza, quindi ripercorriamo la scalinata e attraversato il ponte torniamo ad Arvogno  (1247m)(5.00h/5.30h) e all'auto, nei pressi della seggiovia.
+Infatti in pochi minuti sbuchiamo sulla strada sterrata proprio come previsto alla partenza, quindi ripercorriamo la scalinata e attraversato il ponte torniamo ad **Arvogno**  (1247m)(5.00h/5.30h) e all'auto, nei pressi della seggiovia.
 
 Bella escursione nonostante la visibilità scarsa della giornata odierna, un anello perfetto che permette di gustare storia, laghi, boschi e cime, ma che richiede un buon allenamento per la durata e il lungo ritorno in discesa.
 
 Un mio grazie a Fabrizio per avermela proposta.
 
-Un
-grazie agli escursionisti  di giornata   Fabrizio M. e Dario.
+**Un
+grazie agli escursionisti  di giornata**   **Fabrizio M. e Dario**.
 
 
 

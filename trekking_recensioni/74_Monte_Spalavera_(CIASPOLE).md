@@ -37,13 +37,13 @@ Proseguiamo sull'ampia stradacoperta di neve ultra battuta dal passaggio di altr
 Continuiamo a salire ormai fuori dal bosco, la neve resta poca, ma alla nostra sinistra possiamo già ammirare una notevole vista.
 ![](images_74/pan_spalavera_lago_sud.jpg)
 
-Infatti appare giù in fondo al centro il Lago Maggiore oggi velato di foschia e più vicino a noi la striscia disboscata degli impianti sciistici di Pian di Sole e poco a destra il Monte Cimolo, sulla sinistra ad un passo gli ex impianti di Pian Cavallo, mentre la al centro il Mottarone e sulla destra in fondo sua Maestà il Monte Rosa .
+Infatti appare giù in fondo al centro il **Lago Maggiore** oggi velato di foschia e più vicino a noi la striscia disboscata degli impianti sciistici di Pian di Sole e poco a destra il Monte Cimolo, sulla sinistra ad un passo gli ex impianti di Pian Cavallo, mentre la al centro il Mottarone e sulla destra in fondo sua Maestà il Monte Rosa .
 La strada militare prosegue ampia e ben visibile anche con questa poca neve che la ricopre.
 
-Con il nome di "Linea Cadorna" si intende il sistema di fortificazioni militari costruito durante la Prima Guerra Mondiale tra il Lago Maggiore e il Monte Massone.
+Con il nome di "**Linea Cadorna**" si intende il sistema di fortificazioni militari costruito durante la Prima Guerra Mondiale tra il **Lago Maggiore** e il Monte Massone.
 Le fortificazioni comprendono un fìtto reticolo di mulattiere militari, trincee, postazioni d'artiglieria, luoghi di avvistamento, ospedaletti e strutture logistiche, centri di comando.
-Furono volute dal generale Luigi Cadorna di Pallanza, capo di stato maggiore dell'esercito italiano, per difendere il confine da un ipotizzato attacco austro-tedesco attraverso la Svizzera mai avvenuto.
-Esse coprono, nella logica della "guerra di posizione", un dislivello di 2.000 m tra la piana del Toce e il Monte Massone e fra il Lago Maggiore (Carmine inferiore) e il Monte Zeda e proseguono nelle Alpi centrali fino alle Orobie. 
+Furono volute dal generale **Luigi Cadorna** di Pallanza, capo di stato maggiore dell'esercito italiano, per difendere il confine da un ipotizzato attacco austro-tedesco attraverso la Svizzera mai avvenuto.
+Esse coprono, nella logica della "guerra di posizione", un dislivello di 2.000 m tra la piana del Toce e il Monte Massone e fra il **Lago Maggiore** (Carmine inferiore) e il **Monte Zeda** e proseguono nelle Alpi centrali fino alle Orobie. 
 Tra l'Ossola e la Valtellina furono costruiti 72 km di trincee, 88 postazioni   di artiglierie                         di cui 11 in caverna, 296 km di strade   carrozzabili, 398                         km di mulattiere.
 
 I lavori costarono più di 100 milioni di lire del                         tempo e impiegarono oltre 15.000 operai.
@@ -52,7 +52,7 @@ In un'economia di guerra, i lavori ebbero un   impatto positivo                 
 
 Un "sentiero storico", attrezzato con pannelli                         esplicativi per visite didattiche, è stato   allestito                         tra la Punta di Migiandone e il Forte di   Bara.
 
-Altri tratti visitabili sono la mulattiera nord   del Montorfano e le alture del Verbano (Passo Folungo,  Morissolo,  Monte Carza.
+Altri tratti visitabili sono la mulattiera nord   del Montorfano e le alture del **Verbano** (**Passo Folungo**,  **Morissolo**,  **Monte Carza**.
 
 La strada militare dopo circa 30 minuti, con un largo tornante inverte la direzione da Ovest a Est ed inizia a salire diagonalmente tra i pratoni ora più innevati, la parte sommitale della montagna.
 
@@ -73,7 +73,7 @@ Il primo sguardo va verso nord e il lago Maggiore "Svizzero", da questo lato il 
 
 ![](images_74/spalavera_ciaspole_cannero.jpg)
 
-Verso Est, ovvero Cannero dominato dal Morissolo, i suoi castelli e Luino di fronte.
+Verso Est, ovvero Cannero dominato dal **Morissolo**, i suoi castelli e Luino di fronte.
 
 ![](images_74/spalavera_ciaspole_golfo.jpg)
 
@@ -101,8 +101,8 @@ Prestando attenzione a non scivolare, perdiamo velocemente quota per sbucare nei
 
 Escursione semplice e alla portata di tutti, che tuttavia regala panorami straordinariamente appaganti.
 
-Un
-grazie agli escursionisti  di giornata  Dario.
+**Un
+grazie agli escursionisti  di giornata  Dario.**
 
 
 

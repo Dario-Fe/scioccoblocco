@@ -31,7 +31,7 @@ La
 partenza di questa bella escursione si trova davanti ad
 una galleria di servizio,lunga circa 1,5 km,che ospita le
 tubazioni che portano l'acqua della diga fino alla centrale
-ENEL di Goglio.
+ENEL di **Goglio**.
 
 ![](images_29/ingresso.jpg)
 
@@ -40,10 +40,10 @@ si trova a sinistra, e percorriamola fino in fondo, ci metteremo
 circa 10 minuti.
 
 Una volta sbucati dalla parte opposta ci troviamo ai piedi
-della maestosa diga di Agaro;
+della maestosa **diga di Agaro**;
 fu costruita nel 1938 in un'ampia pianura alluvionale lunga
-più di 2 km che ospitava i paesi di Agaro
-e Margone, ancor oggi,quando la diga viene
+più di 2 km che ospitava i paesi di **Agaro
+e Margone**, ancor oggi,quando la diga viene
 svuotata, si possono vedere i resti di questi insediamenti.
 
 ![](images_29/diga.jpg)
@@ -69,9 +69,9 @@ spalle si stende il lago.
 ![](images_29/salita.jpg)
 
 Usciamo dal bosco di larici e ci ritroviamo ad un incrocio,
-a destra andiamo verso l'alpe
-Topera mentre a sinistra verso Pojala,
-se proseguiamo dritti ci troviamo di fronte a delle stalle costruite apposta dall'ex Enel ai pastori del luogo in cambio dei pascoli   tolti con l'invaso del lago d'Agaro, come ci fa sapere l'amico Paolo.
+a destra andiamo verso **l'alpe
+Topera** mentre a sinistra verso **Pojala**,
+se proseguiamo dritti ci troviamo di fronte a delle stalle costruite apposta dall'ex Enel ai pastori del luogo in cambio dei pascoli   tolti con l'invaso del lago d'**Agaro**, come ci fa sapere l'amico Paolo.
 
 ![](images_29/casermette.jpg)
 
@@ -88,9 +88,9 @@ troviamo anche le meraviglie della natura come questo fiore.
 ![](images_29/stella.jpg)
 
 Dopo circa 2 ore di cammino arriviamo in cima alla conca
-di Agaro e
-proseguiamo in falsopiano fino a raggiungere  l'alpe
-Pojala;questo falsopiano è davvero
+di **Agaro** e
+proseguiamo in falsopiano fino a raggiungere  **l'alpe
+Pojala**;questo falsopiano è davvero
 fantastico, è ricco di sottobosco e di piccoli larici,
 saranno gli ultimi alberi che vedremo d'ora in avanti.
 
@@ -98,8 +98,8 @@ saranno gli ultimi alberi che vedremo d'ora in avanti.
 
 Arrivati all'alpeggio proseguiamo oltre cercando di seminare
 il numerosissimo gregge di pecore che circonda le baite;
-su di un dosso ritroviamo il sentiero che conduce al lago
-di Pojala, da lontano possiamo vedere la
+su di un dosso ritroviamo il sentiero che conduce al **lago
+di Pojala**, da lontano possiamo vedere la
 valle in cui si trova questo lago alpino.
 
 Il sentiero non è segnato però è molto
@@ -125,16 +125,16 @@ che aumenta il fascino di questa nostra escursione.
 
 Percorriamo a ritroso lo stesso sentiero seguito in precedenza
 spostandoci però sulla cresta e sui pendii scoscesi
-che danno sul torrente Pojala,
+che danno sul **torrente Pojala**,
 luogo ideale per trovare stelle alpine.
 
 Arrivati in vista delle baite notiamo, dall'altra parte
-del pianoro, la famosa voragine
-del Pojala, questa è una depressione
+del pianoro, la famosa **voragine
+del Pojala**, questa è una depressione
 calcarea del terreno in cui viene inghiottito il torrente
-emissario del Pojala le cui acque si perdono nelle viscere
+emissario del **Pojala** le cui acque si perdono nelle viscere
 della terra per poi ricomparire 2km più avanti, nelle
-vicinanze dell'alpe Bionca.
+vicinanze dell'**alpe Bionca**.
 
 Un gruppo di speleologi di Novara hanno monitorato questa
 voragine ed hanno sperimentalmente misurato che il percorso
@@ -145,12 +145,12 @@ nelle viscere della terra delle acque dura circa 2 giorni.
 Abbiamo visto tutto e possiamo finalmente tornare verso
 la macchina, noi abbiamo percorso il sentiero fatto poche
 ore prima è però possibile prenderne un'altro
-che porterà ugualmente alla diga
-di Agaro, questo sentiero parte dall'alpe
-Pojala e prevede l'attraversamento della
-Bocchetta di Scarpia
-e una lunga camminata sulla Corona
-di Traggi per poi scendere fino ad Agaro.
+che porterà ugualmente alla **diga
+di Agaro**, questo sentiero parte dal**l'alpe
+Pojala** e prevede l'attraversamento della
+**Bocchetta di Scarpia**
+e una lunga camminata sulla **Corona
+di Traggi** per poi scendere fino ad **Agaro**.
 
 Durante il ritorno abbiamo incontrato delle nubi molto basse
 e la visibilità si è ridotta moltissimo,in
@@ -165,8 +165,8 @@ alpine dove si trovano.
 Scarica
 recensione
 
-Un
-ringraziamento a Fabrizio,Flavio,Stefano,Francesco
+**Un
+ringraziamento a Fabrizio,Flavio,Stefano,Francesco**
 
 
 

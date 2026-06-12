@@ -31,7 +31,7 @@ Il sentiero è sempre ben segnato ma non sempre evidente ed è abbastanza in dis
 
 Scarica recensione
 
-Escursionista di giornata Vittorio
+**Escursionista di giornata Vittorio**
 
 
 

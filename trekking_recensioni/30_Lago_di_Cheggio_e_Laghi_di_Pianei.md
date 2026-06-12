@@ -33,14 +33,14 @@ come_raggiungere: |
    sulla strada principale che volge a destra e supera la chiesa, 
    dopo alcuni chilometri di strada a tornanti eccoci a Cheggio.
 ---
-A Cheggio(1497m), splendido alpeggio costituito da belle e ben rifinite case per le vacanze e da un paio di piccole ma accoglienti strutture alberghiere, lasciamo la macchina alla fine della strada in un comodo parcheggio sterrato.
+A **Cheggio**(1497m), splendido alpeggio costituito da belle e ben rifinite case per le vacanze e da un paio di piccole ma accoglienti strutture alberghiere, lasciamo la macchina alla fine della strada in un comodo parcheggio sterrato.
 
 ![](images_30/laghipianei_cheggio.jpg)
 
 Di
 fronte a noi cattura subito lo sguardo il muraglione gradonato
-della diga del lago di Cheggio
-o lago dell'alpe dei Cavalli,
+della diga del **lago di Cheggio**
+o **lago dell'alpe dei Cavalli**,
 e proprio sulla destra pochi metri prima dello sbarramento
 artificiale parte il nostro sentiero ben segnalato dai colori
 bianco e rosso del CAI e dalla sigla C26.
@@ -48,7 +48,7 @@ bianco e rosso del CAI e dalla sigla C26.
 ![](images_30/laghipianei_digacheggio.jpg)
 
 Il
-lago artificiale di Cheggio, che chiude il bacino dell'alta
+lago artificiale di **Cheggio**, che chiude il bacino dell'alta
 valle Loranco, era già in precedenza un piccolo lago
 naturale dove era posta l'alpe Cavalli ora sommersa
 dalle acque della diga.
@@ -61,17 +61,17 @@ di 6,9 milioni di metri cubi.
 
 Il sentiero parte subito su pendenze impegnative, alzandosi
 sopra la diga, al limitare di un bosco dominato dai larici
-raggiunge rapidamete l'alpe
-Curzel(1626m)(10/15min).
+raggiunge rapidamete l'**alpe
+Curzel**(1626m)(10/15min).
 
 Qui poco sopra l'alpe il sentiero spiana, e in un traverso
-all'interno del bosco costeggia alto il lago di Cheggio,
+all'interno del bosco costeggia alto il **lago di Cheggio**,
 fino a trovare l'intersezione con la traccia che sulla destra
 sale verso i laghetti.
 
 Qui tra gli squarci del bosco si può ammirare una
-fantastica vista sul Pizzo
-Andolla e piu a destra sulla Weissmies,
+fantastica vista sul **Pizzo
+Andolla** e piu a destra sulla **Weissmies**,
 per l'occasione sotto una incredibile nuvola che sembra
 voler fargli da coperta.
 
@@ -80,10 +80,10 @@ voler fargli da coperta.
 Il
 sentiero torna a farsi impegnativo, tra i prati di un canalino
 perveniamo su di un piccolo motto, a ciò che resta
-dell'alpe Bisi(1806m)(40/45min).
+dell'**alpe Bisi**(1806m)(40/45min).
 
 Lo sguardo è attratto giù dal verde smeraldo
-del lago di Cheggio, sovrastato dalla Forcolaccia.
+del **lago di Cheggio**, sovrastato dalla **Forcolaccia**.
 
 ![](images_30/laghipianei_lagocheggio.jpg)
 
@@ -95,20 +95,20 @@ la salita è abbordabile, la vista sul fondo valle superlativa.
 
 Superiamo
 ora un ruscello e su sentiero che si fa ripido arriviamo
-all'alpe Pasquale(1956m)
+all'**alpe Pasquale**(1956m)
 (1.00/1.15h).
 
 ![](images_30/laghipianei_pasquale.jpg)
 
 Proseguiamo
 sulla sinistra del torrente, ci immettiamo ora in un canalone
-erboso assai irto che ci conduce ai ruderi dell'alpe
-Pianei(2179m)(1.35/1.50h).
+erboso assai irto che ci conduce ai ruderi dell'**alpe
+Pianei**(2179m)(1.35/1.50h).
 
 Puntando ora verso destra, si procede verso la Bocchetta
 di Pianei, nel piano sottostante il passo voltando ancora
-a destra si arriva al Lago
-inferiore di Pianei (2323m)(2.00/2.15h).
+a destra si arriva al **Lago
+inferiore di Pianei** (2323m)(2.00/2.15h).
 
 ![](images_30/pan_lagopianei_inf.jpg)
 
@@ -122,29 +122,29 @@ Buon posto per il meritato pranzo.
 
 Da
 qui tenendo ancora la destra e in lieve salita arriviamo
-brevemente al lago superiore
-di Pianei(2345m)(2.15/2.30h).
+brevemente al **lago superiore
+di Pianei**(2345m)(2.15/2.30h).
 
 ![](images_30/laghipianei_superiore.jpg)
 
 I due
 laghi di Pianei che prendono il nome dall'alpe sottostante
 sono di origine glaciale e si trovano nei declivi pianeggianti
-(appunto "Pianei") del Pizzo
-Montalto, e sono perlopiu alimentati dai
+(appunto "Pianei") del **Pizzo
+Montalto**, e sono perlopiu alimentati dai
 piccoli nevai che resistono fino a tarda stagione a causa
 dell'esposizione a nord-ovest.
 
 Da qui il ritorno avviene per lo stesso percorso dell'andata,
-che ci riporta a Cheggio
+che ci riporta a **Cheggio**
 dopo (4.30/5.00h).
 
 Escursione di media difficoltà, e a causa delle frequenti
 e ripide rampe consigliata a chi ha un minimo di allenamento.
 
-Grazie
+**Grazie
 agli escursionisti di giornata Elisa, Flavio, Fabrizio e
-Dario.
+Dario.**
 
 
 

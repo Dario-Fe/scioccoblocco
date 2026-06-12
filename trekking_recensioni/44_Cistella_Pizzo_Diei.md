@@ -146,8 +146,8 @@ minuti, ci riporta alla nostra auto.
 Scarica
 recensione
 
-Un
-grazie agli escursionisti di giornata Giada, Vittorio, Fabrizio.
+**Un
+grazie agli escursionisti di giornata Giada, Vittorio, Fabrizio.**
 
 
 

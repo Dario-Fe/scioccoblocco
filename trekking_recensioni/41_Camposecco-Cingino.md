@@ -67,4 +67,4 @@ Prima di ripartire andiamo a visitare il bivacco rimesso a nuovo nel luglio del 
 
 Scarica recensione
 
-**Escursionisti di giornata Francesco, Stefano,Flavio e Fabrizio **
+**Escursionisti di giornata Francesco, Stefano,Flavio e Fabrizio** **

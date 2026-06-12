@@ -40,7 +40,7 @@ Scendiamo dal passo e seguiamo il sentiero ben visibile che porta al **Passo del
 
 ![vistamottone.jpg](images_26/vistamottone.jpg)
 
-Dopo circa un'altra ora di marcia arriviamo finalmente al ** Passo del Mottone** dove ci concediamo una meritata pausa per la colazione.Questo passo si trova tra la **valle Antrona e la valle Anzasca**, la zona che stiamo battendo è piuttosto solitaria, non vediamo molti alpeggi ed i pochi che vediamo sono abbandonati, anche i sentieri sono poco battuti e pian piano stanno scomparendo come quello che costeggia il **Pizzo delTon** e porta al **Pizzo di S.Martino**.
+Dopo circa un'altra ora di marcia arriviamo finalmente al  **Passo del Mottone** dove ci concediamo una meritata pausa per la colazione.Questo passo si trova tra la **valle Antrona e la valle Anzasca**, la zona che stiamo battendo è piuttosto solitaria, non vediamo molti alpeggi ed i pochi che vediamo sono abbandonati, anche i sentieri sono poco battuti e pian piano stanno scomparendo come quello che costeggia il **Pizzo delTon** e porta al **Pizzo di S.Martino**.
 
 ![pizzoton.jpg](images_26/pizzoton.jpg)
 
@@ -58,7 +58,7 @@ Scarica recensione
 
 **Un ringraziamento a Flavio e Fabrizio.**
 
-**
+
 
 ![flaviofabry.jpg](images_26/flaviofabry.jpg)
 

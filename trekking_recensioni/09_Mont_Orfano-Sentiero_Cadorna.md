@@ -48,26 +48,26 @@ nostro plauso.
 Subito vediamo la cava di marmo ancora attiva sulla nostra
 sinistra.
 
-Infatti, il Mont’Orfano
+Infatti, il **Mont’Orfano**
 è un blocco granitico solitario, di circa 300 milioni
 di anni, che è stato risparmiato dal ghiacciaio che
 dall’Ossola scendendo verso Sud si è diviso
 nei due rami che hanno formato il
-Lago Maggiore e il Lago
-d’Orta.
+**Lago Maggiore** e il **Lago
+d’Orta**.
 
-Il massiccio del Mont’Orfano
-e quello del Mottarone
+Il massiccio del **Mont’Orfano**
+e quello del **Mottarone**
 dovrebbe essere un corpo unico separato dalla piana alluvionale
-del Toce.
+del **Toce**.
 
-Nel 1828 le cave del Mont’Orfano hanno fornito il
+Nel 1828 le cave del **Mont’Orfano** hanno fornito il
 granito bianco, che ha formato le 84 colonne della basilica
 di S.Paolo a Roma.
 
 Dopo pochi minuti il sentiero mette in mostra ancora ben
 conservati i muri a secco dell’antica via militare,
-mentre sotto di noi si apre la piana del Toce.
+mentre sotto di noi si apre la piana del **Toce**.
 
 ![](images_09/montorfmott.jpg)
 
@@ -81,9 +81,9 @@ parete, svolta a destra all’interno di una grossa
 grotta, dove è posta una cappelletta votiva, e si
 trova anche una sorgente.
 
-Qui una sosta per la vista sulla piana del Toce,
-Gravellona
-e il Cusio
+Qui una sosta per la vista sulla piana del **Toce**,
+**Gravellona**
+e il **Cusio**
 è d’obbligo.
 
 ![](images_09/montorfcusio.jpg)
@@ -102,7 +102,7 @@ ben conservata della prima guerra mondiale.
 ![](images_09/montorfcaserm.jpg)
 
 Questo percorso ripercorre le antiche vie militari , volute
-dal Generale Cadorna,
+dal **Generale Cadorna**,
 durante il periodo della prima grande guerra, meraviglie
 di architettura, costruite con la pietra della montagna
 , il granito bianco, si incontrano oltre alla mulattiera
@@ -131,13 +131,13 @@ Verso la vetta, la mulattiera sale dolcemente perché
 serviva ad aiutare l’ascesa dei muli con l’artiglieria,
 in circa 30/35 min siamo in cima.
 
-Anche qui vi sono un paio di trincee e il panorama sul Lago
-Maggiore, le isole,
-la foce del Toce,
-il Mottarone,
-il Monte Massone,
-il Cusio,
-la Val d’Ossola
+Anche qui vi sono un paio di trincee e il panorama sul **Lago
+Maggiore**, le **isole**,
+la foce del **Toce**,
+il **Mottarone**,
+il **Monte Massone**,
+il **Cusio**,
+la **Val d’Ossola**
 è straordinario.
 
 ![](images_09/montorflago.jpg)
@@ -150,17 +150,17 @@ con opere di riparo e deviazione dell’acqua, in altri
 
 E’ consigliabile prendere a sinistra.
 
-Siamo sul versante nord-ovest e la vista si apre su Ornavasso
-e la Val d’Ossola.
+Siamo sul versante nord-ovest e la vista si apre su **Ornavasso**
+e la **Val d’Ossola**.
 
 ![](images_09/montorfvaldoss.jpg)
 
 Verso la fine del sentiero incontreremo un paio di casermette,
 e in circa 20/25 min dal bivio eccoci tornati sulla carrabile
-tra Gravellona
-e Mergozzo,
-in località Prato
-Michelaccio a pochi metri dall’auto,
+tra **Gravellona**
+e **Mergozzo**,
+in località **Prato
+Michelaccio** a pochi metri dall’auto,
 che se avete seguito i nostri consigli iniziali sarà
 alla vostra sinistra.
 

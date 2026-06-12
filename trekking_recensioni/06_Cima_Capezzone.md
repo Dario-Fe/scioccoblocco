@@ -24,32 +24,32 @@ come_raggiungere: |
    19 km la strada unica che risale la valle Strona ci porta 
    a Campello Monti.
 ---
-Si parte da Campello Monti
+Si parte da **Campello Monti**
 (1305m) ,dove, se avete con voi la mantella di supereroe,
 potete giungere anche in bicicletta seguendo le indicazioni
-che trovate in questa sezione (Recensione
-per bici).
+che trovate in questa sezione (**Recensione
+per bici**).
 
 Io ci sono arrivato in macchina !
 
 Dirigendosi verso la chiesa, in fondo al paese, si prende
 la scalinata(riempire la borraccia alla fontana del sagrato)e
-in breve si imbocca la mulattiera che conduce alla Bocchetta
-di Campello.
+in breve si imbocca la mulattiera che conduce alla **Bocchetta
+di Campello.**
 
 In leggera salita si giunge ad un ponticello di cemento
 prima del quale si gira a destra .
 
 Il sentiero porta poi ad attraversare il
-torrente Strona su
+**torrente Strona** su
 una passerella .
 
 Scavalcato uno scosceso pendio si giunge ad un pianoro attraversato
-il quale si ricomincia a salire fino ai 1732m dell'Alpe
-Piana Di Via.
+il quale si ricomincia a salire fino ai 1732m dell'**Alpe
+Piana Di Via.**
 
 Proseguire in diagonale ,ovviamente in salita,e deviando
-a dx si va in direzione dell'Alpe Capezzone.
+a dx si va in direzione dell'Alpe **Capezzone**.
 
 Dalla nostra partenza è trascorsa 1ora e mezza, siamo
 a 1845m.
@@ -61,8 +61,8 @@ ripiano fino all' impluvio del torrente.
 La salita diventa ripida attraversando una piodaia.
 
 Si giunge poi ad una seconda conca alla base della bastionata
-che sostiene il lago del
-Capezzolone dove si arriva aggirando
+che sostiene **il lago del
+Capezzolone** dove si arriva aggirando
 un canale e superando in quota la bastionata.
 
 2 ore e 1/2 sono passate e qui a 2100m si sta veramente
@@ -71,8 +71,8 @@ bene.
 Se volete fare un pediluvio fate attenzione perchè
 l'acqua è un po' freddina.
 
-Sulle sponde del lago si trova un bel bivacco (Rif.
-Abele Traglio) tirato su nel 1895.
+Sulle sponde del lago si trova un bel bivacco (**Rif.
+Abele Traglio**) tirato su nel 1895.
 
 5-6 posti letto, tavolo e panche, punto cottura a gas.
 
@@ -101,11 +101,11 @@ In direzione nord la cima è ben visibile, anche la
 croce infissa in vetta.
 
 Come sempre alla fine il sentiero si fa più ripido,
-ma si arriva facilmente in vetta, Cima
-Capezzone 2421m.
+ma si arriva facilmente in vetta, **Cima
+Capezzone** 2421m.
 
-La vista è impagabile,
-il Rosa è lì a portata di mano.
+**La vista è impagabile,
+il Rosa è lì a portata di mano.**
 
 Un
 grazie speciale per la recensione e la simpatia a :

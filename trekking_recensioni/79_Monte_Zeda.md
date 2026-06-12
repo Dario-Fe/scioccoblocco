@@ -24,11 +24,11 @@ come_raggiungere: |
 ---
 A Pian d'Arla (1307m), lasciamo l'auto in un'ampia piazzola che si apre a belvedere sul lago, mentre alle spalle vediamo una costruzione recintata, in passato colonia, dove la strada Cadorna effettua una deviazione verso il Monte Spalavera.
 La strada è percorribile ancora lungamente in auto, con prudenza, sino ad Archia e passo Folungo, noi onde evitare spiacevoli inconvenienti meccanici e gustarci la mattinata, preferiamo proseguire a piedi.
-La nostra meta di oggi è la Regina del Verbano, la Zeda, scelta obbligata per la prima escursione nel bacino verbanese di Lella, mia socia odierna.
-Alle nostre spalle verso sud il Lago Maggiore la fa già da padrone.
+La nostra meta di oggi è la Regina del **Verbano**, la Zeda, scelta obbligata per la prima escursione nel bacino verbanese di Lella, mia socia odierna.
+Alle nostre spalle verso sud **il Lago Maggiore** la fa già da padrone.
 ![](images_79/pan_folungo.jpg)
 
-Alla nostra sinistra verso nord/ovest, appare tutto il percorso che andremo ad affrontare, quasi a farci da promemoria, ecco da sinistra Pizzo Marona, Monte Zeda, Pian Vadà e Monte Bavarione.
+Alla nostra sinistra verso nord/ovest, appare tutto il percorso che andremo ad affrontare, quasi a farci da promemoria, ecco da sinistra Pizzo Marona, **Monte Zeda**, Pian Vadà e Monte Bavarione.
 ![](images_79/pan_zeda_start.jpg)
 
 La strada prosegue in leggera discesa immergendosi nel bosco, superando alcuni cartelli esplicativi.
@@ -47,7 +47,7 @@ Finalmente eccoci a Passo Folungo (1369m)(1h/1.10h).
 
 La giornata è straordinariamente tersa, non una nuvola all'orizzonte.
 Qui troviamo una bella fontana (fate scorta dopo non ci saranno altre fonti), alla destra rispetto al nostro arrivo si dipana in leggera discesa la strada per Archia.
-Sulla sinistra si apre la Valle Intrasca con i suoi alpeggi, laggiù in fondo ancora il Lago Maggiore e un poco sulla destra il Toden o Pizzo.
+Sulla sinistra si apre la Valle Intrasca con i suoi alpeggi, laggiù in fondo ancora **il Lago Maggiore** e un poco sulla destra il Toden o Pizzo.
 Di fronte a noi prosegue (chiusa da una sbarra) la strada Cadorna, nel primo tratto decidiamo di salire per il sentiero sulla destra che in linea retta supera il primo tratto di cresta.
 Dopo alcuni minuti il sentiero ci riporta sulla strada nei pressi di un tornante.
 Riprendiamo la strada su pendenze non eccessive.
@@ -57,15 +57,15 @@ Sopra di noi vediamo lo scollinamento di Pian Vadà e il profilo del bivacco.
 Voltandoci alle nostre spalle, possiamo ammirare il serpentone della strada Cadorna fin qui percorso, il passo Folungo e il Monte Bavarione i cui prati sono curiosamente divisi a metà, verde smeraldo a nord e verde scuro a sud.
 ![](images_79/zeda_serpentone.jpg)
 
-Con il nome di "Linea Cadorna"/"Sentiero/Strada Cadorna" si intende il sistema di fortificazioni militari costruito durante la Prima Guerra Mondiale tra il Lago Maggiore e il Monte Massone.
+Con il nome di "**Linea Cadorna**"/"Sentiero/Strada Cadorna" si intende il sistema di fortificazioni militari costruito durante la Prima Guerra Mondiale tra **il Lago Maggiore** e il **Monte Massone**.
 Le fortificazioni comprendono un fitto reticolo di mulattiere militari, trincee, postazioni d'artiglieria, luoghi di avvistamento, ospedaletti, strutture logistiche e centri di comando.
-Furono volute dal generale Luigi Cadorna di Pallanza, capo di stato maggiore dell'esercito italiano, per difendere il confine da un ipotizzato attacco austro-tedesco attraverso la Svizzera mai avvenuto.
-Esse coprono, nella logica della "guerra di posizione", un dislivello di 2.000 m tra la piana del Toce e il Monte Massone e fra il Lago Maggiore (Carmine inferiore) e il Monte Zeda e proseguono nelle Alpi centrali fino alle Orobie.
-Tra l'Ossola e la Valtellina furono costruiti 72 km di trincee, 88 postazioni di artiglierie di cui 11 in caverna, 296 km di strade carrozzabili, 398 km di mulattiere.
+Furono volute dal generale **Luigi Cadorna** di Pallanza, capo di stato maggiore dell'esercito italiano, per difendere il confine da un ipotizzato attacco austro-tedesco attraverso la Svizzera mai avvenuto.
+Esse coprono, nella logica della "**guerra di posizion**e", un dislivello di 2.000 m tra la piana del **Toce** e il **Monte Massone** e fra **il Lago Maggiore** (Carmine inferiore) e il **Monte Zeda** e proseguono nelle Alpi centrali fino alle Orobie.
+Tra l'**Ossola** e la **Valtellina** furono costruiti 72 km di trincee, 88 postazioni di artiglierie di cui 11 in caverna, 296 km di strade carrozzabili, 398 km di mulattiere.
 I lavori costarono più di 100 milioni di lire del tempo e impiegarono oltre 15.000 operai.
 In un'economia di guerra, i lavori ebbero un impatto positivo per le popolazioni locali in quanto offrirono lavoro retribuito a muratori e scalpellini e costituirono una prima occasione di lavoro salariato per la manodopera femminile impegnata nel trasporto dei viveri alle squadre in montagna.
-Un "sentiero storico", attrezzato con pannelli esplicativi per visite didattiche, è stato allestito tra la Punta di Migiandone e il Forte di Bara.
-Altri tratti visitabili sono la mulattiera nord del Montorfano e le alture del Verbano (Morissolo, Monte Carza).
+Un "sentiero storico", attrezzato con pannelli esplicativi per visite didattiche, è stato allestito tra la **Punta di Migiandone** e il **Forte di Bara**.
+Altri tratti visitabili sono la mulattiera nord del **Montorfano** e le alture del **Verbano** (**Morissolo**, **Monte Carza**).
 ![](images_79/zeda_vada.jpg)
 
 Dopo questo excursus storico, riprendiamo il cammino sull'ampia strada militare, ogni tanto Lella si incanta ipnotizzata dalla macchia blu del lago che catalizza l'attenzione, come darle torto, lo spettacolo odierno è impagabile.
@@ -88,7 +88,7 @@ Quindi partiamo, il sentiero è sempre segnalato dai colori Bianco-Rosso del C.A
 
 La fatica si fa sentire, e la vetta che sembra sempre essere li ad un passo non vuole venirci incontro.
 
-Ma finalmente eccoci sbucare alla croce di vetta del Monte Zeda (2156m)(2.50h/3.10h).
+Ma finalmente eccoci sbucare alla croce di vetta del **Monte Zeda** (2156m)(2.50h/3.10h).
 
 La giornata si è mantenuta incredibilmente limpida, una vera rarità verso il lago e la pianura, quale migliore occasione per effettuare una panoramica a 360° sulla provincia del VCO e ben oltre.
 
@@ -102,9 +102,9 @@ Verso destra (nord), dopo la Laurasca, il Cimone di Cortechiuso, il Marsicce, il
 
 Dietro si aprono la Val Vigezzo e le valli ossolane, con la corona delle alpi svizzere che fanno da sfondo, dove spicca l'inconfondibile e ardita guglia del Finsteraarhorn.
 
-Alle nostre spalle (est) la Val Cannobina, con il Gridone o Limidario,  vicino a noi Spalavera e Morissolo, sullo sfondo il Lago Maggiore nel suo tratto Svizzero, con Locarno e la piana di Magadino.
+Alle nostre spalle (est) la Val Cannobina, con il Gridone o Limidario,  vicino a noi Spalavera e **Morissolo**, sullo sfondo **il Lago Maggiore** nel suo tratto Svizzero, con Locarno e la piana di Magadino.
 
-Quindi a sinistra (sud), concludendo il giro, il Lago Maggiore e il Lago d'Orta, il Mottarone, le isole Borromee, i laghi di Varese e Monate, l'aereoporto di Malpensa, l'inizio della pianura padana, e giù in fondo le Alpi Marittime che ci precludono Genova, stemperandosi negli Appennini.
+Quindi a sinistra (sud), concludendo il giro, **il Lago Maggiore** e il Lago d'Orta, il Mottarone, le isole Borromee, i laghi di Varese e Monate, l'aereoporto di Malpensa, l'inizio della pianura padana, e giù in fondo le Alpi Marittime che ci precludono Genova, stemperandosi negli Appennini.
 
 Ben poco da dire difronte a tanta bellezza e giornata così fortunata.
 
@@ -116,7 +116,7 @@ Racconti di montagne già fatte o da fare, si mescolano con lontani ricordi scol
 
 Veramente raro potersi trattenere in vetta così a lungo, e pure in piacevole compagnia, giorno speciale !!!
 
-Ma bisogna scendere, scatto a Marco, Lella e Fabrizio la classica foto di vetta.
+Ma bisogna scendere, scatto a Marco, **Lella e** Fabrizio la classica foto di vetta.
 
 ![](images_79/zeda_vetta.jpg)
 
@@ -140,8 +140,8 @@ Quindi di nuovo sulla strada percorsa all'andata torniamo con pazienza a Pian d'
 
 Bellissima escursione che grazie alla complicità del meteo, regala panorami straordinari, un po lunga se fatta da pian d'Arla, che diventa molto più abbordabile se si arriva in auto sino ad Archia
 
-Un
-grazie agli escursionisti  di giornata  Lella e  Dario, e per un tratto Fabrizio e Marco.
+**Un
+grazie agli escursionisti  di giornata**  **Lella e**  **Dario,** **e per un tratto Fabrizio e Marco**.
 
 
 

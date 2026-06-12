@@ -42,8 +42,8 @@ piegando dapprima a sinistra e poi a destra.
 Bisogna rompere subito il fiato, e Nazareno sempre in forma,
 detta il passo.
 
-In breve raggiungiamo l'Alpe
-Blizz (1282m)(15/20 min).
+In breve raggiungiamo l'**Alpe
+Blizz** (1282m)(15/20 min).
 
 ![](images_62/ziccher_blizz.jpg)
 
@@ -58,25 +58,25 @@ ristrutturazione.
 
 Sulla balconata del Rifugio, guardando verso ovest, nella
 direzione del nostro arrivo, si apre già un panorama
-notevole sulla Val Vigezzo,
+notevole sulla **Val Vigezzo**,
 con i suoi centri e le sue cime, mentre sullo sfondo la catena
-del Monte Rosa.
+del **Monte Rosa**.
 
 ![](images_62/ziccher_blizz_pan.jpg)
 
 Ripartiamo,
-salendo nel bosco alla sinistra dell'Alpe Blizz, usciamo subito
+salendo nel bosco alla sinistra dell'**Alpe Blizz**, usciamo subito
 in una radura, disseminata di baite vecchie e qualcuna ben
 riattata, sulla destra verso est, a farla da padrone li a
-un passo è l'imponente parete del Gridone
-o Limidario.
+un passo è l'imponente parete del **Gridone**
+o **Limidario**.
 
 ![](images_62/ziccher_gridone.jpg)
 
 Il
 sentiero sale ora allo scoperto, su pendenze abbastanza impegnative,
 tra le casere disseminate sui prati aperti, in breve raggiungiamo
-un nucleo più cospicuo è questo Pragrande
+un nucleo più cospicuo è questo **Pragrande**
 (1380m)(25/35min).
 
 Dove scorgiamo dei giovani "carpentieri" intenti
@@ -117,7 +117,7 @@ tra l'ombra dei larici.
 
 La traccia scavalca in breve il costolone che scende dallo
 Ziccher, e sull'altro versante in salita costante e in traverso
-raggiunge la Bocchetta di Sant'Antonio
+raggiunge la **Bocchetta di Sant'Antonio**
 (1930m)(1.50/2.10 h).
 
 ![](images_62/ziccher_santantonio.jpg)
@@ -127,16 +127,16 @@ sul passo si trovano la cappelletta e il rifugio, sul quale
 è posta una targa in memoria di tre finanzieri caduti
 durante il periodo bellico nel 1941.
 
-Di fronte a noi si apre la Val
-Onsernone, da noi percorsa e recensita,
-sulla sinistra i contrafforti di Cima
-Sassone, di fronte sulla destra la doppia
-cuspide di Cima di Caneto
-e il sottostante omonimo Alpe
-Caneto.
+Di fronte a noi si apre la **Val
+Onsernone**, da noi percorsa e recensita,
+sulla sinistra i contrafforti di **Cima
+Sassone**, di fronte sulla destra la doppia
+cuspide di **Cima di Caneto**
+e il sottostante omonimo **Alpe
+Caneto**.
 
 Tutto alla nostra destra, vediamo la cresta con traccia abbastanza
-visibile, che sale al Monte Ziccher.
+visibile, che sale al **Monte Ziccher**.
 
 Iniziamo a salire passando una piccola croce in ferro all'inizio
 della cresta, e seguiamo il sentiero che piega verso sinistra.
@@ -151,32 +151,32 @@ attenzione.
 
 Giunti sul lato opposto, la traccia torna marcata, e su magri
 prati verticali piegando verso sinistra sulla sommità,
-sale rapidamente alla piccola croce di vetta del Monte
-Ziccher (1965m)(2.00/2.20 h).
+sale rapidamente alla piccola croce di vetta del **Monte
+Ziccher** (1965m)(2.00/2.20 h).
 
 ![](images_62/pan_ziccher_vetta.jpg)
 
 Il
 panorama complice la bella giornata, appare mirabile.
 
-Verso nord-est fa capolino il Lago
-Maggiore e Ascona,
-chiuso sulla destra dalla cresta del Gridone
+Verso nord-est fa capolino il **Lago
+Maggiore** e **Ascona**,
+chiuso sulla destra dalla cresta del **Gridone**
 che precipita verso il lago.
 
 ![](images_62/ziccher_lago.jpg)
 
 Verso
-sud-ovest, si stende tutta la Val
-Vigezzo, sulla sinistra la Val
-Loana con la Laurasca
-e La
-Cima, la Val
-di Basso con il Pizzo
-Ragno, sulla destra la Colma
-di Craveggia, il Trubbio
-e  Cima Sassone,
-sullo sfondo sua Maestà il Rosa.
+sud-ovest, si stende tutta la **Val
+Vigezzo**, sulla sinistra la **Val
+Loana** con la **Laurasca**
+e **La
+Cima**, la **Val
+di Basso** con il **Pizzo
+Ragno**, sulla destra la **Colma
+di Craveggia**, il **Trubbio**
+e  **Cima Sassone**,
+sullo sfondo sua Maestà il **Rosa**.
 
 ![](images_62/pan_ziccher_vigezzo.jpg)
 
@@ -198,17 +198,17 @@ opposto del costolone.
 E' evidente che il sentiero segnalato sulla carta, è
 ormai pressochè inglobato dal sottobosco, poco male
 ora è sufficiente seguire in discesa il sentiero percorso
-all'andata per tornare all'Alpe
-Blizz e al parcheggio(1217m) dopo circa (4.00h/4.30h).
+all'andata per tornare all'**Alpe
+Blizz** e al parcheggio(1217m) dopo circa (4.00h/4.30h).
 
 Bella escursione che richiede un po di allenamento, di facile
-orientamento se si percorre il sentiero della Bocchetta di
-Sant'Antonio, che richiede invece un minimo di esperienza
+orientamento se si percorre il sentiero della **Bocchetta di
+Sant'Antonio**, che richiede invece un minimo di esperienza
 se si sale o scende direttamente in vetta per la mancanza
 di tracce evidenti.
 
-Un
-ringraziamento agli escursionisti di giornata Nazareno e Dario.
+**Un
+ringraziamento agli escursionisti di giornata Nazareno e Dario.**
 
 
 

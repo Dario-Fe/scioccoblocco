@@ -32,19 +32,19 @@ Qui a **Fondovalle** (1220m), lasciamo l'auto nei pressi di un campeggio situato
 
 ![lagosup_start.jpg](images_37/lagosup_start.jpg)
 
-Attraversiamo il piccolo agglomerato e incontriamo una larga strada prativa che seguiamo sulla destra. Questa strada non è altro che la pista per lo sci di fondo, sport principe nell'inverno formazzino. Dopo pochissimi metri, sulla sinistra, un cartello consunto di divieto di accendere fuochi e un segnale bianco-rosso del C.A.I. su di una pianta indicano l'imbocco del nostro sentiero. Immerso nel bosco il sentiero piega a destra e sale gradualmente, sino a portare sulla strada di accesso all'acquedotto, che vedremo poco sopra (10min). Raggiungiamo l'acquedotto e proseguiamo sul sentiero che riparte alle sue spalle. Ora la salita si fa impegnativa, all'interno di un fitto bosco di abeti rossi guadagnamo quota rapidamente, superiamo un rigagnolo e in un raro squarcio tra la vegetazione ammiriamo Fondovalle e la Val Formazza.
+Attraversiamo il piccolo agglomerato e incontriamo una larga strada prativa che seguiamo sulla destra. Questa strada non è altro che la pista per lo sci di fondo, sport principe nell'inverno formazzino. Dopo pochissimi metri, sulla sinistra, un cartello consunto di divieto di accendere fuochi e un segnale bianco-rosso del C.A.I. su di una pianta indicano l'imbocco del nostro sentiero. Immerso nel bosco il sentiero piega a destra e sale gradualmente, sino a portare sulla strada di accesso all'acquedotto, che vedremo poco sopra (10min). Raggiungiamo l'acquedotto e proseguiamo sul sentiero che riparte alle sue spalle. Ora la salita si fa impegnativa, all'interno di un fitto bosco di abeti rossi guadagnamo quota rapidamente, superiamo un rigagnolo e in un raro squarcio tra la vegetazione ammiriamo **Fondovalle** e la **Val Formazza**.
 
 ![lagusup_fondovalle.jpg](images_37/lagusup_fondovalle.jpg)
 
-Continuiamo a salire, e dopo aver guadato un ruscello, usciamo dal bosco e raggiungiamo l'**Alpe Stavello** (1594m)(50min/1.00h).
+Continuiamo a salire, e dopo aver guadato un ruscello, usciamo dal bosco e raggiungiamo l'Alpe Stavello (1594m)(50min/1.00h).
 
 ![lagosup_antillone.jpg](images_37/lagosup_antillone.jpg)
 
-L'Alpe è formato da pochi ruderi, uno dei quali coperto da tettoia per riparo d'emergenza. Voltandoci verso la direzione del nostro arrivo, possiamo vedere Fondovalle e in particolare il **Lago Antillone**. Proseguiamo l'ascesa ora in un ampio vallone aperto, dove alla nostra destra scorre il torrente, e su buona pendenza ci dirigiamo verso il bosco che vediamo sopra di noi. Entrati nel bosco, dominato dai larici, le pendenze si accentuano, pieghiamo verso destra, un camoscio ci attraversa la strada e dopo un traverso, sbuchiamo dalla vegetazione ormai sulle sponde del** torrente Ribo**, nei pressi del bivio per il **Passo di Bosco** (1930m circa)(1.50/2.00h).
+L'Alpe è formato da pochi ruderi, uno dei quali coperto da tettoia per riparo d'emergenza. Voltandoci verso la direzione del nostro arrivo, possiamo vedere **Fondovalle** e in particolare il **Lago Antillone**. Proseguiamo l'ascesa ora in un ampio vallone aperto, dove alla nostra destra scorre il torrente, e su buona pendenza ci dirigiamo verso il bosco che vediamo sopra di noi. Entrati nel bosco, dominato dai larici, le pendenze si accentuano, pieghiamo verso destra, un camoscio ci attraversa la strada e dopo un traverso, sbuchiamo dalla vegetazione ormai sulle sponde del **torrente Ribo**, nei pressi del bivio per il **Passo di Bosco** (1930m circa)(1.50/2.00h).
 
 ![lagosup_ribo.jpg](images_37/lagosup_ribo.jpg)
 
-Passo che conduce a Bosco Gurin in Val Maggia insediamento Walser. Una Coturnice prende il volo proprio sotto il nostro naso. Qui possiamo vedere tutto il percorso dell'alta valle del** torrente Ribo** e quello che ci aspetta fino alla meta. Infatti noi seguendo il sentiero che in pratica segue il letto del torrente, e ignorando la traccia per il passo di Bosco, riprendiamo a salire ormai su prati aperti, arrivando ad un larga conca (2070m circa)(2.10h/2.20h).
+Passo che conduce a Bosco Gurin in Val Maggia insediamento Walser. Una Coturnice prende il volo proprio sotto il nostro naso. Qui possiamo vedere tutto il percorso dell'alta valle del **torrente Ribo** e quello che ci aspetta fino alla meta. Infatti noi seguendo il sentiero che in pratica segue il letto del torrente, e ignorando la traccia per il passo di Bosco, riprendiamo a salire ormai su prati aperti, arrivando ad un larga conca (2070m circa)(2.10h/2.20h).
 
 ![lagosup_marmotta.jpg](images_37/lagosup_marmotta.jpg)
 

@@ -46,7 +46,7 @@ In discesa raggiungiamo il **Ponte di Faugiol**(1350m circa)(15/20min).
 
 ![bonasson_faugiol.jpg](images_42/bonasson_faugiol.jpg)
 
-Attraversato il **Rio Nocca**, il sentiero sale nel bosco, al bivio nei pressi del vecchio ponte crollato teniamo la sinistra, iniziamo a risalire su di un sentiero abbarbicato alle pareti verticali che strapiombano giù nel torrente. Quindi saliti rapidamente di quota, superiamo un rudimentale cancello in legno, e fuori dal bosco in un tratto dove il letto del fiume è largo e poco inclinato superiamo il nuovo ponte sul Rio Nocca riportandoci sulla sinistra del corso d'acqua (50min/1.00h).
+Attraversato il **Rio Nocca**, il sentiero sale nel bosco, al bivio nei pressi del vecchio ponte crollato teniamo la sinistra, iniziamo a risalire su di un sentiero abbarbicato alle pareti verticali che strapiombano giù nel torrente. Quindi saliti rapidamente di quota, superiamo un rudimentale cancello in legno, e fuori dal bosco in un tratto dove il letto del fiume è largo e poco inclinato superiamo il nuovo ponte sul **Rio Nocca** riportandoci sulla sinistra del corso d'acqua (50min/1.00h).
 
 ![lagogelato_ponte.jpg](images_42/lagogelato_ponte.jpg)
 
@@ -54,11 +54,11 @@ Qui per un tratto il sentiero diventa una larga strada sterrata dai recenti lavo
 
 ![lagogelato_nocca.jpg](images_42/lagogelato_nocca.jpg)
 
-Poco sotto l'alpeggio proprio sul sentiero si trovano dei cartelli indicatori. A sinistra si inerpica il sentiero che sale direttamente al lago di Mattogno, noi invece proseguiamo dritti in falso piano lasciando le baite dell'alpe sopra a sinistra e ci dirigiamo verso l'Alpe Mattogno. Entriamo in un bel bosco di abeti secolari a giudicare dalla notevole grandezza dei tronchi, e iniziamo a salire su pendenze impegnative, al ritmo di secchi tornanti. Appena fuori dalla vegetazione, il paesaggio si fa notevole, in un ampia conca verde circondata a varie altezze da altri alpeggi eccoci all'**Alpe Mattogno** (1863m)(1.30h/1.45h).
+Poco sotto l'alpeggio proprio sul sentiero si trovano dei cartelli indicatori. A sinistra si inerpica il sentiero che sale direttamente al lago di Mattogno, noi invece proseguiamo dritti in falso piano lasciando le baite dell'alpe sopra a sinistra e ci dirigiamo verso l'**Alpe Mattogno**. Entriamo in un bel bosco di abeti secolari a giudicare dalla notevole grandezza dei tronchi, e iniziamo a salire su pendenze impegnative, al ritmo di secchi tornanti. Appena fuori dalla vegetazione, il paesaggio si fa notevole, in un ampia conca verde circondata a varie altezze da altri alpeggi eccoci all'**Alpe Mattogno** (1863m)(1.30h/1.45h).
 
 ![pan_alpe_mattogno.jpg](images_42/pan_alpe_mattogno.jpg)
 
-L'ambiente è bello e rilassante, tra prati verdi e cime che circondano l'alpe tutt'attorno. Le baite sono tutte ristrutturate, e nella casera al centro della conca una signora non più giovanissima lavora il formaggio in grossi pentoloni fumanti. Sulla destra, poco sopra un piccolo agglomerato di baite, ci sono dei cartelli indicatori, il nostro sentiero esce infatti proprio sulla destra dapprima non molto marcato. Traversando su buona pendenza ai margini del bosco, il sentiero sale abbastanza rapidamente nei pressi dell'**Alpe Mattignale dentro** (2040m)(2.00h/2.15h). Dove troviamo poche baite diroccate e una ristrutturata con brutto WC esterno di colore verde, ma che si nota bene anche a distanza come punto di riferimento. Qui probabilmente il sentiero non sempre evidente, devia prima dell'alpe in direzione dell'Alpe Fiesco. Noi giunti sin qui proseguiamo dritti sul dosso appena avanti e quindi sempre senza sentiero su prati verticali saliamo a sinistra nella piccola conca fino ad incontrare il sentiero GTA che seguiamo sulla destra. Superata una scaletta tagliata nella roccia arriviamo intorno a **quota 2200m** in una ampia conca(2.40h/2.50h).
+L'ambiente è bello e rilassante, tra prati verdi e cime che circondano l'alpe tutt'attorno. Le baite sono tutte ristrutturate, e nella casera al centro della conca una signora non più giovanissima lavora il formaggio in grossi pentoloni fumanti. Sulla destra, poco sopra un piccolo agglomerato di baite, ci sono dei cartelli indicatori, il nostro sentiero esce infatti proprio sulla destra dapprima non molto marcato. Traversando su buona pendenza ai margini del bosco, il sentiero sale abbastanza rapidamente nei pressi dell'**Alpe Mattignale dentro** (2040m)(2.00h/2.15h). Dove troviamo poche baite diroccate e una ristrutturata con brutto WC esterno di colore verde, ma che si nota bene anche a distanza come punto di riferimento. Qui probabilmente il sentiero non sempre evidente, devia prima dell'alpe in direzione dell'**Alpe Fiesco**. Noi giunti sin qui proseguiamo dritti sul dosso appena avanti e quindi sempre senza sentiero su prati verticali saliamo a sinistra nella piccola conca fino ad incontrare il sentiero GTA che seguiamo sulla destra. Superata una scaletta tagliata nella roccia arriviamo intorno a **quota 2200m** in una ampia conca(2.40h/2.50h).
 
 ![pan_quota2200.jpg](images_42/pan_quota2200.jpg)
 
@@ -78,7 +78,7 @@ Grazie alle doti atletiche e alla curiosità degli stambecchi, Flavio riporta qu
 
 ![pan_lago_mattogno.jpg](images_42/pan_lago_mattogno.jpg)
 
-Bel lago, cirondato da verdi prati, ma senza nessuna pianta che possa dare un po di ombra e frequentato da colonie bovine. Il **Lago di Mattogno **con i suoi tre ettari di superficie, ai piedi del Pizzo del Forno, è il più grande della valle Isorno, e può dare soddisfazione ai pescatori. Dopo una pausa relax, riprendiamo il cammino, ancora sul sentiero GTA raggiungiamo in breve l'**Alpe Lago**(2066m)(5.00h/5.30h).
+Bel lago, cirondato da verdi prati, ma senza nessuna pianta che possa dare un po di ombra e frequentato da colonie bovine. Il **Lago di Mattogno** con i suoi tre ettari di superficie, ai piedi del Pizzo del Forno, è il più grande della valle Isorno, e può dare soddisfazione ai pescatori. Dopo una pausa relax, riprendiamo il cammino, ancora sul sentiero GTA raggiungiamo in breve l'**Alpe Lago**(2066m)(5.00h/5.30h).
 
 ![lagogelato_alpelago.jpg](images_42/lagogelato_alpelago.jpg)
 

@@ -58,4 +58,4 @@ Scendiamo rapidamente dai sentieri appena calcati e dopo 5h10'(pause comprese) d
 
 Scarica recensione
 
-**Escursionista di giornata Fabrizio. **
+**Escursionista di giornata Fabrizio.** **

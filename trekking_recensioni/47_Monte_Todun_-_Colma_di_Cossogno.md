@@ -25,10 +25,10 @@ come_raggiungere: |
    del sentiero.
 ---
 Giunti
-a Miazzina
+a **Miazzina**
 (750m), sul tornante poco prima della fine dell'asfalto,
 sulla sinistra scende il sentiero con chiari cartelli
-per Rugno.
+per **Rugno**.
 
 ![](images_47/todun_start.jpg)
 
@@ -37,12 +37,12 @@ sentiero, dapprima scende leggermente nel fitto del bosco,
 poi con secchi tornanti cala rapidamente a superare su di
 un ponte un torrentello, quindi su sentiero rudemente gradonato
 in pochi ma ripidi tornanti raggiunge la radura soprastante
-superata la quale eccoci a Rugno
+superata la quale eccoci a **Rugno**
 (741m) (10/15 min).
 
 ![](images_47/todun_rugno_festa.jpg)
 
-Rugno
+**Rugno**
 un vero e proprio paese con baite finemente ristrutturate,
 oggi è pieno di gente, in occasione di questa calda
 domenica di ottobre, tutti gli abitanti delle baite si sono
@@ -61,8 +61,8 @@ del Buon Consiglio.
 
 Possiamo
 vedere sul piccolo promontorio al fianco dell'oratorio,
-da dove si spazia già sul Lago
-Maggiore e su Verbania
+da dove si spazia già sul **Lago
+Maggiore** e su **Verbania**
 alcune coppelle su gli affioramenti rocciosi e
 la struttura per il falò che viene acceso ogni ultima
 domenica di luglio per la festa dell'alpeggio.
@@ -110,15 +110,15 @@ Riprendiamo il cammino in breve troviamo un bivio, teniamo
 la sinistra, inizia la salita un po' impegnativa, usciamo
 dal bosco e alzando lo sguardo vediamo la prossima meta.
 
-Infatti in pochi minuti eccoci all'Alpe
-Aurelio (934m)(30/35min).
+Infatti in pochi minuti eccoci all'**Alpe
+Aurelio** (934m)(30/35min).
 
 ![](images_47/pan_aurelio.jpg)
 
-L'Alpe
-Aurelio o come lo chiamano quelli del posto Vrei, è
+L'**Alpe
+Aurelio** o come lo chiamano quelli del posto Vrei, è
 uno splendido alpeggio costituito da molte meno baite rispetto
-a Rugno, ma che dona oltre a maggiore tranquillità
+a **Rugno**, ma che dona oltre a maggiore tranquillità
 uno dei panorami più belli che la zona possa offrire.
 
 Sopra il nucleo di baite il sentiero propone un bivio, a
@@ -129,7 +129,7 @@ rete con cancelletto che delimita una proprietà e
 rientriamo nel bosco.
 
 La salita si fa impegnativa, in pochi minuti raggiungiamo
-le baite della parte superiore dell'Alpe Aurelio, quindi
+le baite della parte superiore dell'**Alpe Aurelio**, quindi
 allo scoperto il sentiero piega a sinistra su magri e ripidi
 prati.
 
@@ -153,32 +153,32 @@ seguendo il largo tagliafuoco che esce in piano sulla destra.
 
 Anche in questo caso continuiamo a salire, il sentiero con
 ripidi tornanti ci porta in breve in cresta e seguendolo
-sulla sinistra in pochi metri sulla cima del Monte
-Todun (1298m)(1.00/1.15h).
+sulla sinistra in pochi metri sulla cima del **Monte
+Todun** (1298m)(1.00/1.15h).
 
 ![](images_47/todun_cima.jpg)
 
 Il
 sentiero, che pochissimo sotto prosegue sulla destra è
-quello che cavalca la cresta della Colma
-di Cossogno, e porta all'Alpe Cavallotti
+quello che cavalca la cresta della **Colma
+di Cossogno**, e porta all'Alpe Cavallotti
 e al Pizzo Pernice da noi percorso e recensito.
 
-Qui dal Todun,
+Qui dal **Todun**,
 il panorama è superbo.
 
 ![](images_47/pan_todun.jpg)
 
 Da
-sinistra, Verbania,
-al di la del lago Laveno,
-il Monte Rosso,
-il Lago Maggiore
-e le isole Borromee,
-il Mottarone,
-la foce del Toce,
-Mont'Orfano,
-lago d'Orta.
+sinistra, **Verbania**,
+al di la del lago **Laveno**,
+il **Monte Rosso**,
+il **Lago Maggiore**
+e le **isole Borromee**,
+il **Mottarone**,
+la foce del **Toce**,
+**Mont'Orfano**,
+**lago d'Orta**.
 
 Alla mia sinistra, appena spiccato il volo dall'Alpe Cavallotti,
 volteggiano quattro parapendii.
@@ -186,22 +186,22 @@ volteggiano quattro parapendii.
 ![](images_47/todun_parape.jpg)
 
 Alla
-mia destra dietro il Monte
-Faiè, la poderosa mole del Monte
-Rosa.
+mia destra dietro il **Monte
+Faiè**, la poderosa mole del **Monte
+Rosa**.
 
 ![](images_47/todun_rosa.jpg)
 
 Il
 ritorno avviene per il percorso di andata, ma con ancora
-una tappa in quel di Rugno dove la festa volge all'epilogo,
+una tappa in quel di **Rugno** dove la festa volge all'epilogo,
 ma sono in tempo per le caldarroste.
 
 ![](images_47/todun_rugno_asso.jpg)
 
 Qui
 infatti, difronte alla sede della neonata
-"Associazione Alpe Rugno" che
+**"Associazione Alpe Rugno"** che
 è il motivo principale dei festeggiamenti di oggi,
 e alla quale vanno i miei migliori auguri per l'importanza
 che hanno queste associazioni nella conservazione del nostro
@@ -209,14 +209,14 @@ territorio, gli specialisti stanno preparando delle ottime
 'bruscarole'.
 
 Dopo aver gustato qualche caldarrosta e aver visitato
-la bella baita di Paola e Marcello, torno all'auto e a Miazzina(750m)
+la bella baita di Paola e Marcello, torno all'auto e a **Miazzina**(750m)
 dopo (2.00/2.30h) dalla partenza.
 
 Bella gita alla portata di tutti, con bellissimi scorci
 panoramici.
 
-Escursionista
-di giornata Dario.
+**Escursionista
+di giornata Dario.**
 
 
 

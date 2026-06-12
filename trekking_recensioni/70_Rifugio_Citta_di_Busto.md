@@ -20,7 +20,7 @@ Dal parcheggio sottostante il muraglione della diga, risaliamo la strada sulla d
 
 ![](images_70/rifugiocittadibusto_riale.jpg)
 
-In circa 10 minuti raggiungiamo la diga e il Lago di Morasco.
+In circa 10 minuti raggiungiamo la diga e il **Lago di Morasco**.
 
 ![](images_70/rifugiocittadibusto_lago.jpg)
 
@@ -66,13 +66,13 @@ Una giornata a mezza pensione (cena, pernotto e colazione) costa meno di 40€.
 
 Dopo la cena in piacevole compagnia inizia la serata letteraria..
 
-La nostra nuova amica Maria Giuliana Saletta, scrittrice di bellissimi libri per bambini, presenta la sua ultima fatica ambientata come sua consuetudine nel Parco Veglia Devero, dal titolo "Viola, lo Sgrunfolo e il Palio dei tritoni", la storia di una bambina, di suo nonno, del "nemico" Sgrunfolo e una curiosa sfida tra tritoni, che potete  trovare QUI.
+La nostra nuova amica Maria Giuliana Saletta, scrittrice di bellissimi libri per bambini, presenta la sua ultima fatica ambientata come sua consuetudine nel Parco Veglia Devero, dal titolo "Viola, lo Sgrunfolo e il Palio dei tritoni", la storia di una bambina, di suo nonno, del "nemico" Sgrunfolo e una curiosa sfida tra tritoni, che potete  trovare **QUI**.
 
 Quindi è la volta dell'amico Marco De Ambrosis e di Marco Valsesia (gestore del rifugio), che presentano il loro libro da poco uscito "Val Formazza Escursioni e itinerari per tutti", dove i due hanno condensato la loro esperienza di montagna, di accompagnatori e di questa magnifica valle.
 
 Dieci itinerari più un giro alto dei rifugi, oltre a numerevoli informazioni sulla valle, come ristoranti, rifugi, eventi, storia etc, il tutto in un maneggevole libro dal prezzo contenutissimo.
 
-Chi volesse avere qualche informazione in più può vedere QUI.
+Chi volesse avere qualche informazione in più può vedere **QUI**.
 
 ![](images_70/rifugiocittadibusto_serata.jpg)
 
@@ -84,14 +84,14 @@ Dopo una notte tranquilla la mattina gustiamo un abbondante colazione e facciamo
 
 Che noi abbiamo descritto in un altra recensione.
 
-Quindi verso valle ecco apparire il Lago di Morasco e la piana di Riale nostro punto di partenza.
+Quindi verso valle ecco apparire il **Lago di Morasco** e la piana di Riale nostro punto di partenza.
 
 ![](images_70/rifugiocittadibusto_morasco.jpg)
 
-Quindi in compagnia di Giuliana e suo marito, prendiamo la via del ritorno che avviene per lo stesso percorso di andata e che ci riconduce al Lago di Morasco dopo (1.45h/2.00h), per un totale tra salita e discesa di (4.00h/4.30h) .
+Quindi in compagnia di Giuliana e suo marito, prendiamo la via del ritorno che avviene per lo stesso percorso di andata e che ci riconduce al **Lago di Morasco** dopo (1.45h/2.00h), per un totale tra salita e discesa di (4.00h/4.30h) .
 
-Un
-grazie agli escursionisti  Marco, Matteo e Dario.
+**Un
+grazie agli escursionisti  Marco, Matteo e Dario.**
 
 
 

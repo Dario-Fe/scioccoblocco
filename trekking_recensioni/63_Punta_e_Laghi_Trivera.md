@@ -35,7 +35,7 @@ come_raggiungere: |
    inizio sentiero sulla sinistra.
 ---
 Superato l'ultimo tornante della **strada ENEL** che conduce alla diga del lago Campliccioli, sulla sinistra troviamo dei cartelli indicatori della partenza sentieri, qualche metro più avanti vi è una comoda piazzola per parcheggiare l'auto nei pressi di una cascatella, siamo a quota 1290m circa.
-Da notare che i cartelli non indicano la nostra meta odierna (Punta e laghi Trivera), cosa a mio parere criticabile vista la notorietà della meta, ma Alpe Crevaloscia, Passo del Mottone e Mottone, tuttavia il nostro obbiettivo si trova proprio sul sentiero per il Passo del Mottone.
+Da notare che i cartelli non indicano la nostra meta odierna (Punta e laghi Trivera), cosa a mio parere criticabile vista la notorietà della meta, ma **Alpe Crevaloscia**, Passo del Mottone e Mottone, tuttavia il nostro obbiettivo si trova proprio sul sentiero per il Passo del Mottone.
 Quindi imbocchiamo il sentiero, contraddistinto dalla sigla "C19" e dai colori bianco-rosso del C.A.I, ed iniziamo la salita.
 
 ![](images_63/trivera_start.jpg)
@@ -89,7 +89,7 @@ Nel primo caso è necessario prestare molta attenzione
 risalendo i grossi massi, nel secondo caso il sentiero con
 ampio giro contorna la vasta zona di sfasciumi rocciosi sulla
 sinistra per approdare al secondo
-Lago del Trivera(2144m) in circa 15/20 minuti.
+**Lago del Trivera**(2144m) in circa 15/20 minuti.
 
 ![](images_63/pan_trivera_secondolago.jpg)
 
@@ -125,7 +125,7 @@ mineraria, che negli ultimi secoli sino all'inizio di quello
 appena passato, ha portato gli alpigiani antronesi e anzaschini
 a trasformarsi in cercatori d'oro.
 
-L'emissario del primo **Lago del
+L'emissario del **primo Lago del
 Trivera**, che precipita nell omonimo vallone,
 era la forza motrice dei cosiddetti "molinetti"
 componenti principi tra le attrezzature del processo di estrazione.
@@ -172,8 +172,8 @@ e severi, che richiede però un buon allenamento per
 il percorso totalmente verticale che mette a dura prova
 gambe e fiato sia nella salita che nella discesa.
 
-Grazie
-agli escursionisti di giornata Daniele, Remo e Dario.
+**Grazie
+agli escursionisti di giornata Daniele, Remo e Dario.**
 
 
 

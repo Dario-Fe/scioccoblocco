@@ -80,7 +80,7 @@ Non ci resta che iniziare a salire lungo la provinciale asfaltata che in meno di
 
 Bella gita alla portata di tutti, che può essere fatta comodamente al pomeriggio, ma che regala panorami di alto livello.
 
-Escursionista  di giornata   Dario.
+**Escursionist**a  **di giornata   Dario.**
 
 
 

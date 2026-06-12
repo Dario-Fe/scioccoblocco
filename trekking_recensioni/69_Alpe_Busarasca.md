@@ -35,30 +35,30 @@ come_raggiungere: |
    fino al bivio per Santino, quindi prendiamo a sinistra 
    e seguiamo l'itinerario già descritto sopra.
 ---
-Qui a Cicogna (732m), lasciamo l'auto nel parcheggio nei pressi del circolo e torniamo indietro in discesa al tornante che immette in paese.
-Qui parte il famosissimo sentiero per Pogallo, detto anche "sentiero Sutermeister".
+Qui a **Cicogna** (732m), lasciamo l'auto nel parcheggio nei pressi del circolo e torniamo indietro in discesa al tornante che immette in paese.
+Qui parte il famosissimo sentiero per **Pogallo**, detto anche "sentiero Sutermeister".
 ![](images_69/busarasca_start.jpg)
 
-Infatti Pogallo nei primi del novecento sotto la spinta di Carlo Sutermeister divenne in breve tempo un centro vitale la popolazione arrivò a contare centinaia di lavoratori, sovente con famiglie al seguito, al servizio di un inpreditore attento alle esigenze della comunità e non solo a quelle della ditta.
+Infatti **Pogallo** nei primi del novecento sotto la spinta di **Carlo Sutermeister** divenne in breve tempo un centro vitale la popolazione arrivò a contare centinaia di lavoratori, sovente con famiglie al seguito, al servizio di un inpreditore attento alle esigenze della comunità e non solo a quelle della ditta.
 Vennero rifatte le baite per gli operai più un fabbricato in muratura per la sede della ditta, che ancora oggi resiste all'ingresso dell'alpeggio,
-Pogallo era allora un vero e proprio villaggio, con illuminazione elettrica, scuole elementari, asilo, spaccio,osteria, officina di fabbro-maniscalco,stalla-latteria, forno, lavatoio, infermeria, con canali e tubazioni vennero allestiti punti acqua.
+**Pogallo** era allora un vero e proprio villaggio, con illuminazione elettrica, scuole elementari, asilo, spaccio,osteria, officina di fabbro-maniscalco,stalla-latteria, forno, lavatoio, infermeria, con canali e tubazioni vennero allestiti punti acqua.
 Maggiori dettagli li trovate nella nostra recensione che trovate QUI.
-Per chi ne volesse sapere di più consiglio "Carlo Sutermeister fra Intra e Val Grande" di Sutermeister Cassano Alberti editore 1992.
+Per chi ne volesse sapere di più consiglio "**Carlo Sutermeister fra Intra e Val Grande**" di Sutermeister Cassano Alberti editore 1992.
 
 Oggi ci proponiamo di raggiungere l'Alpe Busarasca, meta poco famosa ma che permette di gustare la tanto decantata wilderness.
-Inziamo a camminare lungo il sentiero che costeggia costatemente il rio Pogallo, che qualche decina di metri più sotto, scorre impetuoso per le abbondanti precipitazioni delle ultime settimane.
+Inziamo a camminare lungo il sentiero che costeggia costatemente il rio **Pogallo**, che qualche decina di metri più sotto, scorre impetuoso per le abbondanti precipitazioni delle ultime settimane.
 Il percorso tra saliscendi si snoda quasi alla stessa quota, superando alcuni punti un po' esposti sul torrente e qualche recente piccola frana.
-Regalando tuttavia scorci fantastici sul rio Pogallo e la sua stretta e severa forra.
+Regalando tuttavia scorci fantastici sul rio **Pogallo** e la sua stretta e severa forra.
 ![](images_69/busarasca_fiume.jpg)
 
 Nonostante il poco dislivello, il sentiero non va sottovalutato, perchè è abbastanza lungo ondulato e in alcuni tratti esposto.
-Approdiamo finalmente a Pogallo(777m) dopo (1.15h/1.30h).
+Approdiamo finalmente a **Pogallo**(777m) dopo (1.15h/1.30h).
 ![](images_69/pan_pogallo.jpg)
 
 Il verde intenso della primavera domina la scena, il piccolo borgo è animato da alcuni proprietari delle baite, alcune ben riattate, che chiacchierano al centro dell'abitato, sulla sinistra come sempre ci accoglie la vecchia costruzione della ditta Sutermeister, ormai sempre più cadente.
 La giornata è bellissima, sullo sfondo azzurro si stagliano la Laurasca e il Cimone di Cortechiuso.
 Il promontorio proprio di fronte a noi, è la meta odierna, quindi dopo un breve giro tra le viuzze, torniamo sui nostri passi e proprio sulla destra rispetto al nostro arrivo, nei pressi di un pannello esplicativo, si stacca il sentiero che scende al fiume.
-In pochissimi minuti eccoci sul ponticello che attraversa il rio Pogallo, proprio dove si unisce con l'immissario rio Pianezzoli.
+In pochissimi minuti eccoci sul ponticello che attraversa il rio **Pogallo**, proprio dove si unisce con l'immissario rio Pianezzoli.
 ![](images_69/busarasca_ponte.jpg)
 
 Superato il ponte, proseguiamo pressoché in piano sul sentiero che conduce a Pian di Boit, bisogna prestare attenzione però.
@@ -66,7 +66,7 @@ Dopo circa 200m sulla sinistra si stacca il sentiero per Busarasca, segnalato da
 Sulle piante qua e la un segnavia fatto con un punto rosso a vernice è l'unico riferimento.
 La traccia è ancora abbastanza evidente ma da qui in poi è consigliabile avere an po' di esperienza.
 Immersi ormai nel bosco, saliamo zig-zagando già su buone pendenze, per giungere dopo poco, nei pressi di un netto cambio di direzione verso destra su di un dosso (1.40h/1.55h) .
-Dove uscendo un poco sulla sinsitra possiamo gustare una fantastica veduta di Pogallo dall'alto.
+Dove uscendo un poco sulla sinsitra possiamo gustare una fantastica veduta di **Pogallo** dall'alto.
 ![](images_69/busarasca_pogallo.jpg)
 
 Riprendiamo a salire, con alcuni secchi tornanti guadagnamo un boschetto che attraversiamo in leggera salita.
@@ -92,13 +92,13 @@ Dando le spalle all'alpeggio, in direzione sud spicca giù in fondo il Mottarone
 Quindi bocchetta di Terza, la Piota, la Zeda, la Marona, la dorsale del Pian Cavallone con il suo terminale Pizzo Pernice.
 Facciamo un filmato tutt'attorno...
 
-Con nostra sorpresa, non siamo soli, infatti nonostante questo luogo non sia certo molto "turistico" e di comodo accesso, incontriamo Adriano che ci ha preceduto.
+Con nostra sorpresa, non siamo soli, infatti nonostante questo luogo non sia certo molto "turistico" e di comodo accesso, incontriamo **Adriano** che ci ha preceduto.
 Facciamo quattro chiacchere, e scopriamo che il nostro nuovo amico arriva da Busto, ma sfoggia una conoscenza sulla Val Grande notevole, cosa ancor più di tutto rispetto.
 In piacevole compagnia ci concediamo il meritato pranzo, binocolando qua e la sulle cime circostanti, popolate da qualche escursionista.
 Riposati e rifocillati decidiamo di scendere non prima di aver scattato la foto di "vetta".
 ![](images_69/busarasca_vetta.jpg)
 
-Salutiamo Adriano e iniziamo la discesa per il percorso di andata.
+Salutiamo **Adriano** e iniziamo la discesa per il percorso di andata.
 Ma un dubbio ci "tormenta", alcune guide indicano il passaggio per l'Alpe Brusà nel percorso di salita a Busarasca, ma noi non l'abbiamo incontrato...
 Scendiamo nel bosco fitto e ripido percorso all'andata e in circa 20' torniamo al bivio descritto salendo.
 Controlliamo l'altimetro siamo attorno a quota 1300m, quella del fantomatico "alpe fantasma", decidiamo quindi di seguire la traccia che prosegue in piano sulla sinistra scendendo.
@@ -121,21 +121,21 @@ Quindi dopo alcuni minuti nei pressi di una cascatella, eccoci all'Alpe Preda(10
 ![](images_69/busarasca_preda.jpg)
 
 Bella radura, dove anche qui le vecchie casere purtroppo sono completamente distrutte.
-Uscendo di poco sulla sinistra dell'alpe incontriamo il sentiero che collega Pogallo a Pian di Boit, che noi seguiamo sulla destra, con il torrente che scorre poco sotto alla nostra sinistra.
+Uscendo di poco sulla sinistra dell'alpe incontriamo il sentiero che collega **Pogallo** a Pian di Boit, che noi seguiamo sulla destra, con il torrente che scorre poco sotto alla nostra sinistra.
 Dopo alcuni minuti si trova un bivio con cartello inleggibile, una traccia scende a guadare il fiume per seguirlo poi sulla sponda opposta per un tratto, mentre l'altra sale un poco e resta sullo stesso lato.
-Quello che scende è certamente più panoramico, ma il cartello "se si leggesse" indica che in caso di torrente grosso è consigliato seguire il sentiero alternativo sulla destra.
+Quello che scende è certamente più panoramico, ma il cartello **"se si leggesse"** indica che in caso di torrente grosso è consigliato seguire il sentiero alternativo sulla destra.
 Cosa che visto il rumore del rio Pianezzoli noi prudentemente facciamo.
 
-Da qui continuiamo a ritroso sul sentiero in parte fatto all'andata fino a Pogallo (777m)(5.15h/5.40h).
+Da qui continuiamo a ritroso sul sentiero in parte fatto all'andata fino a **Pogallo** (777m)(5.15h/5.40h).
 
-E di nuovo il lungo percorso in saliscendi fino a tornare a Cicogna (732m)(6.30h/7.00h).
+E di nuovo il lungo percorso in saliscendi fino a tornare a **Cicogna** (732m)(6.30h/7.00h).
 
 Escursione che fa assaporare appieno tutte le sfumature della wilderness, ma che richiede un buon allenamento visto la notevole lunghezza e durata del percorso.
 
 Che richiede una buona esperienza di montagna in quanto buona parte del percorso è pressoché privo di segnalazioni, di sentieri e su terreno impervio.
 
-Un
-grazie agli escursionisti di giornata Fabrizio e Dario.
+**Un
+grazie agli escursionisti di giornata Fabrizio e Dario.**
 
 
 

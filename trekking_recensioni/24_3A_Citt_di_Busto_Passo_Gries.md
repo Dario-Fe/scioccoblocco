@@ -169,8 +169,8 @@ Morasco e poi alla macchina.
 
 Scarica recensione
 
-Un
-ringraziamento a Flavio,Stefano e Fabrizio
+**Un
+ringraziamento a Flavio,Stefano e Fabrizio**
 
 
 

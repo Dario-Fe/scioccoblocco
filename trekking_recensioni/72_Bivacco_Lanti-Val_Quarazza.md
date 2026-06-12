@@ -100,8 +100,8 @@ Il rientro avviene per lo stesso percorso di andata, sino a tornare a Isella(122
 
 Escursione negli scenari della magnifica Val Quarazza, ricca di verde, cascate, pozze cristalline e cime dirupate. Nella prima parte alla portata di tutti, mentre nella seconda anche causa lungo avvicinamento prima della salita vera e propria, è consigliabile un buon allenamento.
 
-Un
-grazie agli escursionisti  di giornata Fabrizio e Dario.
+**Un
+grazie agli escursionisti  di giornata Fabrizio e Dario.**
 
 
 

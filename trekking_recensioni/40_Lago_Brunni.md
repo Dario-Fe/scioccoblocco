@@ -40,10 +40,10 @@ Giunti in cima ci accorgiamo che l'altimetro segna i 2600 metri circa, il luogo 
 
 Splendido il panorama sul lago di Morasco e fondovalle. Due aquile che volteggiano dinanzi a noi rendono particolarmente affascinante la visuale davvero mozzafiato.
 
-**
 
-![panoramica.jpg](images_40/panoramica.jpg) **
+
+![panoramica.jpg](images_40/panoramica.jpg) 
 
 Scarica recensione
 
-**Un ringraziamento a Giada e Vittorio **
+**Un ringraziamento a Giada e Vittorio** **

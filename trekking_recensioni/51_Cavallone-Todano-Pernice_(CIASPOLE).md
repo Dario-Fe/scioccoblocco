@@ -35,7 +35,7 @@ come_raggiungere: |
 ---
 Qui
 nell'ampio parcheggio sterrato contraddistinto al centro
-dalla cappella Fina
+dalla **cappella Fina**
 (1100m), lasciamo l'auto e imbocchiamo il largo sentiero
 gippabile che parte sul fondo.
 
@@ -48,7 +48,7 @@ Partiamo
 lasciando le nostre ciaspole appese allo zaino.
 
 Ignoriamo il sentiero che subito sulla destra prosegue in
-piano, il quale porta alla cappella di Porta a Caprezzo,
+piano, il quale porta alla cappella di Porta a **Caprezzo**,
 e dritti saliamo sulla comoda strada che si immerge in un
 bosco.
 
@@ -56,7 +56,7 @@ La neve è poca e molto battuta si avanza tranquillamente
 con gli scarponi da trekking.
 
 Superiamo una cappelletta dedicata da un padre alla memoria
-del figlio, quindi la deviazione per l'Alpe Cavallotti,
+del figlio, quindi la deviazione per l'**Alpe Cavallotti**,
 la strada diviene comoda mulattiera, quindi marcatissimo
 sentiero, e arriviamo nei pressi di una fontana ormai fuori
 dal bosco (30').
@@ -65,15 +65,15 @@ dal bosco (30').
 
 Se
 il tempo vi assiste il panorama è già notevole,
-Verbania
-si stende sulle rive del Lago
-Maggiore, il Monte
-Rosso appare sulla destra e i monti lombardi
+**Verbania**
+si stende sulle rive del **Lago
+Maggiore**, il **Monte
+Rosso** appare sulla destra e i monti lombardi
 fanno da sfondo.
 
 Oggi la giornata è velata in alto, ma sotto è
-limpido e i laghi di Varese
-e Monate riflettono nella luce del mattino.
+limpido e i **laghi di Varese
+e Monate** riflettono nella luce del mattino.
 
 Proseguiamo ora su battutissimo sentiero tanto che i bordi
 risultano spesso 40cm più alti del centro, da far
@@ -87,45 +87,45 @@ appare la prima meta.
 
 ![](images_51/cav-tod-per_marona.jpg)
 
-Aggiriamo il Pizzo Pernice e ai margini di un fittissimo
+Aggiriamo il **Pizzo Pernice** e ai margini di un fittissimo
 e scuro bosco di abeti rossi arriviamo alla lunga spianata
 che precede la prima meta (1.00h).
 
 Qui troviamo chiare indicazioni di un sentiero che scende
-a Cicogna .
+a **Cicogna** .
 
 ![](images_51/pan_valgrande.jpg)
 
 Dalla
 nostra sinistra, il massiccio del
-Monte Rosa sgombro da nubi svetta maestoso,
-più vicino a noi corre la linea di cresta dei Corni
-di Nibbio che termina nel Proman,
-ancora più vicina la dorsale spartiacque tra Valgrande
-e Val Pogallo
-con Cima Sasso
-il Pedum e
-la testata frontale della Laurasca
-e del Cimone di Cortechiuso,
-sulla destra la cresta del Monte
-Zeda e del Pizzo
-Marona, per finire con il Monte
-Todano.
+**Monte Rosa** sgombro da nubi svetta maestoso,
+più vicino a noi corre la linea di cresta dei **Corni
+di Nibbio** che termina nel **Proman**,
+ancora più vicina la dorsale spartiacque tra **Valgrande**
+e **Val Pogallo**
+con **Cima Sasso**
+il **Pedum** e
+la testata frontale della **Laurasca**
+e del **Cimone di Cortechiuso**,
+sulla destra la cresta del **Monte
+Zeda** e del **Pizzo
+Marona**, per finire con il **Monte
+Todano**.
 
-Di fronte a noi scende il sentiero per Curgei e Cicogna,
-alla nostra sinistra sale la traccia per il Pizzo Pernice,
+Di fronte a noi scende il sentiero per Curgei e **Cicogna**,
+alla nostra sinistra sale la traccia per il **Pizzo Pernice**,
 noi andiamo a destra.
 
 La neve ora è abbondante, calziamo le ciaspole, dapprima
 alcuni metri in piano poi la traccia sale su buone pendenze,
-ma in poco tempo raggiungiamo il bivacco
-invernale del Pian Cavallone
+ma in poco tempo raggiungiamo il **bivacco
+invernale del Pian Cavallone**
 
 ![](images_51/pan_croce_cav.jpg)
 
 Quindi
-nei pressi i resti del vecchio
-albergo del Pian Cavallone bombardato durante
+nei pressi i resti del **vecchio
+albergo del Pian Cavallone** bombardato durante
 la seconda guerra mondiale.
 
 ![](images_51/cav-tod-per_albergo.jpg)
@@ -150,25 +150,25 @@ La nostra prossima meta è ben visibile davanti a
 noi verso Nord.
 
 Scendiamo sull'ampia cresta e velocemente arriviamo alla
-cappelletta del Pian Cavallone
+**cappelletta del Pian Cavallone**
 (1528m) (1.35h/1.40h).
 
 ![](images_51/cav-tod-per_cappelletta.jpg)
 
 L'ambiente
 ormai è prettamente invernale e la neve regala scorci
-incantevoli, poco sotto vediamo il rifugio
-del Pian Cavallone.
+incantevoli, poco sotto vediamo il **rifugio
+del Pian Cavallone.**
 
-Il rifugio del Pian Cavallone
+Il **rifugio del Pian Cavallone**
 di proprietà del CAI Intra
-costruito nel 1882 e gestito dalla Cooperativa Valgrande
+costruito nel 1882 e gestito dalla Cooperativa **Valgrande**
 è la meta più classica dell'escursionismo
 verbanese per la sua facile accessibilità
-da molti paesi della Valle
-Intrasca come Miazzina,
-Intragna, Caprezzo
-e anche da Cicogna
+da molti paesi della **Valle
+Intrasca** come **Miazzina**,
+**Intragna**, **Caprezzo**
+e anche da **Cicogna**
 ma con un po più di sforzo.
 
 Testimone di questo è una foto posta su di un pannello
@@ -188,16 +188,16 @@ Resta aperto ogni fine settimana da aprile a ottobre e tutti
 i giorni dall'ultima settimana di luglio alla fine di agosto,
 apre su prenotazione e solo per gruppi in ogni periodo dell'anno.
 
-Dietro la cappelletta partono due sentieri uno indica Cicogna
+Dietro la cappelletta partono due sentieri uno indica **Cicogna**
 ma può essere utilizzato per raggiungere la Marona
-senza salire al Monte Todano dove conduce il secondo
+senza salire al **Monte Todano** dove conduce il secondo
 sentiero.
 
 Noi saliamo la croce è ben visibile e la traccia
 con una linea pressoche diretta punta alla vetta, le pendenze
 si fanno notevoli, la fatica anche, le ciaspole fanno sentire
 la loro importanza su questi ripidi pendii, in circa 15'
-eccoci sul Monte Todano
+eccoci sul **Monte Todano**
 (1667m)(1.50h/2.00h).
 
 ![](images_51/cav-tod-per_todano.jpg)
@@ -208,12 +208,12 @@ Maggiore, sui
 laghi lombardi, il Mottarone,
 lago d'Orta,
 Monte Massone,
-Monte Rosa
-e tutta la Valgrande.
+**Monte Rosa**
+e tutta la **Valgrande**.
 
 Mentre Riki percorre gli ultimi metri, ammiro la cresta appena
-percorsa e quella del Pizzo
-Pernice che ci attende, sembra un lungo scivolo
+percorsa e quella del **Pizzo
+Pernice** che ci attende, sembra un lungo scivolo
 innevato che si tuffa nel lago.
 
 Riki è felice come un bambino per questa nuova esperienza,
@@ -226,19 +226,19 @@ associazione donatori di sangue, dove è posta la
 scatola metallica con il libro di vetta.
 
 La vista si apre giù sul versante opposto, tra i
-numerosi alpeggi dell'alta Valle
-Intrasca che noi abbiamo percorso e descritto
+numerosi alpeggi dell'alta **Valle
+Intrasca** che noi abbiamo percorso e descritto
 in una nostra recensione.
 
 Mangiamo velocemente qualcosa mentre si alza il vento.
 
 Ripartiamo e a ritroso ripercorriamo il percorso fatto poc
-anzi sino a tornare al bivio
-per Curgei-Cicogna.
+anzi sino a tornare al **bivio
+per Curgei-Cicogna**.
 
 Qui anzichè scendere verso sinistra sul percorso
 dell'andata, saliamo dritti in linea retta su buone pendenze
-verso la cima del Pizzo Pernice
+verso la cima del **Pizzo Pernice**
 (1500m)(3.00h/3.10h).
 
 ![](images_51/cav-tod-per_pernice.jpg)
@@ -246,8 +246,8 @@ verso la cima del Pizzo Pernice
 Il
 vento è ancora sostenuto, il sole fa la sua comparsa
 in modo più consistente, ammiriamo il panorama ancora
-sul lago e su Cicogna
-e la Valgrande.
+sul lago e su **Cicogna**
+e la **Valgrande**.
 
 Dopo la classica foto di vetta riprendiamo il cammino, sull'ampia
 e aerea cresta.
@@ -259,20 +259,20 @@ scenario è superbo, camminiamo sospesi tra neve e
 acqua.
 
 Dapprima in piano e poi in discesa, cavalchiamo la splendida
-cresta che ci conduce in poco tempo al bivio per l'Alpe
-Cavallotti.
+cresta che ci conduce in poco tempo al bivio per l'**Alpe
+Cavallotti**.
 
-Alla nostra destra vediamo Cicogna
-capitale della Valgrande
-e sopra l'Alpe Pra
-o Alpino.
+Alla nostra destra vediamo **Cicogna**
+capitale della **Valgrande**
+e sopra l'**Alpe Pra**
+o **Alpino**.
 
 Proseguiamo in falsopiano, ai margini del bosco, mentre
 la neve va diminuendo a causa della quota ormai bassa e
 dell'esposizione a sud.
 
-Togliamo le racchette da neve e dopo poco eccoci al Monte
-Todun (1268m)(3.50h/4.00h).
+Togliamo le racchette da neve e dopo poco eccoci al **Monte
+Todun** (1268m)(3.50h/4.00h).
 
 ![](images_51/cav-tod-per_todun.jpg)
 
@@ -282,10 +282,10 @@ e la più a sud, ma che permette ancora bei panorami
 sul lago.
 
 Sulla sinistra, con chiaro cartello indicatore, scende il
-sentiero che in pochi tornanti ci porta al tagliafuoco
+sentiero che in pochi tornanti ci porta al **tagliafuoco**
 (4.00h/4.10h).
 
-![](images_51/cav-tod-per_tagliafuoco.jpg)
+![](images_51/cav-tod-per_**tagliafuoco**.jpg)
 
 Ormai
 la neve è un ricordo, seguiamo a sinistra il cartello
@@ -302,8 +302,8 @@ basse quote altimetriche e l'esposizione a sud, che tuttavia
 dona sempre straordinari panorami, ma richiede un minimo di
 allenamento.
 
-Grazie
-agli escursionisti di giornata Riccardo e Dario.
+**Grazie
+agli escursionisti di giornata Riccardo e Dario.**
 
 
 

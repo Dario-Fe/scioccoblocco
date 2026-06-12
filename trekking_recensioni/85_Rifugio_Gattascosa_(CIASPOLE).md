@@ -38,7 +38,7 @@ come_raggiungere: |
    San Bernardo.
 ---
 Qui
-all'Alpe San Bernardo (1628m),
+all'**Alpe San Bernardo** (1628m),
 parcheggiamo la macchina lungo la strada a ritroso, perchè il parcheggio è già completo di auto, e anche sulla strada molte sono già parcheggiate con alcuni escursionisti intenti a preparasi. Ok è sabato sera, è previsto bel tempo, c'è la luna piena, ma c'è più gente che in centro!! Ci prepariamo e scattiamo la prima foto davanti alla bella chiesetta dedicata appunto a San
 Bernardo.
 
@@ -54,8 +54,8 @@ Al bivio dopo pochi metri andiamo a sinistra e poco dopo
 nei pressi del parcheggio estivo, calziamo le ciaspole, e seguiamo le tracce di
 predecessori che si inoltrano nel bosco dove vi sono anche
 cartelli indicatori codice
-(D0) dai colori bianco-rosso del CAI, per il Lago di Ragozza
-e il Rifugio Gattascosa.
+(D0) dai colori bianco-rosso del CAI, per il **Lago di Ragozza**
+e il **Rifugio Gattascosa**.
 
 Certo in queste condizioni difficile trovare tutti i segnali,
 ma le tracce degli sci alpinisti sono inconfondibili, almeno per ora che c'è ancora un po di luce...
@@ -67,7 +67,7 @@ che d'estate è un ampia mulattiera , dopo circa 10min
 arriviamo ad un bivio, anche se in questa stagione è
 praticamente invisibile, noi seguiamo le tracce che salgono
 ora un poco più ripide sulla destra, perchè
-quella sulla sinistra ci porterebbe in pochi minuti al piccolo Lago d'Arza (1742m).
+quella sulla sinistra ci porterebbe in pochi minuti al piccolo **Lago d'Arza** (1742m).
 
 Deviazione che comunque ci farebbe perdere poco tempo.
 
@@ -91,8 +91,8 @@ il sentiero spiana, sbuchiamo dalla vegetazione in una larga
 radura.
 
 E' questa
-la Torbiera
-di Gattascosa (1831m)
+la **Torbiera
+di Gattascosa** (1831m)
 (45/50min).
 
 ![torbiera gattascosa](images_85/gattascosa_ciaspole_torbiera.jpg)
@@ -103,8 +103,8 @@ che abbiamo già costeggiato più in basso,
 che ad un osservazione attenta possono essere ben notati
 anche in queste condizioni di innevamento.
 
-La vista, nonostante il buio, grazie alla luna piena, è notevole le cime della Val
-Bognanco ci circondano, il Pizzo Pioltone domina il centro della scena.
+La vista, nonostante il buio, grazie alla luna piena, è notevole le cime della **Val
+Bognanco** ci circondano, il **Pizzo Pioltone** domina il centro della scena.
 
 Allo scoperto senza il riparo del bosco, ora il vento si fa sentire.
 
@@ -115,8 +115,8 @@ rado bosco di larici.
 ![salita verso il lago](images_85/gattascosa_ciaspole_salita.jpg)
 
 La fatica inizia a farsi sentire la pendenza è notevole,
-ma per fortuna non troppo prolungata, mentre il vento ora si fa sferzante,  approdiamo al Lago
-di Ragozza (1958m)
+ma per fortuna non troppo prolungata, mentre il vento ora si fa sferzante,  approdiamo al **Lago
+di Ragozza** (1958m)
 (1.10h/1.20h).
 
 Il lago completamente coperto dalla neve, è pressochè invisibile se no se ne conosce l'esistenza.
@@ -131,16 +131,16 @@ colori vivaci, in  autunno invece regala scorci dalle tinte tenui ma ugualmente 
 ora in inverno la pace regna sotto una coltre di neve.
 
 Seguiamo la traccia che sale al margine del lago e ci appare
-il Rifugio Gattascosa (1993m)
+il **Rifugio Gattascosa** (1993m)
 (1.40h/1.50h) che raggiungiamo in pochi minuti.
 
-![Rifugio Gattascosa](images_85/gattascosa_ciaspole_rifugio.jpg)
+![**Rifugio Gattascosa**](images_85/gattascosa_ciaspole_rifugio.jpg)
 
-Il Rifugio Gattascosa dispone di 25 posti letto è gestito e può
+Il **Rifugio Gattascosa** dispone di 25 posti letto è gestito e può
 essere un ottimo punto d'appoggio sia per mangiare nelle
 gite di un giorno, sia per pernottare qualche giorno usandolo
-come punto di partenza per il trekking dei laghi della Val
-Bognanco.
+come punto di partenza per il trekking dei laghi della **Val
+Bognanco**.
 
 Caratteristico il modo di accatastare la legna tagliata
 in piccoli pezzi a forma di panettone che ricorda le vecchie
@@ -155,15 +155,15 @@ Fuori ci attende una piacevole sorpresa, il vento è cessato e con lui il freddo
 
 Uscendo dal rifugio, seguiamo l'ampia traccia che  in piano segue verso sinistra, così da tornare dal lato opposto della valle, per completare l'anello ideale del sentiero.
 
-Ammiriamo ancora il profilo del Pizzo
-Pioltone che ci sovrasta.
+Ammiriamo ancora il profilo del **Pizzo
+Pioltone** che ci sovrasta.
 Siamo ora su quella che in estate è la gippabile
-che dall'Alpe San Bernardo sale sul versante opposto
-della valle, e che passando per l'Alpe Monscera giunge al rifugio.
+che dall'**Alpe San Bernardo** sale sul versante opposto
+della valle, e che passando per l'**Alpe Monscera** giunge al rifugio.
 
 Camminiamo all'aperto tra piacevoli sali scendi, e superato un piccolo dosso procediamo tra tracce di sci
-alpinisti verso l'Alpe
-Monscera (1971m) (2.00h/2.10h) che raggiungiamo
+alpinisti verso l'**Alpe
+Monscera** (1971m) (2.00h/2.10h) che raggiungiamo
 aggirandola sulla sinistra.
 
 ![alpe monscera](images_85/monscera_ciasp_alpe.jpg)
@@ -183,15 +183,15 @@ scende ripida in tornanti, sino a raggiungere l'Alpe Arza (1754m) (2.40h/2.50h).
 Qui                       all'Alpe Arza è situato il nuovissimo Rifugio                       "Il Dosso",                       gestito con 6 stanze e 16 posti letto, facilmente raggiungibile                       a piedi da San Bernardo, ma anche in auto, in estate, con permesso rilasciato                       dal comune.
 
 La traccia,  ormai un evidente strada nel bosco,
-scende ripida in tornanti sino al ponte sul Rio
-Rasiga (2.50.0h/3.10h).
+scende ripida in tornanti sino al ponte sul **Rio
+Rasiga** (2.50.0h/3.10h).
 
 ![rio rasiga](images_85/monscera_ciasp_ponte.jpg)
 
 Superato
 il ponte seguiamo la strada innevata che in costante salita
-ci riconduce all'Alpe San
-Bernardo e alla macchina dopo (3.15h/3.45h).
+ci riconduce all'**Alpe San
+Bernardo** e alla macchina dopo (3.15h/3.45h).
 
 Escursione
 fantastica, grazie alla nottata tersa e alla luna piena, consigliata a chi
@@ -199,8 +199,8 @@ ha un minimo di allenamento e che conosce i sentieri durante
 la stagione estiva, perchè la neve rende tutto molto
 diverso e più difficile l'orientamento.
 
-Grazie
-agli escursionisti di giornata Danila, Fabrizio, Stefano e Dario.
+**Grazie
+agli escursionisti di giornata Danila, Fabrizio, Stefano e Dario.**
 
 
 

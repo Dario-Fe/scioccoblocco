@@ -216,6 +216,15 @@ FM_TO_LABEL = {
     'come_raggiungere': 'come raggiungere',
 }
 
+def extract_first_image(md_text, img_prefix):
+    """Extract the first image filename from markdown text."""
+    m = re.search(r'!\[.*?\]\(' + re.escape(img_prefix) + r'/(.+?)\)', md_text)
+    if not m:
+        m = re.search(r'!\[\]\(' + re.escape(img_prefix) + r'/(.+?)\)', md_text)
+    if m:
+        return m.group(1)
+    return None
+
 def parse_frontmatter(md_text):
     """Extract YAML frontmatter (between --- markers). Returns (pairs, body_without_fm).
     Falls back to inline parsing if no frontmatter found."""
@@ -331,6 +340,9 @@ def build():
     recensioni_dir = OUTPUT_DIR / "recensioni"
     recensioni_dir.mkdir(parents=True)
 
+    used_slugs = {}
+
+    # First pass: collect all reviews + copy images
     for rec in records:
         md_file = RECENSIONI_DIR / rec["markdown"]
         img_dir_src = RECENSIONI_DIR / rec["images"]
@@ -343,27 +355,20 @@ def build():
             md_text = f.read()
 
         img_prefix = rec["images"]
+        first_img = extract_first_image(md_text, img_prefix)
         md_text = re.sub(r'!\[' + img_prefix + r'/', '![', md_text)
         md_text = md_text.replace('](' + img_prefix + '/', '](images/')
 
         title, info, excerpt, body_html = convert_markdown_to_html(md_text)
 
         slug = slugify(rec["name"])
+        if slug in used_slugs:
+            used_slugs[slug] += 1
+            slug = f"{slug}-{used_slugs[slug]}"
+        else:
+            used_slugs[slug] = 1
 
         diff_class = rec["difficolta"].lower().replace('/', '-').replace(' ', '')
-
-        review = {
-            "num": rec["num"],
-            "valle": rec["valle"],
-            "name": rec["name"] or title,
-            "data": rec["data"],
-            "difficolta": rec["difficolta"],
-            "difficolta_class": diff_class,
-            "excerpt": excerpt,
-            "slug": slug,
-        }
-        reviews.append(review)
-        valli_set.add(rec["valle"])
 
         review_dir = recensioni_dir / slug
         review_dir.mkdir(parents=True, exist_ok=True)
@@ -374,22 +379,44 @@ def build():
                 shutil.rmtree(review_img_dir)
             shutil.copytree(img_dir_src, review_img_dir)
 
-        html_content = body_html
-
-        tpl = env.get_template("recensione.html")
-        page_html = tpl.render(
-            current="recensioni",
-            review=review,
-            info=info,
-            content_html=html_content,
-        )
-        with open(review_dir / "index.html", 'w', encoding='utf-8') as f:
-            f.write(page_html)
+        review = {
+            "num": rec["num"],
+            "valle": rec["valle"],
+            "name": rec["name"] or title,
+            "data": rec["data"],
+            "difficolta": rec["difficolta"],
+            "difficolta_class": diff_class,
+            "excerpt": excerpt,
+            "slug": slug,
+            "thumbnail": first_img,
+            "_html": body_html,
+            "_info": info,
+        }
+        reviews.append(review)
+        valli_set.add(rec["valle"])
 
         print(f"  OK: {rec['num']:02d} - {rec['name']} ({slug})")
 
-    reviews.sort(key=lambda r: r["num"])
-    reviews.reverse()
+    # Sort newest first
+    reviews.sort(key=lambda r: r["num"], reverse=True)
+
+    # Second pass: write review pages with prev/next
+    for i, rev in enumerate(reviews):
+        rev_prev = reviews[i + 1] if i + 1 < len(reviews) else None  # older
+        rev_next = reviews[i - 1] if i - 1 >= 0 else None            # newer
+
+        review_dir = recensioni_dir / rev["slug"]
+        tpl = env.get_template("recensione.html")
+        page_html = tpl.render(
+            current="recensioni",
+            review=rev,
+            info=rev.get("_info"),
+            content_html=rev.get("_html"),
+            rev_prev=rev_prev,
+            rev_next=rev_next,
+        )
+        with open(review_dir / "index.html", 'w', encoding='utf-8') as f:
+            f.write(page_html)
 
     valli = sorted(valli_set)
 

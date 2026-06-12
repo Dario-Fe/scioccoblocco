@@ -26,7 +26,7 @@ come_raggiungere: |
    Il nostro sentiero parte proprio pochi metri più 
    avanti sulla sinistra.
 ---
-Qui a Cannobio (220m), all'imbocco della provinciale per la Val Cannobina, pochi metri più avanti del parcheggio, sulla sinistra parte una stradina asfaltata, con chiare indicazioni per i sentieri, che si inoltra tra le case costruite sui pendii finali del Monte Carza.
+Qui a **Cannobio** (220m), all'imbocco della provinciale per la **Val Cannobina**, pochi metri più avanti del parcheggio, sulla sinistra parte una stradina asfaltata, con chiare indicazioni per i sentieri, che si inoltra tra le case costruite sui pendii finali del Monte Carza.
 
 ![](images_10/lag_sol_start.jpg)
 
@@ -34,13 +34,13 @@ Oggi è una fantastica giornata di primavera, il sole risplende alto e il termom
 
 Partiamo, subito si presenta un bivio prendiamo la strada che sale a sinistra con buona pendenza e poche decine di metri dopo superata una cappelletta eccoci ad un altro bivio con cartelli indicatori, a sinistra per Viggiona e a destra per Acque Minerale-Pro Redond-Monte Carza.
 
-Prendiamo a destra la strada che conduce ai Casali Bagnara, passate le ultime case, finisce l'asfalto e, stretto da un muretto di cemento inizia il sentiero.
+Prendiamo a destra la strada che conduce ai **Casali Bagnara**, passate le ultime case, finisce l'asfalto e, stretto da un muretto di cemento inizia il sentiero.
 
-Sulla nostra destra sul versante opposto, che con quello percorso da noi forma l'inizio della Val Cannobina, possiamo vedere il bel paesino di Sant'Agata.
+Sulla nostra destra sul versante opposto, che con quello percorso da noi forma l'inizio della **Val Cannobina**, possiamo vedere il bel paesino di **Sant'Agata**.
 
 ![](images_10/lag_sol_staga.jpg)
 
-Ci si immerge immediatamente in un bosco di castagni, si sale in discreta pendenza su un sentiero ricoperto dalle foglie in tutte le stagioni, e in poco tempo circa 15'/20' dalla partenza, dopo aver superato due caratteristici ponticelli in legno, raggiungiamo località Piatè (345m).
+Ci si immerge immediatamente in un bosco di castagni, si sale in discreta pendenza su un sentiero ricoperto dalle foglie in tutte le stagioni, e in poco tempo circa 15'/20' dalla partenza, dopo aver superato due caratteristici ponticelli in legno, raggiungiamo località **Piatè** (345m).
 
 ![](images_10/lag_sol_pont.jpg)
 
@@ -52,13 +52,13 @@ Saliamo ora comodamente sulla larga strada per 100/150 m, nei pressi di un torna
 
 Facciamo questa brevissima deviazione e non ve ne pentirete, saliamo sul promontorio oltre la scaletta e davanti a noi apparirà uno spettacolo mozzafiato che ripagherà mille volte questa divagazione.
 
-Il Lago Maggiore nella sua maestosità occupa lo sguardo, da sinistra a destra Brissago, Ascona, i monti svizzeri, Luino, i monti lombardi con il Cuvignone e Campo dei Fiori e Laveno.
+Il **Lago Maggiore** nella sua maestosità occupa lo sguardo, da sinistra a destra **Brissago**, **Ascona**, i monti svizzeri, **Luino**, i monti lombardi con il **Cuvignone** e **Campo dei Fiori** e **Laveno**.
 
 ![](images_10/pan_lago_can.jpg)
 
 Tornati su i nostri passi, riprendiamo la salita e poche decine di metri dopo vedremo una strada che entra nel bosco sulla destra, imbocchiamola e noteremo anche i cartelli indicatori dei sentieri e della nostra meta ( i cartelli sarebbero più utili al bivio !!! ).
 
-Superato un piccolissimo dosso, il sentiero scende piegando a sinistra in una evidente depressione naturale, facendoci ritrovare sulle sponde del laghetto di Solivo (494m, 30'/40' dalla partenza), contornato da castagni, salici e betulle, possiamo aggirarlo completamente in pochissimi minuti.
+Superato un piccolissimo dosso, il sentiero scende piegando a sinistra in una evidente depressione naturale, facendoci ritrovare sulle sponde del **laghetto di Solivo** (494m, 30'/40' dalla partenza), contornato da castagni, salici e betulle, possiamo aggirarlo completamente in pochissimi minuti.
 
 ![](images_10/lag_solivo.jpg)
 
@@ -66,6 +66,6 @@ Questo laghetto, che nel periodo invernale resta spesso ghiacciato per la sua po
 
 Volendo si può, tornando sulla strada, salire per raggiungere una sorgente di acqua minerale ferruginosa, che si trova in una valletta alle spalle di una larga radura con alcune baite, aggiungendo altri 15'/20' alla nostra gita.
 
-Il ritorno è affrontato sullo stesso percorso dell'andata e ci ricondurrà a Cannobio dopo circa 1:00h/1.30h dalla partenza.
+Il ritorno è affrontato sullo stesso percorso dell'andata e ci ricondurrà a **Cannobio** dopo circa 1:00h/1.30h dalla partenza.
 
 Abbiamo completato un facile giro a pochi minuti da i maggiori centri abitati del VCO, sconosciuto ai più ma che regala splendidi scorci e soprattutto alla portata di tutti, bambini compresi.

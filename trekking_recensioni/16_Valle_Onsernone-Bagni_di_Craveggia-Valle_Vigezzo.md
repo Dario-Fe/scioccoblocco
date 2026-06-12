@@ -18,7 +18,7 @@ come_raggiungere: |
    trenino della Vigezzina partenza alle 6.30 porta a Cavigliano in territorio elvetico dopo 50 min. 
    Ci si reca al bivio a piedi per la Valle Onsernone, si prende il Postale alle 7.30 e si arriva a Spruga dopo circa un ora.
 ---
-A Spruga(1113m) si scende l'unica strada asfaltata che porta verso la valle dopo alcuni Km si incontra sulla sinistra un ponte che attraversa il fiume Onsernone.
+A Spruga(1113m) si scende l'unica strada asfaltata che porta verso la valle dopo alcuni Km si incontra sulla sinistra un ponte che attraversa il fiume **Onsernone**.
 
 ![](images_16/onsernone_spruga.jpg)
 
@@ -39,7 +39,7 @@ e di combattere le malattie della pelle, erano per
 queste affezioni in particolare che venivano proposte
 le cure .
 
-Sulla destra del torrente Onsernone, in regione Fondo Manfracchio (m 998), sgorga da un filone di pegmatite, una sorgente di capacità di circa 12 litri al minuto.
+Sulla destra del torrente **Onsernone**, in regione **Fondo Manfracchio** (m 998), sgorga da un filone di pegmatite, una sorgente di capacità di circa 12 litri al minuto.
 
 L'acqua minerale ha una temperatura media di 30°, è untuosa al tatto, emette odore di nafta ed ha gusto sgradevole.
 
@@ -55,7 +55,7 @@ Esposta all'aria, si copre di un velo iridescente, dovuto al biossido di mangane
 
 Non è ben certa la sua origine, dovuta, forse, all'azione chimica dei vari ossidi di ferro che entrano nelle composizioni di alcune rocce limitrofe.
 
-Le "Aquae calidae di Craveggia" sono già ricordate in pergamena del 1352.
+Le "**Aquae calidae di Craveggia**" sono già ricordate in pergamena del 1352.
 
 Il 18/19 ottobre 1944, questo luogo fu teatro di un feroce scontro tra alcune colonne partigiane in ritirata verso la svizzera e un comando nazifascista, il tutto fini con alcuni caduti tra i partigiani grazie soprattutto all'intervento dell'ufficiale elvetico al comando dello sparuto presidio di confine, che riuscì a prendere tempo sino all'arrivo di rinforzi dalla vicina Bellinzona, che indussero i nazifascisti alla ritirata.
 

@@ -36,7 +36,7 @@ come_raggiungere: |
    di piccole frazioni la strada si impenna e superati molti 
    tornanti e le due gallerie si arriva all'Alpe Devero.
 ---
-All'**Alpe Devero** (1640m) lasciamo la macchina nel comodo parcheggio sotterraneo di recente costruzione, e risaliamo la stradina che si insinua tra le prime baite dell'alpe, neve permettendo possiamo già mettere gli sci. Dopo pochi metri ci troviamo di fronte ad un piccolo ponticello, noi non lo attraversiamo ma andiamo a sinistra in piano e dopo circa 300m arriviamo agli impianti da sci rimodernati un paio di anni fa. Lasciando gli impianti sulla sinistra, iniziamo a camminare in piano verso il nucleo di baite che chiude verso il rio Buscagna la piana del Devero.
+All'**Alpe Devero** (1640m) lasciamo la macchina nel comodo parcheggio sotterraneo di recente costruzione, e risaliamo la stradina che si insinua tra le prime baite dell'alpe, neve permettendo possiamo già mettere gli sci. Dopo pochi metri ci troviamo di fronte ad un piccolo ponticello, noi non lo attraversiamo ma andiamo a sinistra in piano e dopo circa 300m arriviamo agli impianti da sci rimodernati un paio di anni fa. Lasciando gli impianti sulla sinistra, iniziamo a camminare in piano verso il nucleo di baite che chiude verso il rio Buscagna la **piana del Devero**.
 
 ![cazzola_start.jpg](images_49/cazzola_start.jpg)
 
@@ -56,7 +56,7 @@ E' questa la radura dell'**Alpe Misanco** (45/50 min) che raggiungiamo in breve,
 
 ![cazzola_crampiolo.jpg](images_49/cazzola_crampiolo.jpg)
 
-Il **Pizzo Crampiolo** domina la **piana del Devero**, dove possiamo vedere l'**Alpe Crampiolo** e il **Lago di Devero**, nonchè sulla sfondo i monti che separano Devero dalla **Val Formazza**. Qui all'Alpe Misanco sommerso dalla neve lo scenario è incantato. Riprendiamo a salire di nuovo nel bosco la salita si fa impegnativa, Flavio ormai caldo detta il ritmo sempre tecnico ed elegante, per me inizia la sofferenza... Il bosco si dirada velocemente, ora all'aperto e al sole si sta meglio, ma le pendenze ormai non lasciano più respiro, percorriamo la conca con più di un metro e mezzo di neve che ci porta all'altezza dell'arrivo degli impianti di sci (1.30/1.40h).
+Il **Pizzo Crampiolo** domina la **piana del Devero**, dove possiamo vedere l'**Alpe Crampiolo** e il **Lago di Devero**, nonchè sulla sfondo i monti che separano **Devero** dalla **Val Formazza**. Qui all'**Alpe Misanco** sommerso dalla neve lo scenario è incantato. Riprendiamo a salire di nuovo nel bosco la salita si fa impegnativa, Flavio ormai caldo detta il ritmo sempre tecnico ed elegante, per me inizia la sofferenza... Il bosco si dirada velocemente, ora all'aperto e al sole si sta meglio, ma le pendenze ormai non lasciano più respiro, percorriamo la conca con più di un metro e mezzo di neve che ci porta all'altezza dell'arrivo degli impianti di sci (1.30/1.40h).
 
 ![cazzola_cuspide.jpg](images_49/cazzola_cuspide.jpg)
 
@@ -80,7 +80,7 @@ Flavio dall'alto della sua esperienza disegna qualche curva morbida, io provo a 
 
 ![cazzola_curve2.jpg](images_49/cazzola_curve2.jpg)
 
-Torniamo di nuovo all'**Alpe Misanco**, sciando su neve umida e tra il fitto bosco, ho bisogno di tutta la mia esperienza. La fatica di questa discesa è notevole, le energie iniziano a scarseggiare, ancora nel bosco ripassiamo al ponticello sul Rio Buscagna. Poi dopo qualche passaggio stretto e un paio di piccoli guadi sul sentiero estivo raggiungiamo di nuovo la piana dell'**Alpe Devero** (1640m)(3.00h/3.30h).
+Torniamo di nuovo all'**Alpe Misanco**, sciando su neve umida e tra il fitto bosco, ho bisogno di tutta la mia esperienza. La fatica di questa discesa è notevole, le energie iniziano a scarseggiare, ancora nel bosco ripassiamo al ponticello sul **Rio Buscagna**. Poi dopo qualche passaggio stretto e un paio di piccoli guadi sul sentiero estivo raggiungiamo di nuovo la piana dell'**Alpe Devero** (1640m)(3.00h/3.30h).
 
 ![pan_devero.jpg](images_49/pan_devero.jpg)
 

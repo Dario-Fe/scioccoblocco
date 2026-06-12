@@ -22,18 +22,18 @@ A Pian d'Arla (1307m), lasciamo l'auto dove proprio non è più possibile proseg
 La neve è poca e gelata, facciamo qualche preparativo e partiamo, la strada prosegue in leggera discesa immergendosi nel bosco, superando alcuni cartelli esplicativi.
 ![](images_75/vada_bavarione_start.jpg)
 
-Di fronte a noi possiamo già ben vedere al sole le nostre mete, da sinistra il Monte Zeda, Monte Vadà e Monte Bavarione.
+Di fronte a noi possiamo già ben vedere al sole le nostre mete, da sinistra il **Monte Zeda**, Monte Vadà e Monte Bavarione.
 Il cammino è facile e piacevole in leggera discesa, anche se il freddo oggi è abbastanza pungente il termometro segna -5°C, e all'ombra del bosco si sente ancor di più.
 Dopo circa 25/30 minuti arriviamo ai vecchi ospedaletti militari.
 ![](images_75/vada_bavarione_ospedaletti.jpg)
 
-I quali fanno parte dell' imponente opera che va sotto il nome di "Linea Cadorna".
-Un sistema di fortificazioni militari costruito durante la Prima Guerra Mondiale tra il Lago Maggiore e il Monte Massone.
+I quali fanno parte dell' imponente opera che va sotto il nome di "**Linea Cadorna**".
+Un sistema di fortificazioni militari costruito durante la Prima Guerra Mondiale tra **il Lago Maggiore** e il **Monte Massone**.
 Le fortificazioni comprendono un fitto reticolo di mulattiere militari, trincee, postazioni d'artiglieria, luoghi di avvistamento, ospedaletti e strutture logistiche, centri di comando.
-Furono volute dal generale Luigi Cadorna di Pallanza, capo di stato maggiore dell'esercito italiano, per difendere il confine da un ipotizzato attacco austro-tedesco attraverso la Svizzera mai avvenuto.
-Esse coprono, nella logica della "guerra di posizione", un dislivello di 2.000 m tra la piana del Toce e il Monte Massone e fra il Lago Maggiore (Carmine inferiore) e il Monte Zeda e proseguono nelle Alpi centrali fino alle Orobie. 
+Furono volute dal generale **Luigi Cadorna** di Pallanza, capo di stato maggiore dell'esercito italiano, per difendere il confine da un ipotizzato attacco austro-tedesco attraverso la Svizzera mai avvenuto.
+Esse coprono, nella logica della "**guerra di posizion**e", un dislivello di 2.000 m tra la piana del **Toce** e il **Monte Massone** e fra **il Lago Maggiore** (Carmine inferiore) e il **Monte Zeda** e proseguono nelle Alpi centrali fino alle Orobie. 
 
-Tra l'Ossola e la Valtellina furono costruiti 72 km di trincee, 88 postazioni di artiglierie
+Tra l'**Ossola** e la **Valtellina** furono costruiti 72 km di trincee, 88 postazioni di artiglierie
 di cui 11 in caverna, 296 km di strade carrozzabili, 398
 km di mulattiere.
 
@@ -72,7 +72,7 @@ Usciamo dall'alpeggio lasciando l'agriturismo sulla nostra sinistra, in leggera 
 
 Magicamente la fotocamera riprende a funzionare...
 
-La giornata è limpida in alto, solo un po di foschia verso il Lago Maggiore.
+La giornata è limpida in alto, solo un po di foschia verso **il Lago Maggiore**.
 
 Una breve sosta per uno spuntino, ne approfitto per una piccola panoramica sui monti di fronte a noi.
 
@@ -101,7 +101,7 @@ Ma velocemente raggiungiamo Pian Vadà (1711m)(2.20/2.30h).
 
 La fotocamera mi abbandona di nuovo, niente foto al nuovo bivacco dell'Ente Parco Val Grande.
 
-Finalmente ci concediamo il meritato pranzo, mentre ammiriamo il panorama circostante e il Lago Maggiore laggiù in fondo.
+Finalmente ci concediamo il meritato pranzo, mentre ammiriamo il panorama circostante e **il Lago Maggiore** laggiù in fondo.
 
 Un leggero venticello ci costrige a coprirci ma la soddisfazione e la bellezza di questi luoghi resta impagabile.
 
@@ -118,7 +118,7 @@ incotrati al passo Folungo, decidiamo di salire al Bavarione.
 
 Il percorso è a vista, il panettone quasi senza bosco, sale proprio di fronte a noi scendendo da Pian Vadà o sulla sinistra arrivando dall'Alpe Archia come questa mattina.
 
-La salita è abbastanza impegnativa ma abbordabile e breve, la neve oggi resta compatta anche nel pomeriggio, raggiungiamo un pianoro poco prima della cima con vista Lago Maggiore oggi nella foschia.
+La salita è abbastanza impegnativa ma abbordabile e breve, la neve oggi resta compatta anche nel pomeriggio, raggiungiamo un pianoro poco prima della cima con vista **Lago Maggiore** oggi nella foschia.
 
 ![](images_75/vada_bavarione_lago.jpg)
 
@@ -146,12 +146,12 @@ Pian d'Arla (1307m) e all'auto dopo (5.00/5.30h).
 
 Bella escursione che richiede prudenza a seconda dell'innevamento e un buon allenamento, che regala ampi spazi e panorami.
 
-Un
-grazie agli escursionisti di giornata Riccardo, Fabrizio e Dario.
+**Un
+grazie agli escursionisti di giornata Riccardo, Fabrizio e Dario.**
 
-Per informazioni scrivici a : trekking-bike@scioccoblocco.com
+**Per informazioni scrivici a :** trekking-bike@scioccoblocco.com
 
-Se vuoi lasciare una tua opinione o un tuo commento scrivi sul nostro FORUM.
+**Se vuoi lasciare una tua opinione o un tuo commento scrivi sul nostro** FORUM.
 
 
 

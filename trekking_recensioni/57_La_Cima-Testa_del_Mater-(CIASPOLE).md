@@ -32,9 +32,9 @@ come_raggiungere: |
    Patqueso si parcheggiano le vetture.
 ---
 A
-Patqueso
+**Patqueso**
 (1108m), dove noterete sulla sinistra la
-nuova strada per l'Alpe Cortino, poco più avanti
+nuova strada per l'**Alpe Cortino**, poco più avanti
 sempre a sinistra troverete uno spiazzo con una piccola
 tettoia e panchina recentemente pitturata di celeste, dove
 lasciare l'auto.
@@ -66,15 +66,15 @@ poco dopo, circa 25 minuti dalla partenza incrociamo il
 vecchio sentiero che decidiamo di seguire.
 
 Certamente più ripido, ma pulito e diretto, guadagna
-velocemente quota nel bosco, per sbucare nella radura dell'Alpe
-Cortino(1477m) (45/55min).
+velocemente quota nel bosco, per sbucare nella radura dell'**Alpe
+Cortino**(1477m) (45/55min).
 
 ![](images_57/cima_mater_ciasp_cortino.jpg)
 
 Qui
-all'Alpe
-Cortino vi è
-il rifugio NIGRITELLA
+all'**Alpe
+Cortino** vi è
+il rifugio **NIGRITELLA**
 di Melini Giordano tel. 0324 92456 6 posti letto .
 
 Verso nord si apre uno scenario fantastico, da sinistra
@@ -121,7 +121,7 @@ le gambe poco allenate di questa stagione scarsa di escursioni.
 
 Ma una volta all'aperto, seguendo la brevissima cresta raggiungiamo
 la croce de
-La Cima (1810m)
+**La Cima** (1810m)
 (1.45/2.00h).
 
 ![](images_57/cima_mater_ciasp_vetta1.jpg)
@@ -130,36 +130,36 @@ La
 giornata è magnifica, il panorama che si apre a 360°
 è superbo.
 
-Verso nord tutta la Val Vigezzo
+Verso nord tutta la **Val Vigezzo**
 si stende sotto di noi, con i suoi monti che la separano
-dalla Vall'Agarina
-e dalla Vall'Onsernone,
-sulla destra l'inizio delle Centovalli
-con la maestosa cupola del Santuario
-della Madonna di Re e il Gridone
-o Limidario
-che la separa dalla Val Cannobina.
+dalla **Vall'Agarina**
+e dalla **Vall'Onsernone**,
+sulla destra l'inizio delle **Centovalli**
+con la maestosa cupola del **Santuario
+della Madonna di Re** e il **Gridone**
+o **Limidario**
+che la separa dalla **Val Cannobina**.
 
 ![](images_57/cima_mater_ciasp_panvige.jpg)
 
 Verso
 sud alla nostra sinistra la
-Zeda e quindi li a un passo la
-Testa del Mater, quindi la Val
-Loana con il Cimone
-di Cortechiuso e
-Laurasca, la Val
-di Basso con il Pizzo
-Ragno.
+**Zeda** e quindi li a un passo la
+**Testa del Mater**, quindi la **Val
+Loana** con il **Cimone
+di Cortechiuso** e
+**Laurasca**, la **Val
+di Basso** con il **Pizzo
+Ragno**.
 
 Qui la neve è ancora abbondante soprattutto nella
-conca che ospita Scaredi.
+conca che ospita **Scaredi**.
 
 ![](images_57/cima_mater_ciasp_panloana.jpg)
 
 Rifocillati
 e appagati dal panorama, diamo un occhiata alla vicinissima
-Testa del Mater....
+**Testa del Mater**....
 
 ![](images_57/cima_mater_ciasp_mater2.jpg)
 
@@ -172,31 +172,31 @@ superiamo il breve sali scendi che ci porta all'attacco
 della cresta.
 
 Un vero muro, ma riposati e senza zaini in breve siamo in
-vetta alla Testa del Mater(1846m)
+vetta alla **Testa del Mater**(1846m)
 (2.10/2.20h).
 
 ![](images_57/cima_mater_ciasp_mater.jpg)
 
 Da
-dove possiamo ben vedere La
-Cima appena lasciata.
+dove possiamo ben vedere **La
+Cima** appena lasciata.
 
-Sotto di noi alla sinistra verso est si apre la Val
-Cannobina, con Finero,
+Sotto di noi alla sinistra verso est si apre la **Val
+Cannobina**, con **Finero**,
 una miriade di alpeggi sparsi sui due lati della valle e
 la traccia della carrozzabile che scende verso il lago
 Maggiore.
 
-Mentre sulla destra di nuovo la Val
-di Basso, e quasi di fronte, seguendo
-la dorsale percorsa, ancora la Val
-Loana, con il loro alpeggi e il fiume
+Mentre sulla destra di nuovo la **Val
+di Basso**, e quasi di fronte, seguendo
+la dorsale percorsa, ancora la **Val
+Loana**, con il loro alpeggi e il fiume
 che scorre giù in fondo.
 
 Da qui il ritorno avviene per lo stesso percorso dell'andata,
-recuperati gli zaini a La
-Cima, torniamo quindi all'Alpe
-Cortino dove ci fermiamo ancora per una
+recuperati gli zaini a **La
+Cima**, torniamo quindi all'**Alpe
+Cortino** dove ci fermiamo ancora per una
 pausa a rimirare ciò che ci circonda e a gustarci
 il caldo sole di primavera.
 
@@ -205,15 +205,15 @@ il caldo sole di primavera.
 Quindi
 tornati nel bosco seguiamo il sentiero, per evitare le insidiose
 placche di ghiaccio sulla strada agricola percorsa all'andata
-e tornare a Patqueso(1108m)
+e tornare a **Patqueso**(1108m)
 e all'auto (3.40h/4.00h).
 
 Escursione abbastanza facile per orientamento e che richiede
 un minimo di allenamento, almeno nel periodo primaverile-estivo,
 ma in presenza di neve abbondante da non sottovalutare.
 
-Grazie
-agli escursionisti di giornata Riccardo e Dario.
+**Grazie
+agli escursionisti di giornata Riccardo e Dario.**
 
 
 

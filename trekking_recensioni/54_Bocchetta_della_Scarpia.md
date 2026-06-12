@@ -31,8 +31,8 @@ Di fronte la corona Troggi è sovrastata dall’imponente M. Cistella.
 
 Immaginando il panorama dalla vetta del M.Sangiatto cerco una via d’ascesa alla vetta. Sfortunatamente l’unica via praticabile sale lentamente lungo la costa Nord della montagna, la neve presente è ancora tanta ed il pendio piuttosto scosceso. A malincuore devo rinunciare alla ascesa a causa di una slavina presente sulla traccia di sentiero.  Consiglio a chi tenta di effettuare questa ultima ascesa di prestare la massima attenzione, soprattutto nella stagione invernale/primaverile.   Dopo un breve pranzo al cospetto di questa meravigliosa vista, davvero fantastica a 360°, si rientra all’alpe Sangiatto e poi Devero, dove si avvista finalmente un capriolo.
 
-Grazie
-all'escursionista di giornata Vittorio.
+**Grazie
+all'escursionista di giornata Vittorio.**
 
 
 

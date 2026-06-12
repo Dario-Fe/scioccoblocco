@@ -36,7 +36,7 @@ La cosa più bella di oggi è vedere la gioia negli occhi di questa persona nel 
 
 ![](images_61/casaravera_start.jpg)
 
-Mettiamo gli zaini in spalla e partiamo, il sentiero si immerge subito nel bosco lasciando alcune baite dell'Alpe Pradurino sulla destra, la gita odierna è abbastanza semplice e si svolge più che altro in lunghezza che in dislivello.
+Mettiamo gli zaini in spalla e partiamo, il sentiero si immerge subito nel bosco lasciando alcune baite dell'**Alpe Pradurino** sulla destra, la gita odierna è abbastanza semplice e si svolge più che altro in lunghezza che in dislivello.
 Il sentiero avanza in leggera ascesa e sulla costa della
 montagna, in qualche squarcio del bosco possiamo vedere
 dall'altra parte della valle le creste che dividono la
@@ -108,7 +108,7 @@ alle nostre spalle la **Testa
 dei Rossi** (2026m) su quali
 pendici Casaravera è costruita.
 
-Verso ovest in direzione dell'alta Valle Antrona vediamo
+Verso ovest in direzione dell'alta **Valle Antrona** vediamo
 sul lato opposto del **Vallone
 di Balmel** che scende
 dal **Pizzo Ciapè**
@@ -139,9 +139,9 @@ che richiede un minimo di attenzione nell'orientamento
 perchè svolta quasi interamente all'interno del
 bosco.
 
-Grazie
+**Grazie
 agli escursionisti di giornata Remo, Angela, Barbara e
-Dario.
+Dario.**
 
 
 

@@ -42,4 +42,18 @@
   {{ content_html }}
 </div>
 
+<nav class="review-nav">
+  {% if rev_prev %}
+  <a href="{{ base_path }}/recensioni/{{ rev_prev.slug }}/" class="review-nav-link review-nav-prev">
+    <span class="review-nav-arrow">&larr;</span>
+    <span class="review-nav-label">{{ rev_prev.name }}</span>
+  </a>
+  {% endif %}
+  {% if rev_next %}
+  <a href="{{ base_path }}/recensioni/{{ rev_next.slug }}/" class="review-nav-link review-nav-next">
+    <span class="review-nav-label">{{ rev_next.name }}</span>
+    <span class="review-nav-arrow">&rarr;</span>
+  </a>
+  {% endif %}
+</nav>
 {% endblock %}

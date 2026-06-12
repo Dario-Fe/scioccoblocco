@@ -5,7 +5,7 @@
 {% block content %}
 
 <section class="hero">
-  <h2>Trekking &amp; Bike</h2>
+  <h2>ScioccoBlocco</h2>
   <p>Trekking tra Val Grande, Ossola, Verbano e valli circostanti</p>
 </section>
 
@@ -36,6 +36,11 @@
 <div class="reviews-grid" id="reviewsGrid">
   {% for r in reviews %}
   <div class="review-card" data-valle="{{ r.valle }}" data-diff="{{ r.difficolta }}" data-name="{{ r.name|lower }}">
+    {% if r.thumbnail %}
+    <a href="{{ base_path }}/recensioni/{{ r.slug }}/" class="review-card-img-link">
+      <img class="review-card-img" src="{{ base_path }}/recensioni/{{ r.slug }}/images/{{ r.thumbnail }}" alt="{{ r.name }}" loading="lazy">
+    </a>
+    {% endif %}
     <div class="review-card-body">
       <h3><a href="{{ base_path }}/recensioni/{{ r.slug }}/">{{ r.name }}</a></h3>
       <div class="review-meta">

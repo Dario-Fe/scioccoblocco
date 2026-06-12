@@ -146,8 +146,8 @@ e poi Croveo.
 In totale abbiamo impiegato 5 ore per questo giretto...niente
 male,un saluto e alla prossima escursione.
 
-Escursionista
-di giornata: Fabrizio.
+**Escursionista
+di giornata: Fabrizio.**
 
 
 

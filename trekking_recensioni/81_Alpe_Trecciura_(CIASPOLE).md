@@ -106,7 +106,7 @@ Il  ritorno avviene per lo stesso tragitto fatto all'andata,  sino a tornare a C
 
 Escursione che per la facilità di orientamento  può essere considerata turistica, che tuttavia a causa della partenza poco fuori il paese  non è da sottovalutare ed è consigliabile affrontare con un minimo di allenamento.
 
-Escursionista  di giornata   Dario.
+**Escursionist**a  **di giornata   Dario.**
 
 
 

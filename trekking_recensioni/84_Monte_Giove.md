@@ -15,7 +15,7 @@ come_raggiungere: |
    Toce, seguire lo svincolo per Verbania, quindi seguendo la statale 34, superare Fondotoce e giunti a Verbania, proseguire sulla statale come indicato sopra.
    Dopo circa 20Km, attraversiamo Cannobio, dopo altri 3km circa, poco prima del confine con la Svizzera, seguire la strada che si stacca sulla sinistra con chiare indicazioni per San'Agata, che raggiungiamo dopo altri 3km.
 ---
-Qui a Sant'Agata(464m), all'ingresso del paese, lasciamo l'auto nel comodo e ampio parcheggio che si trova sulla sinistra, quindi effettuati i preparativi, risaliamo una ripida scalinata e tornati sulla strada asfaltata, in pochi minuti raggiungiamo la piazza con la chiesa parrocchiale intitolata appunto a Sant'Agata.
+Qui a **Sant'Agata**(464m), all'ingresso del paese, lasciamo l'auto nel comodo e ampio parcheggio che si trova sulla sinistra, quindi effettuati i preparativi, risaliamo una ripida scalinata e tornati sulla strada asfaltata, in pochi minuti raggiungiamo la piazza con la chiesa parrocchiale intitolata appunto a **Sant'Agata**.
 
 ![Chiesa Sant](images_84/montegiove_chiesa.jpg)
 
@@ -25,7 +25,7 @@ Sulla sinistra della piazza si trova il belvedere, che annuncia immediatamente l
 
 ![Sant](images_84/montegiove_belvedere.jpg)
 
-Sotto di noi già si allunga il Lago Maggiore e sulla sinistra Cannobio, che si risveglia tra il brulicare dei turisti agostani.
+Sotto di noi già si allunga il Lago Maggiore e sulla sinistra **Cannobio**, che si risveglia tra il brulicare dei turisti agostani.
 
 Attraversiamo la piazza e ci addentriamo tra le case passando sotto un porticato sulla destra, notiamo già i classici segnavia bianco-rosso del C.A.I. e una freccia gialla che ci accompagnerà sino alla meta.
 
@@ -73,13 +73,13 @@ In pochi minuti raggiungiamo la vetta del Monte Giove(1298m)(2.00h/2.30h).
 
 Lo scenario è magnifico, sotto di noi si apre il Lago Maggiore in tutta la sua bellezza.
 
-In una panoramica verso nord-est, da  sinistra a destra le città , Locarno, Ascona, Brissago e le sue isole, Luino, Maccagno e sotto di noi Cannobio,  i monti Trosa, Vogorno, Gambarogno, Tamaro e Lema.
+In una panoramica verso nord-est, da  sinistra a destra le città , **Locarno**, **Ascona**, **Brissago** e **le sue isole**, **Luino**, **Maccagno** e sotto di noi **Cannobio**,  i monti **Trosa**, **Vogorno**, **Gambarogno**, **Tamaro** e **Lema**.
 
 Voltandoci dalla parte opposta.
 
 ![Panoramica cannobina](images_84/montegiove_pancannobina.jpg)
 
-Verso sud-ovest da sinistra la Val Cannobina, Pizzo Marona, Monte Zeda, Pizzo Ragno, Limidario o Gridone.
+Verso sud-ovest da sinistra la **Val Cannobina**, Pizzo Marona, Monte Zeda, **Pizzo Ragno**, Limidario o **Gridone**.
 
 Finalmente in tanta bellezza ci concediamo il meritato pranzo, perdendo lo sguardo tra il blu del lago e l'azzurro del cielo.
 
@@ -89,12 +89,12 @@ Dopo aver lasciato un pensiero nel libro di vetta custodito in una cassetta ai p
 
 ![Monte Giove Vetta](images_84/montegiove_vetta.jpg)
 
-Il ritorno avviene per lo stesso percorso di andata, senza mancare però la tappa per una bella birra fresca all'agriturismo, prima di tornare a Sant'Agata(464m)(3.30h/4.00h).
+Il ritorno avviene per lo stesso percorso di andata, senza mancare però la tappa per una bella birra fresca all'agriturismo, prima di tornare a **Sant'Agata**(464m)(3.30h/4.00h).
 
 Bellissima escursione che richiede un minimo di allenamento, consigliabile nelle stagioni di mezzo che regalano più spesso giornate terse.
 
-Grazie
-agli escursionisti di giornata Federica e Dario.
+**Grazie
+agli escursionisti di giornata Federica e Dario.**
 
 
 

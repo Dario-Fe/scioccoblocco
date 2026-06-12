@@ -42,7 +42,7 @@ Attraversato il **Rio Nocca**, il sentiero sale nel bosco, teniamo la destra al 
 
 ![bonasson_merlata.jpg](images_38/bonasson_merlata.jpg)
 
-Rientriamo nel bosco assai fitto, dominato dall abete rosso, e superato sulla destra un bivio con bella pioda segnavia raggiungiamo** l'Alpe Cortone** (1482m)(1.10h/1.15h).
+Rientriamo nel bosco assai fitto, dominato dall abete rosso, e superato sulla destra un bivio con bella pioda segnavia raggiungiamo **l'Alpe Cortone** (1482m)(1.10h/1.15h).
 
 ![bonasson_cortone.jpg](images_38/bonasson_cortone.jpg)
 
@@ -58,7 +58,7 @@ Il **Rifugio Bonasson** è di proprietà della Sez. CAI Valle Vigezzo (Piazza Ri
 
 ![bonasson_gruppo.jpg](images_38/bonasson_gruppo.jpg)
 
-Il tempo non promette nulla di buono, il giro del Lago Gelato è troppo rischioso, puntiamo quindi al Lago di Cavegna. Dietro il rifugio parte il sentiero che dopo breve salita, scende a guadare il torrente per poi risalire in breve all'**Alpe Cavegna** già ben visibile dal rifugio (2038m)(2.45h/3.15h).
+Il tempo non promette nulla di buono, il giro del Lago Gelato è troppo rischioso, puntiamo quindi al **Lago di Cavegna**. Dietro il rifugio parte il sentiero che dopo breve salita, scende a guadare il torrente per poi risalire in breve all'**Alpe Cavegna** già ben visibile dal rifugio (2038m)(2.45h/3.15h).
 
 ![bonasson_cavegna.jpg](images_38/bonasson_cavegna.jpg)
 

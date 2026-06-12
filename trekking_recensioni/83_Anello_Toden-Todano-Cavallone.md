@@ -20,7 +20,7 @@ Lasciata l'auto nell'ampio parcheggio in località Alpe Gabbio (1130 m), torniam
 
 Oggi approfittando di una giornata libera infrasettimanale, finalmente torniamo in montagna, con una formazione del tutto inedita.
 
-Ci proponiamo come escursione, una sorta di anello, prima in cresta tra Toden e Todano e quindi ritorno in traverso dal Pian Cavallone.
+Ci proponiamo come escursione, una sorta di anello, prima in cresta tra **Toden** e Todano e quindi ritorno in traverso dal Pian Cavallone.
 
 ![Alpe Gabbio](images_83/todentodano_start.jpg)
 
@@ -34,15 +34,15 @@ Superato un breve avvallamento eccoci alle baite di la Piazza (1160m)(10 min).
 
 Dove vi sono delle vere e proprie case ristrutturate con tutti i confort, all'ingresso dell'alpeggio è posta una cappelletta dedicata a San Giacomo.
 
-Alle spalle imponente il Pizzo o Toden (come più comunemente chiamato nella zona), nostra metà odierna che fa bella mostra della sua "ripidità".
+Alle spalle imponente il Pizzo o **Toden** (come più comunemente chiamato nella zona), nostra metà odierna che fa bella mostra della sua "ripidità".
 
 Contrariamente alle previsioni il cielo non è limpido e tende a rannuvolarsi, ma non ci demoralizziamo, soprattutto la più giovane della compagnia che scorazza piena di energie.
 
 Proseguiamo aggirando sulla destra le baite, dopo una breve salita raggiungiamo sempre su gippabile un tratto pianeggiante.
 
-Dove voltandoci verso Sud alla nostra sinistra appare già il lago Maggiore e Verbania.
+Dove voltandoci verso Sud alla nostra sinistra appare già il **lago** **Maggiore** e **Verbania**.
 
-![Lago Maggiore](images_83/todentodano_lago.jpg)
+![Lago **Maggiore**](images_83/todentodano_**lago**.jpg)
 
 Qui sulla destra troviamo un cartello metallico scolorito che indica ancora il numero 10, lasciamo l'ampia gippabile che prosegue verso il Rifugio del Pian Cavallone, e prendiamo a salire in modo deciso, ora il sentiero si fa sottile in direzione di una piccola e isolata baita di recente ristrutturazione.
 
@@ -73,23 +73,23 @@ Da questo punto in poi il sentiero si fa a volte un po labile, ma poco importa n
 
 Le pendenze sono piuttosto impegnative, si sale in direttissima verso la vetta che ci domina alzando lo sguardo.
 
-![Il Toden](images_83/pizzo_salita.jpg)
+![Il **Toden**](images_83/pizzo_salita.jpg)
 
 Il cielo si chiude completamente sopra di noi, mentre verso il basso la visibilità resta ottima, approfittiamo di qualche pausa per ammirare il panorama e riprendere fiato.
 
 Anche Margot non è più così baldanzosa...
 
-![Vsita lago](images_83/todentodano_pausa.jpg)
+![Vsita **lago**](images_83/todentodano_pausa.jpg)
 
-Superiamo nell'ultimo tratto una zona di sfasciumi rocciosi, dove una nutrita colonia di capre ci osserva incuriosita, quindi come sempre gli ultimi metri si fanno ancor più ripidi e impegnativi, ma finalmente ecco la vetta de Il Pizzo o Toden (1644m)(1.00h/1.15h).
+Superiamo nell'ultimo tratto una zona di sfasciumi rocciosi, dove una nutrita colonia di capre ci osserva incuriosita, quindi come sempre gli ultimi metri si fanno ancor più ripidi e impegnativi, ma finalmente ecco la vetta de Il Pizzo o **Toden** (1644m)(1.00h/1.15h).
 
-![Toden vetta](images_83/todentodano_toden.jpg)
+![**Toden** vetta](images_83/todentodano_toden.jpg)
 
 Di fronte a noi subito ci accoglie la vista sul Pizzo Marona e il Monte Zeda.
 
 Anche se si tratta di una cima di altitudine modesta, la sua posizione regala una visione a 360° davvero fantastica, che invita ad immortalarla...
 
-Verso sud-ovest domina il Lago Maggiore e le isole Borromee, quindi verso destra il Mottarone, il Monte Rosa e i Corni di Nibbio, più vicino a noi la cresta del Pernice il Todano e il Cugnacorta.
+Verso sud-ovest domina il Lago **Maggiore** e le isole Borromee, quindi verso destra il Mottarone, il Monte Rosa e i Corni di Nibbio, più vicino a noi la cresta del Pernice il Todano e il Cugnacorta.
 
 ![Panorama sud-ovest](images_83/todentodano_sudovest.jpg)
 
@@ -107,36 +107,36 @@ Ora in cresta il cammino si fa piacevole, dolci saliscendi tra i magri prati sco
 
 ![Cresta verso il Todano](images_83/todentodano_cresta.jpg)
 
-In breve raggiungiamo la vetta del Monte Todano o I Balmitt su alcune cartine, (1667m)(1.20h/1.40h).
+In breve raggiungiamo la vetta del **Monte Todano** o I Balmitt su alcune cartine, (1667m)(1.20h/1.40h).
 
 ![Croce Todano](images_83/todentodano_todano.jpg)
 
-La croce di vetta del Monte Todano è stata posata dall'AVIS e al suo interno contiene la scatola metallica con il libro di vetta.
+La croce di vetta del **Monte Todano** è stata posata dall'AVIS e al suo interno contiene la scatola metallica con il libro di vetta.
 
 Mentre continua a sgocciolare scattiamo la classica foto di vetta in gruppo.
 
 La vista si apre giù sul versante opposto(nord-est), tra i
-numerosi alpeggi dell'alta Valle
-Intrasca che noi abbiamo percorso e descritto
+numerosi alpeggi dell'alta **Valle
+Intrasca** che noi abbiamo percorso e descritto
 in una nostra recensione.
 
-Improvvisamente il cielo si apre e torna un po di sole, il lago Maggiore si riprende la scena con colori più vivaci, mentre Verbania se ne sta adagiata sulla sua riva.
+Improvvisamente il cielo si apre e torna un po di sole, il **lago** **Maggiore** si riprende la scena con colori più vivaci, mentre **Verbania** se ne sta adagiata sulla sua riva.
 
-![Lago Maggiore](images_83/todentodano_verbania.jpg)
+![Lago **Maggiore**](images_83/todentodano_verbania.jpg)
 
-Dopo aver vagato con lo sguardo sulle cime e le valli circostanti, riprendiamo il cammino scendendo verso sinistra rispetto al nostro arrivo, in direzione della evidente Cappelletta del Pian Cavallone che raggiungiamo in breve.
+Dopo aver vagato con lo sguardo sulle cime e le valli circostanti, riprendiamo il cammino scendendo verso sinistra rispetto al nostro arrivo, in direzione della evidente **Cappelletta del Pian Cavallone** che raggiungiamo in breve.
 
-![Cappelletta del Pian Cavallone](images_83/todentodano_cappelletta.jpg)
+![**Cappelletta del Pian Cavallone**](images_83/todentodano_cappelletta.jpg)
 
-Quindi in pochi minuti piegando a sinistra raggiungiamo il Rifugio Pian Cavallone(1528m)(1.40h/2.00h).
+Quindi in pochi minuti piegando a sinistra raggiungiamo il **Rifugio Pian Cavallone**(1528m)(1.40h/2.00h).
 
-![Rifugio Pian Cavallone](images_83/todentodano_rifugio.jpg)
+![**Rifugio Pian Cavallone**](images_83/todentodano_rifugio.jpg)
 
-Dove finalmente ci concediamo il meritato pranzo, ad un tiepido sole con vista lago.
+Dove finalmente ci concediamo il meritato pranzo, ad un tiepido sole con vista **lago**.
 
-Il rifugio del Pian Cavallone di proprietà
+Il **rifugio del Pian Cavallone** di proprietà
 del CAI Intra costruito
-nel 1882 e gestito dalla Cooperativa Valgrande è la meta più classica dell'escusionismo verbanese per la sua facile accessibilità da molti paesi della Valle Intrasca come Miazzina, Intragna, Caprezzo e anche da Cicogna ma con un po più di sforzo.
+nel 1882 e gestito dalla Cooperativa Valgrande è la meta più classica dell'escusionismo verbanese per la sua facile accessibilità da molti paesi della **Valle Intrasca** come **Miazzina**, **Intragna**, **Caprezzo** e anche da **Cicogna** ma con un po più di sforzo.
 
 Testimone di questo è una foto posta su di un pannello
 all'ingresso del rifugio, che ritrae centinaia di persone
@@ -159,7 +159,7 @@ Rifocillati e riposati, partiamo per il ritorno.
 
 Il sentiero scende qualche decina di metri sotto il Rifugio, dove incontriamo un cartello semicancellato in cui tuttavia ritroviamo il numero "10" proprio come quello visto poco dopo la partenza.
 
-La traccia in traverso a mezza costa sotto il versante sud-ovest del Toden, perde quota molto lentamente aggirando alcune piccole formazioni rocciose.
+La traccia in traverso a mezza costa sotto il versante sud-ovest del **Toden**, perde quota molto lentamente aggirando alcune piccole formazioni rocciose.
 
 Il sole ora è pieno e lo scenario magnifico.
 
@@ -167,7 +167,7 @@ Il sole ora è pieno e lo scenario magnifico.
 
 Camminiamo piacevolmente  in leggera discesa, aggirando la vetta salita all'andata.
 
-Per raggiungere l'alpe Sunfaì(1247m)(2.30h/3.00h).
+Per raggiungere l'**alpe Sunfaì**(1247m)(2.30h/3.00h).
 
 ![Alpe Sunfaì](images_83/todentodano_sunfai.jpg)
 
@@ -177,22 +177,22 @@ Poco fuori l'alpeggio, attraversando un rigagnolo qualcuno approfitta di una poz
 
 ![Margot bagno](images_83/todentodano_fresco.jpg)
 
-Superate le ultime baite torniamo sull'ampio sentiero percorso all'andata, nei pressi del cartello numero "10" e del monumento all'Uomo Orante della Valle Intrasca.
+Superate le ultime baite torniamo sull'ampio sentiero percorso all'andata, nei pressi del cartello numero "10" e del monumento all'Uomo Orante della **Valle Intrasca**.
 
 ![Uomo Orante](images_83/todentodano_orante.jpg)
 
-Scendiamo rapidamente e brevemente all'alpe La Piazza(1160m)(2.45h/3.15), già attraversata all'andata.
+Scendiamo rapidamente e brevemente all'**alpe La Piazza**(1160m)(2.45h/3.15), già attraversata all'andata.
 
-Quindi voltandoci indietro diamo un ultimo sguardo alla vetta del Toden faticosamente raggiunta in mattinata.
+Quindi voltandoci indietro diamo un ultimo sguardo alla vetta del **Toden** faticosamente raggiunta in mattinata.
 
-![Toden vista](images_83/todentodano_narcisi.jpg)
+![**Toden** vista](images_83/todentodano_narcisi.jpg)
 
-Ripercorrendo l'ampia traccia torniamo in breve all'alpe Gabbio e al parcheggio (1130m)(3.00h/3.30h) partenza e arrivo della nostra escursione.
+Ripercorrendo l'ampia traccia torniamo in breve all'**alpe Gabbio** e al parcheggio (1130m)(3.00h/3.30h) partenza e arrivo della nostra escursione.
 
-Escursione facile sotto l'aspetto dell'orientamento che svolgendosi tutta all'aperto può essere condotto a vista, ma che richiede un buon allenamento soprattutto per l'ascesa al Toden che si svolge su pendenze davvero impegnative, ma che regala panorami unici.
+Escursione facile sotto l'aspetto dell'orientamento che svolgendosi tutta all'aperto può essere condotto a vista, ma che richiede un buon allenamento soprattutto per l'ascesa al **Toden** che si svolge su pendenze davvero impegnative, ma che regala panorami unici.
 
-Grazie
-agli escursionisti di giornata Fabrizio, Matteo, Dario e Margot.
+**Grazie
+agli escursionisti di giornata Fabrizio, Matteo, Dario e Margot.**
 
 
 

@@ -32,8 +32,8 @@ come_raggiungere: |
 La
 strada termina in un piccolo ma capiente parcheggio a quota
 circa 1217m, dove sulla sinistra sono ben visibili i cartelli
-indicatori delle varie mete, tra cui il Monte
-Ziccher nostro obbiettivo odierno.
+indicatori delle varie mete, tra cui il **Monte
+Ziccher** nostro obbiettivo odierno.
 
 Dopo parecchio tempo, oggi giorno dell'epifania torniamo
 in montagna per una ciaspolata, la giornata è straordinariamente
@@ -45,7 +45,7 @@ gli scarponi, gli zaini e le ciaspole visto che il sentiero
 è subito coperto di neve.
 
 Poco prima di partire arriva un gruppetto che ci chiede
-se anche noi abbiamo come meta il Monte Ziccher, confermiamo
+se anche noi abbiamo come meta il **Monte Ziccher**, confermiamo
 e ci diamo un arrivederci in cima.
 
 Il sentiero parte proprio dove sono infissi i cartelli indicatori,
@@ -69,7 +69,7 @@ fa fitto e scuro, piegando dapprima a sinistra e poi a
 destra.
 
 Bisogna rompere subito il fiato, ma in breve raggiungiamo
-l'Alpe Blizz
+l'**Alpe Blizz**
 (1282m)(15/20 min).
 
 ![](images_66/ziccher_ciasp_blizz.jpg)
@@ -86,16 +86,16 @@ recente ristrutturazione.
 
 Sulla balconata del Rifugio, guardando verso ovest, nella
 direzione del nostro arrivo, si apre già un panorama
-notevole sulla Val Vigezzo,
+notevole sulla **Val Vigezzo**,
 con i suoi centri che riposano ancora all'ombra e le sue
 cime, mentre sullo sfondo nella limpida luce del mattino
-svetta la catena del Monte
-Rosa.
+svetta la catena del **Monte
+Rosa**.
 
 ![](images_66/ziccher_ciasp_vigezzo.jpg)
 
 Ripartiamo,
-salendo nel bosco alla sinistra dell'Alpe Blizz, in questo
+salendo nel bosco alla sinistra dell'**Alpe Blizz**, in questo
 periodo può essere utile per orientarsi dato l'innevamento,
 prestare attenzione ai segni Bianco-Rosso del C.A.I. presenti
 sui tronchi delle piante.
@@ -104,8 +104,8 @@ Usciamo
 subito in una radura, disseminata di baite vecchie a destra
 e una ben riattata e solitaria sulla sinistra, verso est
 sulla destra, a farla da padrone li a un passo è
-l'imponente parete del Gridone
-o Limidario.
+l'imponente parete del **Gridone**
+o **Limidario**.
 
 ![](images_66/ziccher_ciasp_gridone.jpg)
 
@@ -113,7 +113,7 @@ Il
 sentiero/solco sale ora allo scoperto, su pendenze abbastanza
 impegnative, tra le casere disseminate sui prati aperti,
 in breve raggiungiamo un nucleo più cospicuo è
-questo Pragrande
+questo **Pragrande**
 (1380m)(30/35min).
 
 ![](images_66/ziccher_ciasp_pagrande.jpg)
@@ -130,8 +130,8 @@ e prende a salire in modo deciso, sempre all'interno del
 bosco.
 
 Dopo questo strappo il bosco si dirada e raggiungiamo
-una radura con una vecchia baita, è questo l'Alpe
-Oro (1560m)(45/55min).
+una radura con una vecchia baita, è questo l'**Alpe
+Oro** (1560m)(45/55min).
 
 Ci
 fermiamo ad ammirare il panorama e la giornata superba
@@ -153,13 +153,13 @@ ammirare il panorama verso sud.
 
 ![](images_66/pan_zeda_loana.jpg)
 
-Alle nostre spalle da sinistra il Monte
-Zeda, la Val
-Cannobina, la Val
-Loana, il Cimone
-di Cortechiuso, la Laurasca
-e il Pizzo
-Ragno.
+Alle nostre spalle da sinistra il **Monte
+Zeda**, la **Val
+Cannobina**, la **Val
+Loana**, il **Cimone
+di Cortechiuso**, la **Laurasca**
+e il **Pizzo
+Ragno**.
 
 Difficile
 dare dei punti di riferimento, non vi sono ne costruzioni
@@ -188,8 +188,8 @@ Ormai
 manca poco, procediamo a vista, raggiungiamo qualcuno
 del gruppo che ci aveva sorpassato, che paga la foga iniziale,
 ed in breve in uno scenario bellissimo siamo alla meta
-scialpinistica del Monte
-Ziccher (1965m)(2.30/3.00h).
+scialpinistica del **Monte
+Ziccher** (1965m)(2.30/3.00h).
 
 ![](images_66/ziccher_ciasp_ziccher.jpg)
 
@@ -219,16 +219,16 @@ lo sguardo che può spaziare a 360° senza nuvole
 
 Non si vorrebbe mai scendere, ma mentre mangiamo qualcosa,
 si alza una brezza fredda e pungente, diamo un ultimo
-sguardo a Locarno
-e al Lago maggiore,
-al Limidario
-al Monte Zeda
-alla Laurasca
-al Pizzo Ragno
-e a sua maestà il Monte
-Rosa.
+sguardo a **Locarno**
+e al **Lago maggiore**,
+al **Limidario**
+al **Monte Zeda**
+alla **Laurasca**
+al **Pizzo Ragno**
+e a sua maestà il **Monte
+Rosa**.
 
-Scattiamo la foto di vetta con il Monte Rosa sullo sfondo.
+Scattiamo la foto di vetta con il **Monte Rosa** sullo sfondo.
 
 ![](images_66/ziccher_ciasp_vetta.jpg)
 
@@ -244,8 +244,8 @@ del limite della vita arborea.
 ![](images_66/ziccher_ciasp_biforcuto.jpg)
 
 Ripercorriamo
-a ritroso quindi il percorso dell'andata per tornare all'Alpe
-Blizz e al parcheggio(1217m) dopo circa
+a ritroso quindi il percorso dell'andata per tornare all'**Alpe
+Blizz** e al parcheggio(1217m) dopo circa
 (4.30h/5.00h).
 
 Escursione bellissima sia per l'ambiente che per i panorami,
@@ -256,9 +256,9 @@ sulla neve causa sempre un maggior dispendio energetico,
 ed averla effettuata nel periodo estivo onde evitare problemi
 d'orientamento.
 
-Un
+**Un
 ringraziamento agli escursionisti di giornata Lella e
-Dario.
+Dario.**
 
 
 

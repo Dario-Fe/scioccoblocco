@@ -34,8 +34,8 @@ come_raggiungere: |
    tornanti e le due gallerie si arriva all'Alpe Devero.
    Nei giorni festivi o di grande affluenza, è possibile lasciare le auto nei due grossi piazzali tra la prima e la seconda galleria, e raggiungere l'Alpe con il servizio navetta.
 ---
-All'Alpe
-Devero (1640m) lasciamo la macchina lungo la strada nelle immediate vicinanze del
+All'**Alpe
+Devero** (1640m) lasciamo la macchina lungo la strada nelle immediate vicinanze del
 comodo parcheggio sotterraneo di recente costruzione, oggi già esaurito,
 e risaliamo la stradina che si insinua tra le prime baite
 dell'alpe.
@@ -61,7 +61,7 @@ Il cielo è straordinariamente terso, il contrasto del blu con il bianco delle c
 
 ![](images_76/lagonero_pedemonte.jpg)
 
-In pochi minuti, arriviamo in località Pedemonte, al margine sinistro del nucleo, arrivando dalla piana del Devero, attraversiamo un ponticello e iniziamo a salire verso destra nel bosco su evidentissima traccia.
+In pochi minuti, arriviamo in località **Pedemonte**, al margine sinistro del nucleo, arrivando dalla piana del Devero, attraversiamo un ponticello e iniziamo a salire verso destra nel bosco su evidentissima traccia.
 
 ![](images_76/lagonero_bosco.jpg)
 
@@ -73,7 +73,7 @@ Dopo circa mezz'ora arriviamo nei pressi del caratteristico ponticello che prece
 
 Riprendiamo a salire prima su un breve tratto in leggera ascesa, quindi le pendenze tornano più impegnative, fuori ormai dal bosco il sole scalda piacevolmente il nostro cammino in un atmosfera primaverile.
 
-Finalmente dopo circa un'ora eccoci all'Alpe Misanco (1907m).
+Finalmente dopo circa un'ora eccoci all'**Alpe Misanco** (1907m).
 
 ![](images_76/lagonero_misanco.jpg)
 
@@ -92,11 +92,11 @@ Quindi prendiamo a salire verso sinistra, in direzione di un breve ma ripido can
 
 Le pendenze iniziano a farsi impegnative, e gli ultimi metri del piccolo canale sono ripidi e scivolosi, ma non vi è alcun pericolo, velocemente approdiamo in una bellissima radura.
 
-Siamo entrati in Val Buscagna.
+Siamo entrati in **Val Buscagna**.
 
 ![](images_76/lagonero_cervandone.jpg)
 
-Una piccola e immacolata radura, ci accoglie aprendo una spettacolare vista sul Monte Cervandone.
+Una piccola e immacolata radura, ci accoglie aprendo una spettacolare vista sul **Monte Cervandone**.
 
 Infatti dopo la recente nevicata che ha posato un fresco manto di circa 25cm, nessuno sembra essere passato di qua.
 
@@ -110,7 +110,7 @@ Tra i radi larici, sulla nostra sinistra noteremo un po più in basso un largo a
 
 ![](images_76/lagonero_discesa.jpg)
 
-Giunti nei pressi, troviamo appena emerso nella neve il cartello che indica Lago Nero (1994m)(1.30/145h).
+Giunti nei pressi, troviamo appena emerso nella neve il cartello che indica **Lago Nero** (1994m)(1.30/145h).
 
 ![](images_76/lagonero_lago.jpg)
 
@@ -122,16 +122,16 @@ Si potrebbe restare qui a lungo, ma anche il miraggio di un buon pranzo tipico h
 
 Così torniamo sui nostri passi, divertendoci tornati al canalino già fatto in salita a fare un po di slitta "naturale".
 
-Quindi tornati all'Alpe Misanco scattiamo una foto di gruppo.
+Quindi tornati all'**Alpe Misanco** scattiamo una foto di gruppo.
 
 ![](images_76/lagonero_gruppo.jpg)
 
-Riprendiamo  il tracciato super frequentato, per tornare a Pedemonte e all'Alpe Devero (1640m) dopo circa (3.00/3.30h).
+Riprendiamo  il tracciato super frequentato, per tornare a **Pedemonte** e all'**Alpe Devero** (1640m) dopo circa (3.00/3.30h).
 
 Bella escursione, alla portata di tutti, che dopo fresche nevicate e in giornate terse regala scorci appaganti, ancor più gratificanti se in giusta compagnia.
 
-Un
-grazie agli escursionisti di giornata Sandra, Zouby, Davide, Francesco e Dario.
+**Un
+grazie agli escursionisti di giornata** **Sandra, Zouby, Davide, Francesco** **e Dario.**
 
 
 
