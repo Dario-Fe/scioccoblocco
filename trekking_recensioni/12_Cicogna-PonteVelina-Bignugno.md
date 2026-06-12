@@ -51,7 +51,7 @@ Qui a **Cicogna**(732m),
 al fianco del Cimitero parte una strada gippabile che ci
 conduce al nostro sentiero.
 
-![](images_12/**Velina**_**Cicogna**.jpg)
+![](images_12/Velina_Cicogna.jpg)
 
 ![](images_12/velina_cart.jpg)
 
@@ -73,7 +73,7 @@ Grande** che si apre di fronte a noi e alcuni
 alpeggi sul versante opposto, quello del **Faiè**
 che percorreremo al ritorno.
 
-![](images_12/**Velina**_Bett-Scell.jpg)
+![](images_12/Velina_Bett-Scell.jpg)
 
 La
 traccia, tra le insenature della montagna, scende di quota
@@ -90,7 +90,7 @@ antico corte maggenale di **Cossogno**
 piuttosto grosso che fino agli anni '50 tempo dell'abbandono
 era secondo come presenze solo a **Pogallo**.
 
-![](images_12/**Velina**_Torchio.jpg)
+![](images_12/Velina_Torchio.jpg)
 
 Usciamo
 dal corte e teniamo il sentiero che sale a destra, sempre
@@ -112,7 +112,7 @@ Passaggio non difficile ma che richiede un minimo di attenzione,
 anche se qualcuno accentua le difficoltà tecniche
 !!!
 
-![](images_12/**Velina**_Rio_**Velina**.jpg)
+![](images_12/Velina_Rio_Velina.jpg)
 
 Superato
 il guado riprendiamo a salire, superiamo una fontana e quindi
@@ -187,9 +187,9 @@ Tutto però fu quasi inutile perchè alla fine
 del rastrellamento dei circa 300 partigiani ne sopravvissero
 solo poche decine.
 
-![](images_12/**Velina**_Pan_Riovalgrande.jpg)
+![](images_12/Velina_Pan_Riovalgrande.jpg)
 
-![](images_12/**Velina**_Ponte.jpg)
+![](images_12/Velina_Ponte.jpg)
 
 Qui
 prendiamo il sentiero che sale svoltando a sinistra, quello
@@ -226,7 +226,7 @@ Maggiore**.
 Notiamo anche gli indicatori per il sentiero che porta all'**Alpe
 Ompio**.
 
-![](images_12/**Velina**_Or-Vergugn.jpg)
+![](images_12/Velina_Or-Vergugn.jpg)
 
 Ormai il più è fatto, il sentiero diventa
 un ampia mulattiera e in breve ci porta a **Bignugno**(560m),
