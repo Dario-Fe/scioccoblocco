@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Chi Siamo - ScioccoBlocco{% endblock %}
+{% block description %}Chi siamo? La nuova era di ScioccoBlocco: un archivio vivo di recensioni montane tra Val Grande, Ossola e Valle Strona.{% endblock %}
+
+{% block content %}
+
+<article class="static-page">
+  <h1>Chi Siamo?</h1>
+
+  {{ content_html }}
+
+  <p style="margin-top:2rem">
+    <a href="{{ base_path }}/" class="btn">&larr; Torna alla home</a>
+  </p>
+</article>
+
+{% endblock %}

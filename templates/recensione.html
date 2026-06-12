@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}{{ review.name }} - ScioccoBlocco{% endblock %}
+{% block description %}{{ review.name }} - Itinerario {{ review.difficolta }} in {{ review.valle }}. {{ review.excerpt[:150] if review.excerpt else 'Percorso trekking nel Verbano Cusio Ossola.' }}{% endblock %}
+
+{% block content %}
+
+<a href="{{ base_path }}/recensioni/" class="back-link">&larr; Torna agli itinerari</a>
+
+<article class="review-header">
+  <h1>{{ review.name }}</h1>
+
+  <dl class="review-info">
+    <div><dt>Valle</dt><dd>{{ review.valle }}</dd></div>
+    <div><dt>Data</dt><dd>{{ review.data }}</dd></div>
+    <div><dt>Difficoltà</dt><dd>{{ review.difficolta }}</dd></div>
+  </dl>
+</article>
+
+{% if info %}
+<div class="review-meta-box">
+  {% set label_map = {
+    'periodo consigliato': 'Periodo consigliato',
+    'consigliato': 'Periodo consigliato',
+    'attrezzatura': 'Attrezzatura',
+    'tempo di percorrenza': 'Tempo di percorrenza',
+    'dislivello': 'Dislivello',
+    'strutture': 'Strutture',
+    'come raggiungere': 'Come raggiungere',
+  } %}
+  {% for key, label in label_map.items() %}
+    {% if key in info %}
+    <div class="meta-item">
+      <span class="meta-label">{{ label }}</span>
+      <span class="meta-value">{{ info[key] | replace('\n', '<br>') }}</span>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+<div class="review-content">
+  {{ content_html }}
+</div>
+
+{% endblock %}

@@ -1,0 +1,86 @@
+Num,Valle,Name,Data,Difficolta,Markdown,Images
+1,Val Grande,Cicogna-Alpe Prà-Pogallo-Cicogna,agosto 2003,E,01_Cicogna-Alpe_Pre-Pogallo-Cicogna.md,images_01
+2,Val Grande,Archia-Monte Zeda-Sentiero Cadorna,settembre 2003,E,02_Archia-Monte_Zeda-Sentiero_Cadorna.md,images_02
+3,Valle Vigezzo,Laghetti del Moino-rifugio Greppi-vista Bagni di Craveggia,agosto 2003,E,03_Laghetti_del_Moino-rifugio_Greppi-vista_Bagni_di_Craveggia.md,images_03
+4,Val Loana,Cimone di Cortechiuso-Scaredi,ottobre 2003,E,04_Cimone_di_Cortechiuso-Scaredi.md,images_04
+5,Val Loana,Rifugio Al Cedo-S.M.Maggiore,luglio 2003,E,05_Rifugio_Al_Cedo-S.M.Maggiore.md,images_05
+6,Valle Strona,Cima Capezzone,agosto 2003,E,06_Cima_Capezzone.md,images_06
+7,Valle Strona,Monte Massone,Agosto 2003,E,07_Monte_Massone.md,images_07
+8,Val Grande,Cima Sasso,ottobre 2004,E,08_Cima_Sasso.md,images_08
+9,Valle Ossola,Mont'Orfano-Sentiero Cadorna,Marzo 2004,T,09_Mont_Orfano-Sentiero_Cadorna.md,images_09
+10,Valle Cannobina,Laghetto Solivo-Cannobio,25 aprile 2004,T,10_Laghetto_Solivo-Cannobio.md,images_10
+11,Val Grande,Monte Faiè,23 maggio 2004,T/E,11_Monte_Faie.md,images_11
+12,Val Grande,Cicogna-PonteVelina-Bignugno,13 giugno 2004,E,12_Cicogna-PonteVelina-Bignugno.md,images_12
+13,Val di Bognanco,Passo Monscera-lago Monscera e Ragozza,17 luglio 2004,E,13_Passo_Monscera-lago_Monscera_e_Ragozza.md,images_13
+14,Val Grande,Corni di Nibbio-Cima Sasarut-Monte Faiè,1 agosto 2004,EE,14_Corni_di_Nibbio-Cima_Sasarut-Monte_Fai.md,images_14
+15,Val Grande,Motta d'Aurelio,27 marzo 2005,T,15_Motta_d_Aurelio.md,images_15
+16,Valle Vigezzo,Valle Onsernone-Bagni di Craveggia-Valle Vigezzo,Luglio 2004,EE,16_Valle_Onsernone-Bagni_di_Craveggia-Valle_Vigezzo.md,images_16
+17,Val Grande,Ompio-Monte Faiè-Vercio-Ompio,24 aprile 2005,E,17_Ompio-Monte_Faie-Vercio-Ompio.md,images_17
+18,Val Loana,Alpe Cortino-La Cima-Testa del Mater- La Forcola,8 maggio 2005,E,18_Alpe_Cortino-La_Cima-Testa_del_Mater-_La_Forcola.md,images_18
+19,Val Grande,Circuito di Scareno- Tra Val Gula e Valle del San Giovanni,15 maggio 2005,E,19_Circuito_di_Scareno-_Tra_Val_Gula_e_Valle_del_San_Giovanni.md,images_19
+20,Valle Vigezzo,La Pioda di Crana,21 maggio 2005,EE,20_La_Pioda_di_Crana.md,images_20
+21,Val Loana,Val di Basso-Pizzo Ragno,28 maggio 2005,EE,21_Val_di_Basso-Pizzo_Ragno.md,images_21
+22,Valle Antrona,Lombraoro-Lareccio-Larciero,18 giugno 2005,E,22_Lombraoro-Lareccio-Larciero.md,images_22
+23,Valle Vigezzo,Lago Panelatte e Lago di Larecchio,25 giugno 2005,E,23_Lago_Panelatte_e_Lago_di_Larecchio.md,images_23
+24,Val Formazza,"3A,Città di Busto,Passo Gries",2 luglio 2005,EE,24_3A_Citt_di_Busto_Passo_Gries.md,images_24
+25,Valle Strona,"Campello,B.tta Rimella,Capezzone",22 luglio 2005,E,25_Campello_B.tta_Rimella_Capezzone.md,images_25
+26,Valle Antrona,Laghetti del Trivera,6 agosto 2005,E,26_Laghetti_del_Trivera.md,images_26
+27,Valle Strona,"Quarna, Monte La Mazza",10 agosto 2005,T,27_Quarna_Monte_La_Mazza.md,images_27
+28,Valle Vigezzo,La Scheggia e Rifugio Regi,13-14 agosto 2005,EE,28_La_Scheggia_e_Rifugio_Regi.md,images_28
+29,Val di Devero,Lago di Pojala,27 agosto 2005,E,29_Lago_di_Pojala.md,images_29
+30,Valle Antrona,Lago di Cheggio e Laghi di Pianei,3 settembre 2005,E,30_Lago_di_Cheggio_e_Laghi_di_Pianei.md,images_30
+31,Val Grande,Scala di Ragozzale,16 settembre 2005,EE,31_Scala_di_Ragozzale.md,images_31
+32,Val Grande,Pizzo Marona,24 settembre 2005,EE,32_Pizzo_Marona.md,images_32
+33,Val Grande,Pizzo Pernice,16 ottobre 2005,T/E,33_Pizzo_Pernice.md,images_33
+34,Val di Bognanco,Pizzo Pioltone,29 ottobre 2005,E/EE,34_Pizzo_Pioltone.md,images_34
+35,Val Grande,Monte Faie (CIASPOLE),11 marzo 2006,E,35_Monte_Faie_(CIASPOLE).md,images_35
+36,Val Grande,Cima Tuss,28 maggio 2006,EE,36_Cima_Tuss.md,images_36
+37,Val Formazza,Lago Superiore - Passo Hendar Furggu,17 giugno 2006,E,37_Lago_Superiore_-_Passo_Hendar_Furggu.md,images_37
+38,Valle Isorno,Rifugio Bonasson - Lago di Cavegna,24 giugno 2006,EE,38_Rifugio_Bonasson_-_Lago_di_Cavegna.md,images_38
+39,Val Grande,Monte Morissolo (BY NIGHT),8 luglio 2006,T,39_Monte_Morissolo_(BY_NIGHT).md,images_39
+40,Val Formazza,Lago Brunni,9/7/2006,E,40_Lago_Brunni.md,images_40
+41,Valle Antrona,Camposecco-Cingino,15/7/2006,EE,41_Camposecco-Cingino.md,images_41
+42,Valle Isorno,Lago Gelato - Lago di Mattogno,18 luglio 2006,EE,42_Lago_Gelato_-_Lago_di_Mattogno.md,images_42
+43,Val Formazza,S.Giacomo e Gries in MTB,22/7/2006,EE,43_S.Giacomo_e_Gries_in_MTB.md,images_43
+44,Val Divedro,Cistella Pizzo Diei,21 agosto 2006,EE,44_Cistella_Pizzo_Diei.md,images_44
+45,Val di Bognanco,Laghi di Paione e Variola,31 luglio 2006,E,45_Laghi_di_Paione_e_Variola.md,images_45
+46,Val Loana,Cima della Laurasca,2 settembre 2006,E,46_Cima_della_Laurasca.md,images_46
+47,Val Grande,Monte Todun - Colma di Cossogno,8 ottobre 2006,T,47_Monte_Todun_-_Colma_di_Cossogno.md,images_47
+48,Val Grande,Cicogna - Tregugno - La Teia,5 novembre 2006,E,48_Cicogna_-_Tregugno_-_La_Teia.md,images_48
+49,Val di Devero,Monte Cazzola (SCI ALPINISMO),16 dicembre 2006,M/F,49_Monte_Cazzola_(SCI_ALPINISMO).md,images_49
+50,Valle Antrona,Viganella-Alpe Scagiola (Specchio),6 gennaio 2007,T/E,50_Viganella-Alpe_Scagiola_(Specchio).md,images_50
+51,Val Grande,Cavallone-Todano-Pernice (CIASPOLE),29 gennaio 2007,E,51_Cavallone-Todano-Pernice_(CIASPOLE).md,images_51
+52,Valle Strona,Monte Cerano,29 aprile 2007,T/E,52_Monte_Cerano.md,images_52
+53,Valle Antrona,Rifugio Andolla,07 maggio 2007,E,53_Rifugio_Andolla.md,images_53
+54,Val di Devero,Bocchetta della Scarpia,8 maggio 2007,E,54_Bocchetta_della_Scarpia.md,images_54
+55,Valle Vigezzo,Pizzo Ruggia,23 giugno 2007,E/EE,55_Pizzo_Ruggia.md,images_55
+56,Val di Bognanco,Passo e Lago Monscera (CIASPOLE),30 novembre 2007,E,56_Passo_e_Lago_Monscera_(CIASPOLE).md,images_56
+57,Val Loana,La Cima-Testa del Mater-(CIASPOLE),01 aprile 2008,E,57_La_Cima-Testa_del_Mater-(CIASPOLE).md,images_57
+58,Val Grande,Pogallo- Pian di Boit- Alpe Terza,27 aprile 2008,E,58_Pogallo-_Pian_di_Boit-_Alpe_Terza.md,images_58
+59,Val di Devero,Croveo-Agaro-Croveo,11 maggio 2008,E,59_Croveo-Agaro-Croveo.md,images_59
+60,Valle Antrona,La Forcola,15 luglio 2008,E,60_La_Forcola.md,images_60
+61,Valle Antrona,Alpe Casaravera,02 giugno 2009,T/E,61_Alpe_Casaravera.md,images_61
+62,Valle Vigezzo,Monte Ziccher e Bocchetta di Sant'Antonio,28 giugno 2009,E,62_Monte_Ziccher_e_Bocchetta_di_Sant_Antonio.md,images_62
+63,Valle Antrona,Punta e Laghi Trivera,29 luglio 2009,E,63_Punta_e_Laghi_Trivera.md,images_63
+64,Val di Bognanco,Cima Verosso,23 agosto 2009,E,64_Cima_Verosso.md,images_64
+65,Val Loana,Cimone di Straolgio  e Pizzo Stagno,04 ottobre 2009,E/EE,65_Cimone_di_Straolgio_e_Pizzo_Stagno.md,images_65
+66,Valle Vigezzo,Monte Ziccher (CIASPOLE),06 gennaio 2010,E,66_Monte_Ziccher_(CIASPOLE).md,images_66
+67,Val Grande,Monte Spalavera,19 aprile 2010,T/E,67_Monte_Spalavera.md,images_67
+68,Valle Anzasca,Pizzo Castello,24 aprile 2010,E,68_Pizzo_Castello.md,images_68
+69,Val Grande,Alpe Busarasca,22 maggio 2010,E/EE,69_Alpe_Busarasca.md,images_69
+70,Val Formazza,Rifugio Citta' di Busto,26/27 giugno 2010,E,70_Rifugio_Citta_di_Busto.md,images_70
+71,Valle Strona,Punta dell'Usciolo e Lago di Ravinella,04 luglio 2010,E,71_Punta_dell_Usciolo_e_Lago_di_Ravinella.md,images_71
+72,Valle Anzasca,Bivacco Lanti-Val Quarazza,18 luglio 2010,E,72_Bivacco_Lanti-Val_Quarazza.md,images_72
+73,Val Grande,Bocchetta di Campo,28 agosto 2010,E/EE,73_Bocchetta_di_Campo.md,images_73
+74,Val Grande,Monte Spalavera (CIASPOLE),12 dicembre 2010,T/E,74_Monte_Spalavera_(CIASPOLE).md,images_74
+75,Val Grande,Pian Vadà-Monte Bavarione (CIASPOLE),23 gennaio 2011,E,75_Pian_Vad-Monte_Bavarione_(CIASPOLE).md,images_75
+76,Val di Devero,Lago Nero (CIASPOLE),6 marzo 2011,T/E,76_Lago_Nero_(CIASPOLE).md,images_76
+77,Val Grande,Alpe Curgei-Pizzo Pernice-Alpe Cavallotti,20 aprile 2011,T/E,77_Alpe_Curgei-Pizzo_Pernice-Alpe_Cavallotti.md,images_77
+78,Val Grande,Il Pizzo o Toden,8 maggio 2011,T/E,78_Il_Pizzo_o_Toden.md,images_78
+79,Val Grande,Monte Zeda,28 maggio 2011,E,79_Monte_Zeda.md,images_79
+80,Valle Vigezzo,Anello d'Arvogno,25 settembre 2011,E,80_Anello_d_Arvogno.md,images_80
+81,Val Grande,Alpe Trecciura (CIASPOLE),08 febbraio 2012,T/E,81_Alpe_Trecciura_(CIASPOLE).md,images_81
+82,Val Grande,Pizzo d'Omo e Sasso Mezzano,09 aprile 2012,T,82_Pizzo_d_Omo_e_Sasso_Mezzano.md,images_82
+83,Val Grande,Anello Toden-Todano-Cavallone,23 maggio 2012,E,83_Anello_Toden-Todano-Cavallone.md,images_83
+84,Valle Cannobina,Monte Giove,11 agosto 2012,E,84_Monte_Giove.md,images_84
+85,Val di Bognanco,Rifugio Gattascosa (CIASPOLE),26 gennaio 2013,E,85_Rifugio_Gattascosa_(CIASPOLE).md,images_85

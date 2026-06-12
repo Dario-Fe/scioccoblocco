@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block title %}ScioccoBlocco - Itinerari Trekking & Bike{% endblock %}
+{% block description %}Oltre 80 itinerari trekking e bike nel Verbano Cusio Ossola, Val Grande, Valli Ossolane. Percorsi, foto e informazioni.{% endblock %}
+
+{% block content %}
+
+<section class="hero">
+  <h2>Trekking &amp; Bike</h2>
+  <p>Trekking tra Val Grande, Ossola, Verbano e valli circostanti</p>
+</section>
+
+<div class="filters">
+  <label for="filterValle">Valle:</label>
+  <select id="filterValle" onchange="filterCards()">
+    <option value="">Tutte</option>
+    {% for valle in valli %}
+    <option value="{{ valle }}">{{ valle }}</option>
+    {% endfor %}
+  </select>
+
+  <label for="filterDiff">Difficoltà:</label>
+  <select id="filterDiff" onchange="filterCards()">
+    <option value="">Tutte</option>
+    <option value="T">Turistica (T)</option>
+    <option value="E">Escursionistica (E)</option>
+    <option value="EE">Escursionismo Esperto (EE)</option>
+    <option value="T/E">T/E</option>
+    <option value="E/EE">E/EE</option>
+    <option value="M/F">M/F</option>
+  </select>
+
+  <label for="filterSearch">Cerca:</label>
+  <input type="text" id="filterSearch" placeholder="Nome percorso..." onkeyup="filterCards()">
+</div>
+
+<div class="reviews-grid" id="reviewsGrid">
+  {% for r in reviews %}
+  <div class="review-card" data-valle="{{ r.valle }}" data-diff="{{ r.difficolta }}" data-name="{{ r.name|lower }}">
+    <div class="review-card-body">
+      <h3><a href="{{ base_path }}/recensioni/{{ r.slug }}/">{{ r.name }}</a></h3>
+      <div class="review-meta">
+        <span class="badge badge-valle">{{ r.valle }}</span>
+        <span class="badge badge-diff-{{ r.difficolta_class }}">{{ r.difficolta }}</span>
+      </div>
+      {% if r.excerpt %}
+      <p class="review-card-excerpt">{{ r.excerpt }}</p>
+      {% endif %}
+      <div class="review-card-footer">{{ r.data }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<p id="noResults" style="display:none;text-align:center;padding:2rem;color:var(--text-light)">
+  Nessuna recensione trovata. Prova a modificare i filtri.
+</p>
+
+<script>
+function filterCards() {
+  const valle = document.getElementById('filterValle').value.toLowerCase();
+  const diff = document.getElementById('filterDiff').value.toLowerCase();
+  const search = document.getElementById('filterSearch').value.toLowerCase();
+  const cards = document.querySelectorAll('.review-card');
+  let count = 0;
+  cards.forEach(c => {
+    const matchValle = !valle || c.dataset.valle.toLowerCase() === valle;
+    const matchDiff = !diff || c.dataset.diff.toLowerCase().includes(diff);
+    const matchName = !search || c.dataset.name.includes(search);
+    const show = matchValle && matchDiff && matchName;
+    c.style.display = show ? '' : 'none';
+    if (show) count++;
+  });
+  document.getElementById('noResults').style.display = count === 0 ? '' : 'none';
+}
+</script>
+
+{% endblock %}
