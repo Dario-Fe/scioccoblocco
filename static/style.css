@@ -265,9 +265,15 @@ a:hover { color: var(--accent); }
   align-items: center;
 }
 
-.filters label {
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.filter-group label {
   font-weight: 600;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 
 .filters select,

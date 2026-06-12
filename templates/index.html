@@ -10,27 +10,33 @@
 </section>
 
 <div class="filters">
-  <label for="filterValle">Valle:</label>
-  <select id="filterValle" onchange="filterCards()">
-    <option value="">Tutte</option>
-    {% for valle in valli %}
-    <option value="{{ valle }}">{{ valle }}</option>
-    {% endfor %}
-  </select>
+  <div class="filter-group">
+    <label for="filterValle">Valle:</label>
+    <select id="filterValle" onchange="filterCards()">
+      <option value="">Tutte</option>
+      {% for valle in valli %}
+      <option value="{{ valle }}">{{ valle }}</option>
+      {% endfor %}
+    </select>
+  </div>
 
-  <label for="filterDiff">Difficoltà:</label>
-  <select id="filterDiff" onchange="filterCards()">
-    <option value="">Tutte</option>
-    <option value="T">Turistica (T)</option>
-    <option value="E">Escursionistica (E)</option>
-    <option value="EE">Escursionismo Esperto (EE)</option>
-    <option value="T/E">T/E</option>
-    <option value="E/EE">E/EE</option>
-    <option value="M/F">M/F</option>
-  </select>
+  <div class="filter-group">
+    <label for="filterDiff">Difficoltà:</label>
+    <select id="filterDiff" onchange="filterCards()">
+      <option value="">Tutte</option>
+      <option value="T">Turistica (T)</option>
+      <option value="E">Escursionistica (E)</option>
+      <option value="EE">Escursionismo Esperto (EE)</option>
+      <option value="T/E">T/E</option>
+      <option value="E/EE">E/EE</option>
+      <option value="M/F">M/F</option>
+    </select>
+  </div>
 
-  <label for="filterSearch">Cerca:</label>
-  <input type="text" id="filterSearch" placeholder="Nome percorso..." onkeyup="filterCards()">
+  <div class="filter-group">
+    <label for="filterSearch">Cerca:</label>
+    <input type="text" id="filterSearch" placeholder="Nome percorso..." onkeyup="filterCards()">
+  </div>
 </div>
 
 <div class="reviews-grid" id="reviewsGrid">
