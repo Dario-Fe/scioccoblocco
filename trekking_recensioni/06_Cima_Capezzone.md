@@ -32,7 +32,7 @@ per bici**).
 
 Io ci sono arrivato in macchina !
 
-![](images_01/ravinellausciolo_chiesa.jpg)
+![](images_06/ravinellausciolo_chiesa.jpg)
 
 Dirigendosi verso la chiesa, in fondo al paese, si prende
 la scalinata(riempire la borraccia alla fontana del sagrato)e
