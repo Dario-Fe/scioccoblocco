@@ -285,7 +285,7 @@ Sulla sinistra, con chiaro cartello indicatore, scende il
 sentiero che in pochi tornanti ci porta al **tagliafuoco**
 (4.00h/4.10h).
 
-![](images_51/cav-tod-per_**tagliafuoco**.jpg)
+![](images_51/cav-tod-per_tagliafuoco.jpg)
 
 Ormai
 la neve è un ricordo, seguiamo a sinistra il cartello
