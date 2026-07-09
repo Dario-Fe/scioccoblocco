@@ -62,8 +62,6 @@ Siamo quasi al termine, dopo aver pranzato percorriamo a ritroso il sentiero che
 
 .....ma purtroppo non sono un fotografo per cui i risultati sono solo questi, pazienza. Siamo ormai al termine, adesso ripercorriamo la mulattiera del mattino, possiamo ammirare Campello con i sui faggeti, la chiesa e una torre del Castello, anche se nascosta dalla vegetazione.
 
-Scarica recensione
-
 **Un ringraziamento a Flavio,Fabrizio e Tillo** 
 
 

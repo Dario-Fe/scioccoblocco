@@ -62,4 +62,4 @@ La calce bianca ottenuta veniva messa nei sacchi e a dorso di mulo portata a val
 
 ![Fornace2.jpg](images_04/Fornace2.jpg)
 
-Con un ultimo sforzo eccoci di ritorno a **Fondo Gabbi** fondo della **Val Loana** ***e partenza ed arrivo della nostra escursione.
+Con un ultimo sforzo eccoci di ritorno a **Fondo Gabbi** fondo della **Val Loana** e partenza ed arrivo della nostra escursione.

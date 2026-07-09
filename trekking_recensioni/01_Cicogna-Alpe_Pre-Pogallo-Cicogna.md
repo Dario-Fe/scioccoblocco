@@ -23,6 +23,11 @@ come_raggiungere: |
    Santino, Rovegro, infine superata la galleria e il ponte 
    Casletto giungere a Cicogna.
 ---
+
+Nella piazzetta di **Cicogna** ( 732 m ) proprio dietro la fontana parte il sentiero, con indicazioni ben chiare per la nostra prima meta cioè **Alpe Prà ( Alpino )**.
+
+![](images_01/faie_vista_bas_valgr.jpg)
+
 Il sentiero parte subito con buona pendenza snodandosi all'interno
 di un bosco di latifoglie, tutto il percorso è punteggiato
 da ben 20 cippi che indicano la strada e da otto bacheche

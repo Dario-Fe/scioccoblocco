@@ -18,7 +18,7 @@ Questa recensione ricalca nella prima parte quella al **Monte Faiè** che trovat
 
 In parte sterrata e in parte pavimentata con ciottoli, la strada agricola sale rapidamente al margine di un bosco, alla nostra destra possiamo già scorgere ben delineate le creste che dividono la **Val Pogallo** dalla **Vall'Intrasca** e **Val Cannobina**, in breve (10 minuti) siamo all'**Ape Ompio** (990m).
 
-![Rifugio_**Ompio**.jpg](images_17/Rifugio_**Ompio**.jpg)
+![Rifugio_Ompio.jpg](images_17/Rifugio_**Ompio**.jpg)
 
 L'**Alpe Ompio**, caratterizzato per il rifugio gestito A. Fantoli del CAI Pallanza (per informazioni tel. 330/206003), è costituito da un buon numero di baite ancora ben conservate. Qui potremmo rifocillarci al ritorno. Proprio dietro il rifugio parte il sentiero per la nostra meta, attraversa subito un gruppo di case in fantastica posizione panoramica sul lago, quindi riprende a salire diagonalmente immersi tra i castagni, raggiungendo in poco tempo (20/30 min) una sella (con una grande croce sulla destra) sul costolone che divide **Ompio** dalla **Val Grande**. Qui il sentiero si divide, dritti si va a **Corte Bue**, noi svoltiamo a sinistra e iniziamo a salire nella faggeta. Dove il pendio si alza sotto i piedi, il percorso sempre ben segnalato dai colori bianco-rosso del CAI, e da cippi e leggii, diventa più impegnativo. Seguendo tracce tra bosco e terreno aperto, circa a tre quarti della ripida ascesa ci taglia orizzontalmente la strada un sentiero dove è posizionata anche una bacheca. Ignoriamo il sentiero incrociato, e in breve continuando a salire guadagnamo la vetta del **Monte Faiè**(1352m) ( 1h/1.15h).
 

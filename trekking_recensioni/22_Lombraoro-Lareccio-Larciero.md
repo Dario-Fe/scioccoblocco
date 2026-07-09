@@ -1,5 +1,5 @@
 ---
-title: Valle Antrona
+title: Circuito Lombraoro-Lareccio-Campiccioli
 valle: Valle Antrona
 data: "18 giugno 2005"
 difficolta: E
@@ -65,5 +65,3 @@ La discesa è simile alla salita che ci ha portato a Lareccio, nella prima parte
 ![](images_22/flavio.jpg)
 
 ![](images_22/francescoacquatico.jpg)
-
-Scarica la recensione

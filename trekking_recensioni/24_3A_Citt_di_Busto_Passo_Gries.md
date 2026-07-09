@@ -1,5 +1,5 @@
 ---
-title: 3A Citt di Busto Passo Gries
+title: 3A - Città di Busto - Passo Gries
 valle: Val Formazza
 data: "2 luglio 2005"
 difficolta: EE
@@ -167,12 +167,5 @@ adesso non ci resta che percorrere la larga strada sterrata
 che ci condurrà sul lago di
 Morasco e poi alla macchina.
 
-Scarica recensione
 
-**Un
-ringraziamento a Flavio,Stefano e Fabrizio**
-
-
-
-
-
+**Un ringraziamento a Flavio,Stefano e Fabrizio**

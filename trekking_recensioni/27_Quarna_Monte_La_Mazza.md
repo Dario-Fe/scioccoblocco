@@ -25,14 +25,9 @@ come_raggiungere: |
    strada a sinistra seguendo le indicazioni per Camasca, arrivati 
    in cima si lascia la macchina nel parcheggio sterrato a 
    destra prima della cappelletta.
-   
-  Si segue l'asfalto fino al bivio e si gira a sinistra sulla 
-   ampia sterrata e 
-   si prosegue seguendo le indicazioni per Monte 
-   Croce;girando a destra al bivio imboccheremmo 
-   un bel sentiero da fare in MTB che ci porterebbe fino a 
-   Quarna Sopra.
 ---
+
+Si segue l'asfalto fino al bivio e si gira a sinistra sulla ampia sterrata e si prosegue seguendo le indicazioni per Monte Croce;girando a destra al bivio imboccheremmo un bel sentiero da fare in MTB che ci porterebbe fino a Quarna Sopra.
 
 ![inizio.jpg](images_27/inizio.jpg)
 

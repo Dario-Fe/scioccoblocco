@@ -110,11 +110,3 @@ dove possiamo rinfrescarci in uno dei rifugi.
 Escursione di media difficoltà che può diventare
 impegnativa in caso di temperature elevate a causa della
 poca vegetazione negli abbondanti tratti sopra quota 1800m.
-
-Scarica
-recensione
-
-
-
-
-

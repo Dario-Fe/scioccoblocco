@@ -38,7 +38,7 @@ Il **Monte Faiè**, è uno dei più bei punti panoramici nonchè facilmente ragg
 
 In parte sterrata e in parte pavimentata con ciottoli, la strada agricola sale rapidamente al margine di un bosco, alla nostra destra possiamo già scorgere ben delineate le creste che dividono la **Val Pogallo** dalla **Vall'Intrasca** e **Val Cannobina**, in breve (10 minuti) siamo all'**Ape Ompio** (990m).
 
-![**Rifugio**_**Ompio**.jpg](images_11/**Rifugio**_**Ompio**.jpg)
+![Rifugio_Ompio.jpg](images_11/Rifugio_Ompio.jpg)
 
 L'**Alpe Ompio**, caratterizzato per il rifugio gestito A. Fantoli del CAI Pallanza (per informazioni tel. 330/206003), è costituito da un buon numero di baite ancora ben conservate. Qui potremmo rifocillarci al ritorno. Proprio dietro il rifugio parte il sentiero per la nostra meta, attraversa subito un gruppo di case in fantastica posizione panoramica sul lago, quindi riprende a salire diagonalmente immersi tra i castagni, raggiungendo in poco tempo (20/30 min) una sella (con una grande croce sulla destra) sul costolone che divide **Ompio** dalla **Val Grande**. Qui il sentiero si divide, dritti si va a **Corte Bue**, noi svoltiamo a sinistra e iniziamo a salire nella faggeta. Dove il pendio si alza sotto i piedi, il percorso sempre ben segnalato dai colori bianco-rosso del CAI, e da cippi e leggii, diventa più impegnativo. Seguendo tracce tra bosco e terreno aperto guadagnamo la vetta del **Monte Faiè**(1352m) ( 1h/1.15h).
 
@@ -54,6 +54,6 @@ Possiamo infatti vedere giù in basso a destra **Cicogna** capitale della **Val 
 
 Da qui si può ammirare la faggeta da cui appunto *Faiè*, che ricopre il versante est e che abbiamo attraversato all'andata, mentre il resto del monte è formato da prati aperti. Mentre sotto di noi davanti al sentiero riappare l'**Alpe Ompio** e il **Rifugio**.
 
-![Alpe**Ompio**.jpg](images_11/Alpe**Ompio**.jpg)
+![AlpeOmpio.jpg](images_11/AlpeOmpio.jpg)
 
 Scendiamo tra i pioppi ad intersecare un altro sentiero, a sinistra torniamo all'**Alpe Ompio**, noi andiamo a destra e subito dopo scendiamo nel bosco a sinistra il sentiero con una larga curva ci riporta sulla strada agricola percorsa alla partenza. Verso sinistra si risale al rifugio a destra in pochi minuti superata la fontana torniamo sulla carrabile dove ci attende la macchina (2h/2.30h dalla partenza). Abbiamo completato una facile escursione sulle montagne della predera, dal nome delle cave di marmo, ma di grande appagamento panoramico e storico.
